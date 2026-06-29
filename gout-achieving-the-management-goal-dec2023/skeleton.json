@@ -1,0 +1,134 @@
+{
+  "top_sections": [
+    "Overview",
+    "Ensuring long-term management",
+    "Management of acute flares",
+    "References"
+  ],
+  "recommendations": [
+    {
+      "title": "Recommendation 1",
+      "parent_section": "Management of acute flares"
+    },
+    {
+      "title": "Recommendation 2",
+      "parent_section": "Management of acute flares"
+    },
+    {
+      "title": "Recommendation 3",
+      "parent_section": "Management of acute flares"
+    },
+    {
+      "title": "Recommendation 4",
+      "parent_section": "Management of acute flares"
+    }
+  ],
+  "sub_sections": [
+    {
+      "title": "Objective",
+      "parent_section": "Overview"
+    },
+    {
+      "title": "Scope",
+      "parent_section": "Overview"
+    },
+    {
+      "title": "Target audience",
+      "parent_section": "Overview"
+    },
+    {
+      "title": "Statement of Intent",
+      "parent_section": "Overview"
+    },
+    {
+      "title": "Lifestyle management",
+      "parent_section": "Ensuring long-term management"
+    },
+    {
+      "title": "ULT",
+      "parent_section": "Ensuring long-term management"
+    },
+    {
+      "title": "Management of comorbidities",
+      "parent_section": "Ensuring long-term management"
+    },
+    {
+      "title": "Specialist referral",
+      "parent_section": "Ensuring long-term management"
+    },
+    {
+      "title": "Patient education",
+      "parent_section": "Ensuring long-term management"
+    },
+    {
+      "title": "ULT for gout management",
+      "parent_section": "Management of acute flares"
+    },
+    {
+      "title": "Using ULT to achieve the management goal",
+      "parent_section": "Management of acute flares"
+    },
+    {
+      "title": "Allopurinol in renal impairment",
+      "parent_section": "Management of acute flares"
+    },
+    {
+      "title": "Addressing clinical precautions of using ULT",
+      "parent_section": "Management of acute flares"
+    },
+    {
+      "title": "Prophylaxis against acute flares during initial period of ULT",
+      "parent_section": "Management of acute flares"
+    },
+    {
+      "title": "Colchicine adverse effects and interactions",
+      "parent_section": "Management of acute flares"
+    },
+    {
+      "title": "Anti-inflammatory medications in renal impairment",
+      "parent_section": "Management of acute flares"
+    },
+    {
+      "title": "Understanding severe cutaneous adverse reactions (SCARs) in ULT",
+      "parent_section": "Management of acute flares"
+    },
+    {
+      "title": "Managing acute flares",
+      "parent_section": "Management of acute flares"
+    },
+    {
+      "title": "Low-dose colchicine for acute flares",
+      "parent_section": "Management of acute flares"
+    },
+    {
+      "title": "Patient education aid 1: gout and healthy lifestyle",
+      "parent_section": "Management of acute flares"
+    },
+    {
+      "title": "Patient education aid 2: severe cutaneous adverse reactions (SCARs) in urate-lowering therapy (ULT)",
+      "parent_section": "Management of acute flares"
+    }
+  ],
+  "tables": [
+    {
+      "title": "Table 1. ULT treatment criteria",
+      "parent_section": "Management of acute flares"
+    },
+    {
+      "title": "Table 2. Key clinical precautions with ULT*",
+      "parent_section": "Management of acute flares"
+    }
+  ],
+  "figures": [
+    {
+      "title": "Figure 1 on page 3 provides an overview of long-term management of gout.",
+      "parent_section": "Ensuring long-term management"
+    }
+  ],
+  "meta": {
+    "source": "ACE CLINICAL GUIDANCE",
+    "published": "First Published: 20 December 2019. Last Updated: 14 December 2023",
+    "url": "www.ace-hta.gov.sg",
+    "title": "Gout. Achieving the management goal"
+  }
+}

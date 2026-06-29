@@ -1,0 +1,98 @@
+{
+  "top_sections": [
+    "Overview",
+    "Treatment initiation",
+    "Duration of treatment",
+    "References"
+  ],
+  "recommendations": [
+    {
+      "title": "Recommendation 1",
+      "parent_section": "Treatment initiation"
+    },
+    {
+      "title": "Recommendation 2",
+      "parent_section": "Treatment initiation"
+    },
+    {
+      "title": "Recommendation 3",
+      "parent_section": "Duration of treatment"
+    }
+  ],
+  "sub_sections": [
+    {
+      "title": "Objective",
+      "parent_section": "Overview"
+    },
+    {
+      "title": "Scope",
+      "parent_section": "Overview"
+    },
+    {
+      "title": "Target audience",
+      "parent_section": "Overview"
+    },
+    {
+      "title": "Statement of Intent",
+      "parent_section": "Overview"
+    },
+    {
+      "title": "Isolated distal DVT",
+      "parent_section": "Treatment initiation"
+    },
+    {
+      "title": "Choice of anticoagulation therapy",
+      "parent_section": "Treatment initiation"
+    },
+    {
+      "title": "Patients at the extremes of body weight",
+      "parent_section": "Treatment initiation"
+    },
+    {
+      "title": "Patients with severe renal impairment",
+      "parent_section": "Treatment initiation"
+    },
+    {
+      "title": "Patients with liver disease and coagulopathy",
+      "parent_section": "Treatment initiation"
+    },
+    {
+      "title": "Frequency of review for patients on extended treatment",
+      "parent_section": "Duration of treatment"
+    },
+    {
+      "title": "Check for:",
+      "parent_section": "Duration of treatment"
+    },
+    {
+      "title": "Patients who are in cancer remission",
+      "parent_section": "Duration of treatment"
+    },
+    {
+      "title": "Switching between anticoagulants",
+      "parent_section": "Duration of treatment"
+    }
+  ],
+  "tables": [
+    {
+      "title": "Table 1. Characteristics of anticoagulants registered in Singapore (adapted from local product information leaflets)",
+      "parent_section": "Duration of treatment"
+    }
+  ],
+  "figures": [
+    {
+      "title": "Figure 1. Selecting an appropriate anticoagulant and duration for VTE treatment",
+      "parent_section": "Treatment initiation"
+    },
+    {
+      "title": "Figure 2. Risk of VTE recurrence",
+      "parent_section": "Duration of treatment"
+    }
+  ],
+  "meta": {
+    "source": "ACE CLINICAL GUIDANCE",
+    "published": "First Published: 28 May 2018",
+    "url": "www.ace-hta.gov.sg",
+    "title": "Venous thromboembolism. Treating with the appropriate anticoagulant and duration"
+  }
+}

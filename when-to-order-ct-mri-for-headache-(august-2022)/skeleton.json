@@ -1,0 +1,99 @@
+{
+  "top_sections": [
+    "Overview",
+    "Overall approach to headache assessment",
+    "CT/MRI for primary headaches",
+    "CT/MRI for secondary headaches",
+    "Choosing between CT and MRI",
+    "References"
+  ],
+  "recommendations": [
+    {
+      "title": "Recommendation 1",
+      "parent_section": "Overall approach to headache assessment"
+    },
+    {
+      "title": "Recommendation 2",
+      "parent_section": "CT/MRI for primary headaches"
+    },
+    {
+      "title": "Recommendation 3",
+      "parent_section": "Choosing between CT and MRI"
+    },
+    {
+      "title": "Recommendation 4",
+      "parent_section": "Choosing between CT and MRI"
+    },
+    {
+      "title": "Recommendation 5",
+      "parent_section": "Choosing between CT and MRI"
+    },
+    {
+      "title": "Recommendation 6",
+      "parent_section": "Choosing between CT and MRI"
+    }
+  ],
+  "sub_sections": [
+    {
+      "title": "Objective",
+      "parent_section": "Overview"
+    },
+    {
+      "title": "Scope",
+      "parent_section": "Overview"
+    },
+    {
+      "title": "Target audience",
+      "parent_section": "Overview"
+    },
+    {
+      "title": "Statement of Intent",
+      "parent_section": "Overview"
+    },
+    {
+      "title": "Patients with migraine or TTH, without red flags",
+      "parent_section": "Overall approach to headache assessment"
+    },
+    {
+      "title": "When to reconsider the diagnosis of migraine or TTH",
+      "parent_section": "Overall approach to headache assessment"
+    },
+    {
+      "title": "Patients with cluster headache or other trigeminal autonomic cephalalgias, without red flags",
+      "parent_section": "CT/MRI for primary headaches"
+    },
+    {
+      "title": "Patients with sudden, severe headache",
+      "parent_section": "Choosing between CT and MRI"
+    },
+    {
+      "title": "Patients with headache and cancer or infection (suspected or known)",
+      "parent_section": "Choosing between CT and MRI"
+    },
+    {
+      "title": "Patients with post-traumatic headache",
+      "parent_section": "Choosing between CT and MRI"
+    },
+    {
+      "title": "Patients with new headache accompanied by red flags, or with worsening headache",
+      "parent_section": "Choosing between CT and MRI"
+    },
+    {
+      "title": "Headache and sinusitis",
+      "parent_section": "Choosing between CT and MRI"
+    }
+  ],
+  "tables": [
+    {
+      "title": "Table 1. SNNOOP10 list of red flags for secondary headaches",
+      "parent_section": "CT/MRI for secondary headaches"
+    }
+  ],
+  "figures": [],
+  "meta": {
+    "source": "ACE CLINICAL GUIDANCE",
+    "published": "Published: 31 August 2022",
+    "url": "www.ace-hta.gov.sg",
+    "title": "When to order. CT/MRI for headache"
+  }
+}

@@ -1,0 +1,222 @@
+{
+  "top_sections": [
+    "Overview",
+    "Clinical needs assessment",
+    "Pharmacological treatment",
+    "Monitoring and follow-up",
+    "References"
+  ],
+  "recommendations": [
+    {
+      "title": "Recommendation 1",
+      "parent_section": "Clinical needs assessment"
+    },
+    {
+      "title": "Recommendation 2",
+      "parent_section": "Pharmacological treatment"
+    },
+    {
+      "title": "Recommendation 3",
+      "parent_section": "Pharmacological treatment"
+    },
+    {
+      "title": "Recommendation 4",
+      "parent_section": "Pharmacological treatment"
+    },
+    {
+      "title": "Recommendation 5",
+      "parent_section": "Pharmacological treatment"
+    },
+    {
+      "title": "Recommendation 6",
+      "parent_section": "Pharmacological treatment"
+    },
+    {
+      "title": "Recommendation 7",
+      "parent_section": "Monitoring and follow-up"
+    }
+  ],
+  "sub_sections": [
+    {
+      "title": "Objective",
+      "parent_section": "Overview"
+    },
+    {
+      "title": "Scope",
+      "parent_section": "Overview"
+    },
+    {
+      "title": "Target audience",
+      "parent_section": "Overview"
+    },
+    {
+      "title": "Statement of Intent",
+      "parent_section": "Overview"
+    },
+    {
+      "title": "Assess the patient's glycaemic control and risk of adverse cardiorenal outcomes.",
+      "parent_section": "Clinical needs assessment"
+    },
+    {
+      "title": "Glycaemic control",
+      "parent_section": "Clinical needs assessment"
+    },
+    {
+      "title": "Glycated haemoglobin (HbA target",
+      "parent_section": "Clinical needs assessment"
+    },
+    {
+      "title": "Risk of adverse cardiorenal outcomes",
+      "parent_section": "Clinical needs assessment"
+    },
+    {
+      "title": "Lifestyle intervention: a cornerstone of successful T2DM management",
+      "parent_section": "Pharmacological treatment"
+    },
+    {
+      "title": "Insulin and T2DM",
+      "parent_section": "Pharmacological treatment"
+    },
+    {
+      "title": "Dual focus in T2DM management",
+      "parent_section": "Pharmacological treatment"
+    },
+    {
+      "title": "Other considerations for T2DM medication selection",
+      "parent_section": "Pharmacological treatment"
+    },
+    {
+      "title": "SCENARIO 1*",
+      "parent_section": "Pharmacological treatment"
+    },
+    {
+      "title": "Glycaemic control",
+      "parent_section": "Pharmacological treatment"
+    },
+    {
+      "title": "Benefits of metformin",
+      "parent_section": "Pharmacological treatment"
+    },
+    {
+      "title": "Managing the gastrointestinal side effects of metformin",
+      "parent_section": "Pharmacological treatment"
+    },
+    {
+      "title": "Comparison to other T2DM medications as monotherapy",
+      "parent_section": "Pharmacological treatment"
+    },
+    {
+      "title": "Consideration for starting with dual therapy",
+      "parent_section": "Pharmacological treatment"
+    },
+    {
+      "title": "Cardiorenal benefits of SGLT2 inhibitors and GLP-1 RAs",
+      "parent_section": "Pharmacological treatment"
+    },
+    {
+      "title": "Reducing major adverse cardiovascular events",
+      "parent_section": "Pharmacological treatment"
+    },
+    {
+      "title": "Reducing hospitalisation for heart failure",
+      "parent_section": "Pharmacological treatment"
+    },
+    {
+      "title": "Reducing adverse renal outcomes",
+      "parent_section": "Pharmacological treatment"
+    },
+    {
+      "title": "Cardiovascular outcome trials (CVOTs)",
+      "parent_section": "Pharmacological treatment"
+    },
+    {
+      "title": "Patients requiring cardiorenal risk reduction",
+      "parent_section": "Pharmacological treatment"
+    },
+    {
+      "title": "Other considerations before prescribing SGLT2 inhibitors or GLP-1 RAs",
+      "parent_section": "Pharmacological treatment"
+    },
+    {
+      "title": "Safety considerations",
+      "parent_section": "Pharmacological treatment"
+    },
+    {
+      "title": "Risk of hypoglycaemia",
+      "parent_section": "Pharmacological treatment"
+    },
+    {
+      "title": "Precautions",
+      "parent_section": "Pharmacological treatment"
+    },
+    {
+      "title": "Impact on weight",
+      "parent_section": "Pharmacological treatment"
+    },
+    {
+      "title": "Cost and affordability",
+      "parent_section": "Pharmacological treatment"
+    },
+    {
+      "title": "Route of administration and dosing frequency",
+      "parent_section": "Pharmacological treatment"
+    },
+    {
+      "title": "When glycaemic control is the priority...",
+      "parent_section": "Pharmacological treatment"
+    },
+    {
+      "title": "Patient involvement and education",
+      "parent_section": "Pharmacological treatment"
+    },
+    {
+      "title": "Areas of discussion",
+      "parent_section": "Pharmacological treatment"
+    },
+    {
+      "title": "Examples of patient-centred approach",
+      "parent_section": "Pharmacological treatment"
+    },
+    {
+      "title": "Patient-centred care and shared decision-making",
+      "parent_section": "Pharmacological treatment"
+    },
+    {
+      "title": "Empower the patient to adopt a sustained healthy lifestyle",
+      "parent_section": "Pharmacological treatment"
+    },
+    {
+      "title": "Encourage the patient to adhere to their T2DM medications",
+      "parent_section": "Pharmacological treatment"
+    },
+    {
+      "title": "Engage the patient in a cycle of regular reviews",
+      "parent_section": "Pharmacological treatment"
+    },
+    {
+      "title": "Recognising poor adherence to diabetes medications in practice",
+      "parent_section": "Pharmacological treatment"
+    },
+    {
+      "title": "Review parameters and frequency",
+      "parent_section": "Monitoring and follow-up"
+    },
+    {
+      "title": "Interdisciplinary care",
+      "parent_section": "Monitoring and follow-up"
+    }
+  ],
+  "tables": [],
+  "figures": [
+    {
+      "title": "Figure 1: Personalising T2DM medications",
+      "parent_section": "Clinical needs assessment"
+    }
+  ],
+  "meta": {
+    "source": "ACE CLINICAL GUIDANCE",
+    "published": "Published: 17 May 2023",
+    "url": "www.ace-hta.gov.sg",
+    "title": "Type 2 diabetes mellitus. Personalising management with non-insulin medications"
+  }
+}

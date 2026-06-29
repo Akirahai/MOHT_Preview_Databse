@@ -1,0 +1,160 @@
+{
+  "top_sections": [
+    "Overview",
+    "Assessment",
+    "Management",
+    "Monitoring and follow-up",
+    "Supplementary",
+    "References"
+  ],
+  "recommendations": [
+    {
+      "title": "Recommendation 1",
+      "parent_section": "Assessment"
+    },
+    {
+      "title": "Recommendation 2",
+      "parent_section": "Management"
+    },
+    {
+      "title": "Recommendation 3",
+      "parent_section": "Management"
+    },
+    {
+      "title": "Recommendation 4",
+      "parent_section": "Management"
+    },
+    {
+      "title": "Recommendation 5",
+      "parent_section": "Management"
+    },
+    {
+      "title": "Recommendation 6",
+      "parent_section": "Monitoring and follow-up"
+    }
+  ],
+  "sub_sections": [
+    {
+      "title": "Objective",
+      "parent_section": "Overview"
+    },
+    {
+      "title": "Scope",
+      "parent_section": "Overview"
+    },
+    {
+      "title": "Target audience",
+      "parent_section": "Overview"
+    },
+    {
+      "title": "Statement of Intent",
+      "parent_section": "Overview"
+    },
+    {
+      "title": "Clinic and non-clinic BP readings",
+      "parent_section": "Overview"
+    },
+    {
+      "title": "Identify risk factors that increase the risk of CVD. This includes:",
+      "parent_section": "Assessment"
+    },
+    {
+      "title": "Use calculators to estimate the patient's 10-year risk using modifiable and non-modifiable risk factors, including age, sex, and smoking status",
+      "parent_section": "Assessment"
+    },
+    {
+      "title": "Care for patients with comorbidities",
+      "parent_section": "Assessment"
+    },
+    {
+      "title": "Consider secondary causes of hypertension",
+      "parent_section": "Assessment"
+    },
+    {
+      "title": "BP targets for patients with hypertension",
+      "parent_section": "Management"
+    },
+    {
+      "title": "Benefits of lifestyle intervention",
+      "parent_section": "Management"
+    },
+    {
+      "title": "When to initiate pharmacotherapy",
+      "parent_section": "Management"
+    },
+    {
+      "title": "Choosing pharmacotherapy",
+      "parent_section": "Management"
+    },
+    {
+      "title": "Considerations before intensification",
+      "parent_section": "Management"
+    },
+    {
+      "title": "Strategies to encourage and support adherence",
+      "parent_section": "Management"
+    },
+    {
+      "title": "Considerations for specialist referral",
+      "parent_section": "Management"
+    },
+    {
+      "title": "Resistant hypertension",
+      "parent_section": "Management"
+    },
+    {
+      "title": "Clinical utility and approach to home BP monitoring",
+      "parent_section": "Monitoring and follow-up"
+    },
+    {
+      "title": "A general reference for corresponding values of clinic and non-clinic BP readings",
+      "parent_section": "Monitoring and follow-up"
+    }
+  ],
+  "tables": [
+    {
+      "title": "Table 1. Guide to setting BP targets",
+      "parent_section": "Management"
+    },
+    {
+      "title": "Table 2. Considerations for choosing a first-line antihypertensive class (adapted from product information leaflets; see Supplementary Table S1 for further details on specific agents)",
+      "parent_section": "Management"
+    },
+    {
+      "title": "Table 3. Prescribing considerations for cardioselective and non-selective beta blockers",
+      "parent_section": "Management"
+    },
+    {
+      "title": "Table 4. Common antihypertensive combinations to consider avoiding due to their associated risks",
+      "parent_section": "Management"
+    },
+    {
+      "title": "Table 5. Corresponding values of clinic versus non-clinic BP readings (mmHg).",
+      "parent_section": "Monitoring and follow-up"
+    },
+    {
+      "title": "Table S1. Commonly used BP-lowering medication classes registered in Singapore",
+      "parent_section": "Supplementary"
+    },
+    {
+      "title": "Table S2. List of single-pill combinations registered in Singapore",
+      "parent_section": "Supplementary"
+    }
+  ],
+  "figures": [
+    {
+      "title": "Figure 1. Summary of the estimated risk reductions due to BP reduction",
+      "parent_section": "Management"
+    },
+    {
+      "title": "Figure 2. General guide to initiation of pharmacotherapy in patients with elevated BP (see Recommendations 2 to 5)",
+      "parent_section": "Management"
+    }
+  ],
+  "meta": {
+    "source": "ACE CLINICAL GUIDANCE",
+    "published": "Published: 15 December 2023",
+    "url": "www.ace-hta.gov.sg",
+    "title": "Hypertension. Tailoring the management plan to optimise blood pressure control"
+  }
+}

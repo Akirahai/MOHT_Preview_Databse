@@ -1,0 +1,169 @@
+{
+  "top_sections": [
+    "Overview",
+    "Angina/ischaemia with non-obstructive coronary arteries",
+    "Management of comorbid or associated conditions",
+    "Assessment of acute exacerbation of chest pain in patients with CCS",
+    "Lifestyle",
+    "Follow-up and monitoring",
+    "References"
+  ],
+  "recommendations": [
+    {
+      "title": "Recommendation 1a",
+      "parent_section": "Angina/ischaemia with non-obstructive coronary arteries"
+    },
+    {
+      "title": "Recommendation 1b",
+      "parent_section": "Angina/ischaemia with non-obstructive coronary arteries"
+    },
+    {
+      "title": "Recommendation 2",
+      "parent_section": "Angina/ischaemia with non-obstructive coronary arteries"
+    },
+    {
+      "title": "Recommendation 3a",
+      "parent_section": "Angina/ischaemia with non-obstructive coronary arteries"
+    },
+    {
+      "title": "Recommendation 3b",
+      "parent_section": "Angina/ischaemia with non-obstructive coronary arteries"
+    },
+    {
+      "title": "Recommendation 4",
+      "parent_section": "Management of comorbid or associated conditions"
+    },
+    {
+      "title": "Recommendation 5",
+      "parent_section": "Lifestyle"
+    },
+    {
+      "title": "Recommendation 6",
+      "parent_section": "Follow-up and monitoring"
+    }
+  ],
+  "sub_sections": [
+    {
+      "title": "Objective",
+      "parent_section": "Overview"
+    },
+    {
+      "title": "Scope",
+      "parent_section": "Overview"
+    },
+    {
+      "title": "Target audience",
+      "parent_section": "Overview"
+    },
+    {
+      "title": "Statement of Intent",
+      "parent_section": "Overview"
+    },
+    {
+      "title": "Antiplatelet therapy for patients with CCS",
+      "parent_section": "Angina/ischaemia with non-obstructive coronary arteries"
+    },
+    {
+      "title": "Low-dose aspirin",
+      "parent_section": "Angina/ischaemia with non-obstructive coronary arteries"
+    },
+    {
+      "title": "Patient education aids",
+      "parent_section": "Angina/ischaemia with non-obstructive coronary arteries"
+    },
+    {
+      "title": "Clopidogrel and other P2Y12 inhibitors",
+      "parent_section": "Angina/ischaemia with non-obstructive coronary arteries"
+    },
+    {
+      "title": "Clopidogrel genetic testing",
+      "parent_section": "Angina/ischaemia with non-obstructive coronary arteries"
+    },
+    {
+      "title": "Need for further collaborative care",
+      "parent_section": "Angina/ischaemia with non-obstructive coronary arteries"
+    },
+    {
+      "title": "Oral anticoagulant therapy for patients with CCS and new-onset AF",
+      "parent_section": "Angina/ischaemia with non-obstructive coronary arteries"
+    },
+    {
+      "title": "Patients with type 2 diabetes mellitus (T2DM)",
+      "parent_section": "Management of comorbid or associated conditions"
+    },
+    {
+      "title": "Patients with dyslipidaemia",
+      "parent_section": "Management of comorbid or associated conditions"
+    },
+    {
+      "title": "Patients with hypertension",
+      "parent_section": "Management of comorbid or associated conditions"
+    },
+    {
+      "title": "Patients with chronic kidney disease (CKD)",
+      "parent_section": "Management of comorbid or associated conditions"
+    },
+    {
+      "title": "Patients with chronic heart failure (CHF)",
+      "parent_section": "Management of comorbid or associated conditions"
+    },
+    {
+      "title": "Physical activity",
+      "parent_section": "Lifestyle"
+    },
+    {
+      "title": "Aerobic exercise",
+      "parent_section": "Lifestyle"
+    },
+    {
+      "title": "Resistance training",
+      "parent_section": "Lifestyle"
+    },
+    {
+      "title": "Exercise contraindications",
+      "parent_section": "Lifestyle"
+    },
+    {
+      "title": "Smoking cessation",
+      "parent_section": "Lifestyle"
+    },
+    {
+      "title": "Diet",
+      "parent_section": "Lifestyle"
+    }
+  ],
+  "tables": [
+    {
+      "title": "Box 1. Modified CHA  DS  VASc score",
+      "parent_section": "Angina/ischaemia with non-obstructive coronary arteries"
+    },
+    {
+      "title": "Table 1. Examples of locally registered medications for immediate symptom relief and prevention of angina",
+      "parent_section": "Assessment of acute exacerbation of chest pain in patients with CCS"
+    },
+    {
+      "title": "Table 2. Example of exercise routine",
+      "parent_section": "Lifestyle"
+    },
+    {
+      "title": "Table 3. Lifestyle advice for patients with CCS",
+      "parent_section": "Lifestyle"
+    }
+  ],
+  "figures": [
+    {
+      "title": "Figure 1. Clinical presentations of chronic coronary syndrome",
+      "parent_section": "Overview"
+    },
+    {
+      "title": "Figure 3. Distinguishing cardiac and non-cardiac chest discomfort and dyspnoea",
+      "parent_section": "Assessment of acute exacerbation of chest pain in patients with CCS"
+    }
+  ],
+  "meta": {
+    "source": "ACE CLINICAL GUIDANCE",
+    "published": "Published: 26 March 2025",
+    "url": "www.ace-hta.gov.sg",
+    "title": "Management of chronic coronary syndrome"
+  }
+}

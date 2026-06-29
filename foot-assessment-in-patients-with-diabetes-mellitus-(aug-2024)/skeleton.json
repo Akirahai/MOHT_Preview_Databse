@@ -1,0 +1,83 @@
+{
+  "top_sections": [
+    "Overview",
+    "Foot assessment",
+    "Referral",
+    "Review",
+    "Patient education",
+    "References"
+  ],
+  "recommendations": [
+    {
+      "title": "Recommendation 1",
+      "parent_section": "Foot assessment"
+    },
+    {
+      "title": "Recommendation 2",
+      "parent_section": "Foot assessment"
+    },
+    {
+      "title": "Recommendation 3",
+      "parent_section": "Patient education"
+    }
+  ],
+  "sub_sections": [
+    {
+      "title": "Objective",
+      "parent_section": "Overview"
+    },
+    {
+      "title": "Scope",
+      "parent_section": "Overview"
+    },
+    {
+      "title": "Target audience",
+      "parent_section": "Overview"
+    },
+    {
+      "title": "Statement of Intent",
+      "parent_section": "Overview"
+    },
+    {
+      "title": "Risk stratification",
+      "parent_section": "Foot assessment"
+    },
+    {
+      "title": "Practice point",
+      "parent_section": "Foot assessment"
+    },
+    {
+      "title": "Other factors of foot assessment",
+      "parent_section": "Foot assessment"
+    },
+    {
+      "title": "Importance of comprehensive management",
+      "parent_section": "Foot assessment"
+    }
+  ],
+  "tables": [],
+  "figures": [
+    {
+      "title": "Figure 1. Active diabetic foot presentation and management",
+      "parent_section": "Foot assessment"
+    },
+    {
+      "title": "Figure 2. Risk stratification based on clinical findings from foot assessment in patients with diabetes mellitus (For features of active diabetic foot conditions, see Figure 1)",
+      "parent_section": "Review"
+    },
+    {
+      "title": "Figure 3. Foot examination and main objective tests for risk stratification",
+      "parent_section": "Review"
+    },
+    {
+      "title": "Figure 4. Patient education aid on foot care and footwear",
+      "parent_section": "Patient education"
+    }
+  ],
+  "meta": {
+    "source": "ACE CLINICAL GUIDANCE",
+    "published": "First Published: 6 June 2019",
+    "url": "www.ace-hta.gov.sg",
+    "title": "Foot assessment in patients with diabetes mellitus"
+  }
+}

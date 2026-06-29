@@ -1,0 +1,154 @@
+{
+  "top_sections": [
+    "Overview",
+    "Assessment and diagnosis of UTI",
+    "Management of UTI",
+    "References"
+  ],
+  "recommendations": [
+    {
+      "title": "Recommendation 1",
+      "parent_section": "Assessment and diagnosis of UTI"
+    },
+    {
+      "title": "Recommendation 2",
+      "parent_section": "Assessment and diagnosis of UTI"
+    },
+    {
+      "title": "Recommendation 3",
+      "parent_section": "Assessment and diagnosis of UTI"
+    },
+    {
+      "title": "Recommendation 4",
+      "parent_section": "Assessment and diagnosis of UTI"
+    },
+    {
+      "title": "Recommendation 5",
+      "parent_section": "Assessment and diagnosis of UTI"
+    },
+    {
+      "title": "Recommendation 6",
+      "parent_section": "Management of UTI"
+    },
+    {
+      "title": "Recommendation 7",
+      "parent_section": "Management of UTI"
+    }
+  ],
+  "sub_sections": [
+    {
+      "title": "Objective",
+      "parent_section": "Overview"
+    },
+    {
+      "title": "Scope",
+      "parent_section": "Overview"
+    },
+    {
+      "title": "Target audience",
+      "parent_section": "Overview"
+    },
+    {
+      "title": "Statement of Intent",
+      "parent_section": "Overview"
+    },
+    {
+      "title": "Examples of differential diagnoses for cystitis",
+      "parent_section": "Assessment and diagnosis of UTI"
+    },
+    {
+      "title": "Risk factors associated with healthy pre-menopausal women",
+      "parent_section": "Assessment and diagnosis of UTI"
+    },
+    {
+      "title": "Other risk factors",
+      "parent_section": "Assessment and diagnosis of UTI"
+    },
+    {
+      "title": "Other populations",
+      "parent_section": "Assessment and diagnosis of UTI"
+    },
+    {
+      "title": "Urine dipstick",
+      "parent_section": "Assessment and diagnosis of UTI"
+    },
+    {
+      "title": "Urine culture and sensitivity",
+      "parent_section": "Assessment and diagnosis of UTI"
+    },
+    {
+      "title": "Other populations",
+      "parent_section": "Assessment and diagnosis of UTI"
+    },
+    {
+      "title": "Role of imaging in uncomplicated pyelonephritis",
+      "parent_section": "Assessment and diagnosis of UTI"
+    },
+    {
+      "title": "Treatment decision and selection of antibiotics",
+      "parent_section": "Management of UTI"
+    },
+    {
+      "title": "Do NSAIDs play a role in acute uncomplicated cystitis?",
+      "parent_section": "Management of UTI"
+    },
+    {
+      "title": "Patient self-care",
+      "parent_section": "Management of UTI"
+    },
+    {
+      "title": "Patient self-care advice",
+      "parent_section": "Management of UTI"
+    },
+    {
+      "title": "Patient education on antibiotic use and antimicrobial resistance awareness",
+      "parent_section": "Management of UTI"
+    },
+    {
+      "title": "Other populations",
+      "parent_section": "Management of UTI"
+    },
+    {
+      "title": "Considerations for referral",
+      "parent_section": "Management of UTI"
+    }
+  ],
+  "tables": [
+    {
+      "title": "Table 1. Examples of risk factors for cystitis",
+      "parent_section": "Assessment and diagnosis of UTI"
+    },
+    {
+      "title": "Table 2. Acute cystitis – role and indication for urine tests",
+      "parent_section": "Assessment and diagnosis of UTI"
+    },
+    {
+      "title": "Table 3. Acute pyelonephritis – role and indication for urine tests",
+      "parent_section": "Assessment and diagnosis of UTI"
+    },
+    {
+      "title": "Table 4. Suggested antibiotics for empirical treatment of acute uncomplicated cystitis",
+      "parent_section": "Management of UTI"
+    },
+    {
+      "title": "Table 5. Suggested antibiotics for empirical treatment of acute uncomplicated pyelonephritis",
+      "parent_section": "Management of UTI"
+    }
+  ],
+  "figures": [
+    {
+      "title": "Figure 1. Common classification of selected UTIs*",
+      "parent_section": "Overview"
+    },
+    {
+      "title": "Figure 2. Flowchart for assessing, diagnosing and treating acute uncomplicated cystitis and pyelonephritis",
+      "parent_section": "Assessment and diagnosis of UTI"
+    }
+  ],
+  "meta": {
+    "source": "ACE CLINICAL GUIDANCE",
+    "published": "First Published: 17 November 2023",
+    "url": "www.ace-hta.gov.sg",
+    "title": "Urinary tract infections"
+  }
+}

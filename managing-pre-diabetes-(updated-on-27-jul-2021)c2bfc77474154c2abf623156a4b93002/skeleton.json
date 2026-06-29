@@ -1,0 +1,114 @@
+{
+  "top_sections": [
+    "Overview",
+    "Diagnosis of pre-diabetes",
+    "Lifestyle intervention",
+    "Pharmacotherapy",
+    "References"
+  ],
+  "recommendations": [],
+  "sub_sections": [
+    {
+      "title": "Key messages",
+      "parent_section": "Overview"
+    },
+    {
+      "title": "Preventing or delaying the progression to T2DM",
+      "parent_section": "Overview"
+    },
+    {
+      "title": "Healthy diet",
+      "parent_section": "Lifestyle intervention"
+    },
+    {
+      "title": "Increased physical activity",
+      "parent_section": "Lifestyle intervention"
+    },
+    {
+      "title": "Instructions on lifestyle intervention",
+      "parent_section": "Lifestyle intervention"
+    },
+    {
+      "title": "Healthy diet",
+      "parent_section": "Lifestyle intervention"
+    },
+    {
+      "title": "Portion a healthy plate",
+      "parent_section": "Lifestyle intervention"
+    },
+    {
+      "title": "Avoid sweetened beverages and foods",
+      "parent_section": "Lifestyle intervention"
+    },
+    {
+      "title": "Eat less fat",
+      "parent_section": "Lifestyle intervention"
+    },
+    {
+      "title": "Limit alcohol intake",
+      "parent_section": "Lifestyle intervention"
+    },
+    {
+      "title": "Increased physical activity",
+      "parent_section": "Lifestyle intervention"
+    },
+    {
+      "title": "Sustained behavioural changes",
+      "parent_section": "Lifestyle intervention"
+    },
+    {
+      "title": "Tailor lifestyle intervention to individual needs",
+      "parent_section": "Lifestyle intervention"
+    },
+    {
+      "title": "Reinforce behavioural changes continuously",
+      "parent_section": "Lifestyle intervention"
+    },
+    {
+      "title": "Indication, dosing regimen, and side effects of metformin for pre-diabetes",
+      "parent_section": "Pharmacotherapy"
+    },
+    {
+      "title": "Overview of lifestyle intervention in pre-diabetes",
+      "parent_section": "Lifestyle intervention"
+    },
+    {
+      "title": "Role of lifestyle intervention",
+      "parent_section": "Lifestyle intervention"
+    },
+    {
+      "title": "Physical activity",
+      "parent_section": "Lifestyle intervention"
+    },
+    {
+      "title": "≥ 150 minutes per week",
+      "parent_section": "Lifestyle intervention"
+    },
+    {
+      "title": "≥ 75 minutes per week",
+      "parent_section": "Lifestyle intervention"
+    },
+    {
+      "title": "How to sustain lifestyle changes",
+      "parent_section": "Lifestyle intervention"
+    }
+  ],
+  "tables": [
+    {
+      "title": "Table 1. Glucose thresholds for pre-diabetes",
+      "parent_section": "Diagnosis of pre-diabetes"
+    }
+  ],
+  "figures": [
+    {
+      "title": "Figure 1. Pathway for managing pre-diabetes",
+      "parent_section": "Pharmacotherapy"
+    }
+  ],
+  "meta": {
+    "source": "Appropriate Care Guide (ACG)",
+    "published": "",
+    "url": "",
+    "title": "Managing pre-diabetes – a growing health concern"
+  }
+}

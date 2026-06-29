@@ -1,0 +1,168 @@
+{
+  "top_sections": [
+    "Overview",
+    "References"
+  ],
+  "recommendations": [
+    {
+      "title": "Recommendation 1",
+      "parent_section": "Overview"
+    },
+    {
+      "title": "Recommendation 2",
+      "parent_section": "Overview"
+    },
+    {
+      "title": "Recommendation 3",
+      "parent_section": "Overview"
+    },
+    {
+      "title": "Recommendation 4",
+      "parent_section": "Overview"
+    },
+    {
+      "title": "Recommendation 5",
+      "parent_section": "Overview"
+    },
+    {
+      "title": "Recommendation 6",
+      "parent_section": "Overview"
+    }
+  ],
+  "sub_sections": [
+    {
+      "title": "Objective",
+      "parent_section": "Overview"
+    },
+    {
+      "title": "Scope",
+      "parent_section": "Overview"
+    },
+    {
+      "title": "Target audience",
+      "parent_section": "Overview"
+    },
+    {
+      "title": "Statement of Intent",
+      "parent_section": "Overview"
+    },
+    {
+      "title": "Identifying patients who vape and approaches for vaping cessation",
+      "parent_section": "Overview"
+    },
+    {
+      "title": "Behavioural support strategies",
+      "parent_section": "Overview"
+    },
+    {
+      "title": "Obtaining support from external smoking cessation services",
+      "parent_section": "Overview"
+    },
+    {
+      "title": "Setting a quit date",
+      "parent_section": "Overview"
+    },
+    {
+      "title": "Abrupt quitting",
+      "parent_section": "Overview"
+    },
+    {
+      "title": "Combination NRT",
+      "parent_section": "Overview"
+    },
+    {
+      "title": "Varenicline",
+      "parent_section": "Overview"
+    },
+    {
+      "title": "Other pharmacological strategies",
+      "parent_section": "Overview"
+    },
+    {
+      "title": "Bupropion",
+      "parent_section": "Overview"
+    },
+    {
+      "title": "Combining different treatments",
+      "parent_section": "Overview"
+    },
+    {
+      "title": "Shared decision-making when selecting pharmacological treatment and duration",
+      "parent_section": "Overview"
+    },
+    {
+      "title": "Evidence regarding e-cigarettes (EC) for smoking cessation",
+      "parent_section": "Overview"
+    },
+    {
+      "title": "Smoking cessation for specific subgroups",
+      "parent_section": "Overview"
+    },
+    {
+      "title": "Follow up within the initial weeks after the quit date.",
+      "parent_section": "Overview"
+    },
+    {
+      "title": "Frequency and mode of follow-ups",
+      "parent_section": "Overview"
+    },
+    {
+      "title": "Monitoring parameters during follow-up",
+      "parent_section": "Overview"
+    },
+    {
+      "title": "Effect of smoking cessation on other medications",
+      "parent_section": "Overview"
+    },
+    {
+      "title": "Extending the duration of pharmacological treatment",
+      "parent_section": "Overview"
+    },
+    {
+      "title": "Coping strategies",
+      "parent_section": "Overview"
+    },
+    {
+      "title": "Overcoming withdrawal symptoms",
+      "parent_section": "Overview"
+    },
+    {
+      "title": "Recognising and coping with smoking triggers",
+      "parent_section": "Overview"
+    },
+    {
+      "title": "Handling lapses and/or relapses",
+      "parent_section": "Overview"
+    }
+  ],
+  "tables": [
+    {
+      "title": "Table 1. Quick guide to types of nicotine replacement therapy (NRT) registered in Singapore",
+      "parent_section": "Overview"
+    }
+  ],
+  "figures": [
+    {
+      "title": "Figure 1. Conversation starters and suggested approaches based on willingness to quit",
+      "parent_section": "Overview"
+    },
+    {
+      "title": "Figure 2. Relative efficacy (percentage increase in likelihood of quitting smoking) of pharmacological treatments compared to placebo",
+      "parent_section": "Overview"
+    },
+    {
+      "title": "Figure 3. Principles for smoking cessation strategies in specific subgroups",
+      "parent_section": "Overview"
+    },
+    {
+      "title": "Figure 4. Overview of nicotine withdrawal symptoms",
+      "parent_section": "Overview"
+    }
+  ],
+  "meta": {
+    "source": "ACE CLINICAL GUIDANCE",
+    "published": "Published: 21 February 2025",
+    "url": "www.ace-hta.gov.sg",
+    "title": "Promoting smoking cessation and treating tobacco dependence"
+  }
+}

@@ -1,0 +1,175 @@
+{
+  "top_sections": [
+    "Overview",
+    "Establishing a diagnosis of COPD",
+    "Initial and ongoing COPD assessment",
+    "Management of stable COPD",
+    "References"
+  ],
+  "recommendations": [
+    {
+      "title": "Recommendation 1",
+      "parent_section": "Establishing a diagnosis of COPD"
+    },
+    {
+      "title": "Recommendation 2",
+      "parent_section": "Establishing a diagnosis of COPD"
+    },
+    {
+      "title": "Recommendation 3",
+      "parent_section": "Initial and ongoing COPD assessment"
+    },
+    {
+      "title": "Recommendation 4",
+      "parent_section": "Management of stable COPD"
+    },
+    {
+      "title": "Recommendation 6",
+      "parent_section": "Management of stable COPD"
+    },
+    {
+      "title": "Recommendation 7",
+      "parent_section": "Management of stable COPD"
+    },
+    {
+      "title": "Recommendation 8",
+      "parent_section": "Management of stable COPD"
+    }
+  ],
+  "sub_sections": [
+    {
+      "title": "Objective",
+      "parent_section": "Overview"
+    },
+    {
+      "title": "Scope",
+      "parent_section": "Overview"
+    },
+    {
+      "title": "Target audience",
+      "parent_section": "Overview"
+    },
+    {
+      "title": "Statement of Intent",
+      "parent_section": "Overview"
+    },
+    {
+      "title": "Practice point on spirometry",
+      "parent_section": "Establishing a diagnosis of COPD"
+    },
+    {
+      "title": "Differential diagnoses of COPD",
+      "parent_section": "Establishing a diagnosis of COPD"
+    },
+    {
+      "title": "COPD and asthma",
+      "parent_section": "Establishing a diagnosis of COPD"
+    },
+    {
+      "title": "Acute exacerbation of COPD",
+      "parent_section": "Initial and ongoing COPD assessment"
+    },
+    {
+      "title": "Smoking cessation",
+      "parent_section": "Management of stable COPD"
+    },
+    {
+      "title": "Smoking cessation – the 2As",
+      "parent_section": "Management of stable COPD"
+    },
+    {
+      "title": "Pharmacotherapy",
+      "parent_section": "Management of stable COPD"
+    },
+    {
+      "title": "Initial treatment with triple therapy (LAMA + LABA + ICS)",
+      "parent_section": "Management of stable COPD"
+    },
+    {
+      "title": "Escalation to triple therapy (LAMA + LABA + ICS)",
+      "parent_section": "Management of stable COPD"
+    },
+    {
+      "title": "Alternatives to Single-Inhaler Triple Therapy (SITT)",
+      "parent_section": "Management of stable COPD"
+    },
+    {
+      "title": "Other medications for management of COPD",
+      "parent_section": "Management of stable COPD"
+    },
+    {
+      "title": "Assessment of inhaler technique",
+      "parent_section": "Management of stable COPD"
+    },
+    {
+      "title": "Check if your patient is doubling up on inhalers",
+      "parent_section": "Management of stable COPD"
+    },
+    {
+      "title": "Non-pharmacological strategies for the management of COPD",
+      "parent_section": "Management of stable COPD"
+    },
+    {
+      "title": "Vaccinations that lower risk of respiratory tract infections",
+      "parent_section": "Management of stable COPD"
+    },
+    {
+      "title": "Exercise and pulmonary rehabilitation",
+      "parent_section": "Management of stable COPD"
+    },
+    {
+      "title": "Long-Term Oxygen Therapy (LTOT)",
+      "parent_section": "Management of stable COPD"
+    },
+    {
+      "title": "Nutritional Support",
+      "parent_section": "Management of stable COPD"
+    },
+    {
+      "title": "Specialist referral",
+      "parent_section": "Management of stable COPD"
+    },
+    {
+      "title": "Palliative and supportive care",
+      "parent_section": "Management of stable COPD"
+    }
+  ],
+  "tables": [
+    {
+      "title": "Table 1. Features favouring COPD or asthma",
+      "parent_section": "Establishing a diagnosis of COPD"
+    },
+    {
+      "title": "Maintenance – long-acting bronchodilators",
+      "parent_section": "Management of stable COPD"
+    },
+    {
+      "title": "Maintenance – ICS  combinations",
+      "parent_section": "Management of stable COPD"
+    }
+  ],
+  "figures": [
+    {
+      "title": "Figure 2. Components of COPD diagnosis",
+      "parent_section": "Establishing a diagnosis of COPD"
+    },
+    {
+      "title": "Figure 1. Overview of diagnosis and management of COPD",
+      "parent_section": "Establishing a diagnosis of COPD"
+    },
+    {
+      "title": "Figure 3. Smoking and decline of lung function",
+      "parent_section": "Management of stable COPD"
+    },
+    {
+      "title": "Figure 4. Individualised maintenance pharmacotherapy options for patients with COPD",
+      "parent_section": "Management of stable COPD"
+    }
+  ],
+  "meta": {
+    "source": "ACE CLINICAL GUIDANCE",
+    "published": "First Published: 25 September 2018; Last Updated: 6 December 2024",
+    "url": "www.ace-hta.gov.sg",
+    "title": "Chronic obstructive pulmonary disease. Diagnosis and management"
+  }
+}

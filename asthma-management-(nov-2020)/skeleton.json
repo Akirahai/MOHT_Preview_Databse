@@ -1,0 +1,115 @@
+{
+  "top_sections": [
+    "Overview",
+    "Asthma assessment",
+    "Asthma management",
+    "Patient education",
+    "References"
+  ],
+  "recommendations": [
+    {
+      "title": "Recommendation 1",
+      "parent_section": "Asthma assessment"
+    },
+    {
+      "title": "Recommendation 2",
+      "parent_section": "Asthma assessment"
+    },
+    {
+      "title": "Recommendation 3",
+      "parent_section": "Asthma assessment"
+    },
+    {
+      "title": "Recommendation 4",
+      "parent_section": "Asthma management"
+    },
+    {
+      "title": "Recommendation 5",
+      "parent_section": "Asthma management"
+    },
+    {
+      "title": "Recommendation 6",
+      "parent_section": "Asthma management"
+    },
+    {
+      "title": "Recommendation 7",
+      "parent_section": "Patient education"
+    }
+  ],
+  "sub_sections": [
+    {
+      "title": "Objective",
+      "parent_section": "Overview"
+    },
+    {
+      "title": "Scope",
+      "parent_section": "Overview"
+    },
+    {
+      "title": "Target audience",
+      "parent_section": "Overview"
+    },
+    {
+      "title": "Statement of Intent",
+      "parent_section": "Overview"
+    },
+    {
+      "title": "Management goal for asthma",
+      "parent_section": "Overview"
+    },
+    {
+      "title": "Peak expiratory flow (PEF)",
+      "parent_section": "Asthma assessment"
+    },
+    {
+      "title": "Pharmacological treatment",
+      "parent_section": "Asthma management"
+    },
+    {
+      "title": "Important change in asthma management",
+      "parent_section": "Asthma management"
+    },
+    {
+      "title": "STARTING PREVENTER TREATMENT",
+      "parent_section": "Asthma management"
+    },
+    {
+      "title": "STEPPING UP",
+      "parent_section": "Asthma management"
+    },
+    {
+      "title": "STEPPING DOWN",
+      "parent_section": "Asthma management"
+    }
+  ],
+  "tables": [
+    {
+      "title": "Table 1. BREATHE factors for asthma assessment",
+      "parent_section": "Asthma assessment"
+    },
+    {
+      "title": "Table 2. Risk factors for more severe asthma outcomes that can be readily assessed clinically",
+      "parent_section": "Asthma assessment"
+    }
+  ],
+  "figures": [
+    {
+      "title": "Figure 1. Overall approach to asthma assessment and management over the long term",
+      "parent_section": "Asthma assessment"
+    },
+    {
+      "title": "Figure 2. Stepwise approach to asthma pharmacological treatment",
+      "parent_section": "Asthma management"
+    },
+    {
+      "title": "Figure 3. Key components of asthma patient education",
+      "parent_section": "Patient education"
+    }
+  ],
+  "meta": {
+    "source": "ACE CLINICAL GUIDANCE",
+    "published": "Published: 15 October 2020",
+    "url": "www.ace-hta.gov.sg",
+    "title": "Asthma. Optimising long-term management with inhaled corticosteroid"
+  }
+}

@@ -1,0 +1,141 @@
+{
+  "top_sections": [
+    "Overview",
+    "Assessment of stroke risk",
+    "Anticoagulation therapy",
+    "Monitoring and review",
+    "Assessing and addressing bleeding risk",
+    "Supplementary",
+    "References"
+  ],
+  "recommendations": [
+    {
+      "title": "Recommendation 1",
+      "parent_section": "Assessment of stroke risk"
+    },
+    {
+      "title": "Recommendation 2",
+      "parent_section": "Anticoagulation therapy"
+    },
+    {
+      "title": "Recommendation 3",
+      "parent_section": "Monitoring and review"
+    },
+    {
+      "title": "Recommendation 4",
+      "parent_section": "Assessing and addressing bleeding risk"
+    }
+  ],
+  "sub_sections": [
+    {
+      "title": "Objective",
+      "parent_section": "Overview"
+    },
+    {
+      "title": "Scope",
+      "parent_section": "Overview"
+    },
+    {
+      "title": "Target audience",
+      "parent_section": "Overview"
+    },
+    {
+      "title": "Statement of Intent",
+      "parent_section": "Overview"
+    },
+    {
+      "title": "Stroke risks",
+      "parent_section": "Assessment of stroke risk"
+    },
+    {
+      "title": "Considerations when",
+      "parent_section": "Assessment of stroke risk"
+    },
+    {
+      "title": "Patients with exceptionally high thromboembolic risk",
+      "parent_section": "Assessment of stroke risk"
+    },
+    {
+      "title": "Shared decision-making",
+      "parent_section": "Anticoagulation therapy"
+    },
+    {
+      "title": "DOACs",
+      "parent_section": "Anticoagulation therapy"
+    },
+    {
+      "title": "Warfarin",
+      "parent_section": "Anticoagulation therapy"
+    },
+    {
+      "title": "Is there a role for antiplatelets?",
+      "parent_section": "Anticoagulation therapy"
+    },
+    {
+      "title": "Management of suboptimal INR levels",
+      "parent_section": "Monitoring and review"
+    },
+    {
+      "title": "Bleeding risk scores",
+      "parent_section": "Assessing and addressing bleeding risk"
+    },
+    {
+      "title": "High bleeding risk",
+      "parent_section": "Assessing and addressing bleeding risk"
+    },
+    {
+      "title": "Switching between anticoagulants",
+      "parent_section": "Supplementary"
+    }
+  ],
+  "tables": [
+    {
+      "title": "Table 1. Using DOACs for patients with AF and concomitant valvular heart disease (VHD)",
+      "parent_section": "Anticoagulation therapy"
+    },
+    {
+      "title": "Other considerations for warfarin therapy in patients with AF",
+      "parent_section": "Anticoagulation therapy"
+    },
+    {
+      "title": "Table 2. Characteristics of oral anticoagulants registered in Singapore (extracted from local product information leaflets)",
+      "parent_section": "Anticoagulation therapy"
+    },
+    {
+      "title": "Dosing according to renal function, CrCl (mL/min)",
+      "parent_section": "Anticoagulation therapy"
+    },
+    {
+      "title": "Dosing in liver impairment",
+      "parent_section": "Anticoagulation therapy"
+    },
+    {
+      "title": "Table 3. Management of high INR without significant bleeding",
+      "parent_section": "Monitoring and review"
+    },
+    {
+      "title": "Table 4. HAS-BLED score",
+      "parent_section": "Assessing and addressing bleeding risk"
+    }
+  ],
+  "figures": [
+    {
+      "title": "Figure 1. Overview of oral anticoagulation in AF-related stroke prevention",
+      "parent_section": "Anticoagulation therapy"
+    },
+    {
+      "title": "Figure 2. Key monitoring parameters for patients with AF on DOACs",
+      "parent_section": "Monitoring and review"
+    },
+    {
+      "title": "Figure 3. Key monitoring parameters for patients with AF on warfarin",
+      "parent_section": "Monitoring and review"
+    }
+  ],
+  "meta": {
+    "source": "ACE CLINICAL GUIDANCE",
+    "published": "First published: 20 Nov 2017",
+    "url": "www.ace-hta.gov.sg",
+    "title": "Oral anticoagulation for atrial fibrillation"
+  }
+}

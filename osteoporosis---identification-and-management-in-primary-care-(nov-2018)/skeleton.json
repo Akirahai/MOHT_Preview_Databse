@@ -1,0 +1,56 @@
+{
+  "top_sections": [
+    "Overview",
+    "Identifying patients at risk",
+    "Making a diagnosis",
+    "Referring patients",
+    "When to start treatment",
+    "Treatment monitoring",
+    "References"
+  ],
+  "recommendations": [],
+  "sub_sections": [
+    {
+      "title": "Key messages",
+      "parent_section": "Overview"
+    },
+    {
+      "title": "Early identification is key to reducing fragility fractures",
+      "parent_section": "Overview"
+    },
+    {
+      "title": "Lifestyle advice for all patients at risk",
+      "parent_section": "Identifying patients at risk"
+    },
+    {
+      "title": "Assessing fracture risk using FRAX®",
+      "parent_section": "When to start treatment"
+    },
+    {
+      "title": "Fragility fracture",
+      "parent_section": "When to start treatment"
+    }
+  ],
+  "tables": [
+    {
+      "title": "Table 1. Risk factors for osteoporosis or fragility fractures",
+      "parent_section": "Identifying patients at risk"
+    },
+    {
+      "title": "Table 2. Laboratory tests to identify secondary contributors of osteoporosis",
+      "parent_section": "Making a diagnosis"
+    }
+  ],
+  "figures": [
+    {
+      "title": "Figure 1. OSTA for risk assessment in postmenopausal women",
+      "parent_section": "Identifying patients at risk"
+    }
+  ],
+  "meta": {
+    "source": "APPROPRIATE CARE GUIDE",
+    "published": "Published: 7 Nov 2018",
+    "url": "www.ace-hta.gov.sg",
+    "title": "Osteoporosis. Identification and management in primary care"
+  }
+}

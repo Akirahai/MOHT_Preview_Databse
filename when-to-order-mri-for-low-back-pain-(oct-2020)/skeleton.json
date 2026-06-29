@@ -1,0 +1,110 @@
+{
+  "top_sections": [
+    "Overview",
+    "Overall approach to low back pain assessment",
+    "MRI for non-specific low back pain",
+    "MRI for low back pain linked to a specific spinal pathology",
+    "Imaging for suspected vertebral fragility fracture",
+    "References"
+  ],
+  "recommendations": [
+    {
+      "title": "Recommendation 1",
+      "parent_section": "MRI for non-specific low back pain"
+    },
+    {
+      "title": "Recommendation 2",
+      "parent_section": "MRI for non-specific low back pain"
+    },
+    {
+      "title": "Recommendation 3",
+      "parent_section": "Imaging for suspected vertebral fragility fracture"
+    },
+    {
+      "title": "Recommendation 4",
+      "parent_section": "Imaging for suspected vertebral fragility fracture"
+    },
+    {
+      "title": "Recommendation 5",
+      "parent_section": "Imaging for suspected vertebral fragility fracture"
+    },
+    {
+      "title": "Recommendation 6",
+      "parent_section": "Imaging for suspected vertebral fragility fracture"
+    }
+  ],
+  "sub_sections": [
+    {
+      "title": "Objective",
+      "parent_section": "Overview"
+    },
+    {
+      "title": "Scope",
+      "parent_section": "Overview"
+    },
+    {
+      "title": "Target audience",
+      "parent_section": "Overview"
+    },
+    {
+      "title": "Statement of Intent",
+      "parent_section": "Overview"
+    },
+    {
+      "title": "Overall approach to low back pain assessment",
+      "parent_section": "Overall approach to low back pain assessment"
+    },
+    {
+      "title": "Patients with non-specific low back pain, with or without radicular symptoms",
+      "parent_section": "MRI for non-specific low back pain"
+    },
+    {
+      "title": "Patients with non-specific low back pain despite 4 to 6 weeks of conservative management",
+      "parent_section": "MRI for non-specific low back pain"
+    },
+    {
+      "title": "Conservative management",
+      "parent_section": "MRI for non-specific low back pain"
+    },
+    {
+      "title": "Patients with low back pain and progressive neurological symptoms or signs",
+      "parent_section": "Imaging for suspected vertebral fragility fracture"
+    },
+    {
+      "title": "MRI is indicated",
+      "parent_section": "Imaging for suspected vertebral fragility fracture"
+    },
+    {
+      "title": "Patients with low back pain and suspected cauda equina syndrome",
+      "parent_section": "Imaging for suspected vertebral fragility fracture"
+    },
+    {
+      "title": "MRI is indicated",
+      "parent_section": "Imaging for suspected vertebral fragility fracture"
+    },
+    {
+      "title": "Patients with low back pain and cancer or infection (suspected or known)",
+      "parent_section": "Imaging for suspected vertebral fragility fracture"
+    },
+    {
+      "title": "MRI is indicated",
+      "parent_section": "Imaging for suspected vertebral fragility fracture"
+    },
+    {
+      "title": "Patients with new or progressive low back pain following an invasive procedure on the lumbar spine",
+      "parent_section": "Imaging for suspected vertebral fragility fracture"
+    },
+    {
+      "title": "MRI is indicated",
+      "parent_section": "Imaging for suspected vertebral fragility fracture"
+    }
+  ],
+  "tables": [],
+  "figures": [],
+  "meta": {
+    "source": "ACE CLINICAL GUIDANCE",
+    "published": "Published: 1 October 2020",
+    "url": "www.ace-hta.gov.sg",
+    "title": "MRI for low back pain. When to order"
+  }
+}

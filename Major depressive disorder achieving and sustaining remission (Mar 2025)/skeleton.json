@@ -1,0 +1,226 @@
+{
+  "top_sections": [
+    "Overview",
+    "Assessment to guide management",
+    "Treatment of an MDD episode",
+    "Management of suboptimal response to initial treatment",
+    "Management to reduce risk of relapse",
+    "Supplement 1: MDD management considerations for perinatal populations",
+    "Supplement 2: MDD management considerations for children and adolescents",
+    "References"
+  ],
+  "recommendations": [
+    {
+      "title": "Recommendation 1",
+      "parent_section": "Assessment to guide management"
+    },
+    {
+      "title": "Recommendation 3",
+      "parent_section": "Treatment of an MDD episode"
+    },
+    {
+      "title": "Recommendation 4",
+      "parent_section": "Treatment of an MDD episode"
+    },
+    {
+      "title": "Recommendation 5",
+      "parent_section": "Management of suboptimal response to initial treatment"
+    },
+    {
+      "title": "Recommendation 6",
+      "parent_section": "Management to reduce risk of relapse"
+    }
+  ],
+  "sub_sections": [
+    {
+      "title": "Objective",
+      "parent_section": "Overview"
+    },
+    {
+      "title": "Scope",
+      "parent_section": "Overview"
+    },
+    {
+      "title": "Target audience",
+      "parent_section": "Overview"
+    },
+    {
+      "title": "Statement of Intent",
+      "parent_section": "Overview"
+    },
+    {
+      "title": "Evaluate MDD severity based on",
+      "parent_section": "Assessment to guide management"
+    },
+    {
+      "title": "Evidence of efficacy and benefit-risk profile of treatments",
+      "parent_section": "Treatment of an MDD episode"
+    },
+    {
+      "title": "Preferred treatment of mild to moderate MDD",
+      "parent_section": "Treatment of an MDD episode"
+    },
+    {
+      "title": "Selecting and delivering psychotherapy for MDD",
+      "parent_section": "Treatment of an MDD episode"
+    },
+    {
+      "title": "Choice of psychotherapy",
+      "parent_section": "Treatment of an MDD episode"
+    },
+    {
+      "title": "Delivery formats",
+      "parent_section": "Treatment of an MDD episode"
+    },
+    {
+      "title": "Preferred treatment of moderately severe and severe MDD",
+      "parent_section": "Treatment of an MDD episode"
+    },
+    {
+      "title": "First and second-generation antidepressants",
+      "parent_section": "Treatment of an MDD episode"
+    },
+    {
+      "title": "Prescribing antidepressants for MDD",
+      "parent_section": "Treatment of an MDD episode"
+    },
+    {
+      "title": "Patient communication points at new onset of MDD",
+      "parent_section": "Treatment of an MDD episode"
+    },
+    {
+      "title": "Management considerations for special populations",
+      "parent_section": "Treatment of an MDD episode"
+    },
+    {
+      "title": "Older adults (65 years old and above)",
+      "parent_section": "Treatment of an MDD episode"
+    },
+    {
+      "title": "Patients with comorbid dementia",
+      "parent_section": "Treatment of an MDD episode"
+    },
+    {
+      "title": "Patients with comorbid anxiety symptoms",
+      "parent_section": "Treatment of an MDD episode"
+    },
+    {
+      "title": "Patients with neurodevelopmental disorders (for example, intellectual disability, autism spectrum disorder, or attention-deficit/ hyperactivity disorder)",
+      "parent_section": "Treatment of an MDD episode"
+    },
+    {
+      "title": "Patient communication points on other treatments for MDD",
+      "parent_section": "Treatment of an MDD episode"
+    },
+    {
+      "title": "Exercise",
+      "parent_section": "Treatment of an MDD episode"
+    },
+    {
+      "title": "St John's Wort",
+      "parent_section": "Treatment of an MDD episode"
+    },
+    {
+      "title": "Acupuncture",
+      "parent_section": "Treatment of an MDD episode"
+    },
+    {
+      "title": "Social prescribing of community-based programmes",
+      "parent_section": "Treatment of an MDD episode"
+    },
+    {
+      "title": "Ongoing psychosocial stressors and poor coping mechanisms",
+      "parent_section": "Management of suboptimal response to initial treatment"
+    },
+    {
+      "title": "Suboptimal treatment adherence",
+      "parent_section": "Management of suboptimal response to initial treatment"
+    },
+    {
+      "title": "Diagnostic inaccuracy or presence of other mental health conditions",
+      "parent_section": "Management of suboptimal response to initial treatment"
+    },
+    {
+      "title": "Comorbid conditions that may limit response to treatment or mimic depression symptoms such as fatigue",
+      "parent_section": "Management of suboptimal response to initial treatment"
+    },
+    {
+      "title": "Referral considerations",
+      "parent_section": "Management of suboptimal response to initial treatment"
+    },
+    {
+      "title": "Patient communication points after remission",
+      "parent_section": "Management to reduce risk of relapse"
+    },
+    {
+      "title": "Pregnant and postpartum women",
+      "parent_section": "Supplement 1: MDD management considerations for perinatal populations"
+    },
+    {
+      "title": "Assessment",
+      "parent_section": "Supplement 1: MDD management considerations for perinatal populations"
+    },
+    {
+      "title": "Principles of management for patients with a diagnosis of MDD (if managing in primary or generalist care)",
+      "parent_section": "Supplement 1: MDD management considerations for perinatal populations"
+    },
+    {
+      "title": "Clinical and community resources",
+      "parent_section": "Supplement 1: MDD management considerations for perinatal populations"
+    },
+    {
+      "title": "Children (6 to 12 years old) and adolescents (13 to 17 years old)",
+      "parent_section": "Supplement 2: MDD management considerations for children and adolescents"
+    },
+    {
+      "title": "Assessment",
+      "parent_section": "Supplement 2: MDD management considerations for children and adolescents"
+    },
+    {
+      "title": "Principles of management for patients with a diagnosis of MDD (if managing in primary or generalist care)",
+      "parent_section": "Supplement 2: MDD management considerations for children and adolescents"
+    },
+    {
+      "title": "Clinical and community resources",
+      "parent_section": "Supplement 2: MDD management considerations for children and adolescents"
+    }
+  ],
+  "tables": [
+    {
+      "title": "Table 1. Key considerations for selecting a second-generation antidepressant in MDD. Antidepressants listed are locally-registered for MDD treatment. Information sourced from international literature  and local drug information resources  (including package inserts). The information in this table is not exhaustive of the subject matter. Refer to package inserts and drug information resources for further details — including contraindications, drug interactions, and medication doses.",
+      "parent_section": "Treatment of an MDD episode"
+    }
+  ],
+  "figures": [
+    {
+      "title": "Figure 1. Overview of MDD management",
+      "parent_section": "Overview"
+    },
+    {
+      "title": "Figure 2. Components of MDD severity",
+      "parent_section": "Assessment to guide management"
+    },
+    {
+      "title": "Figure 3a. Evaluation of MDD severity (to inform management) is based on symptom profile, functional impairment, and risk of harm (to self or others)",
+      "parent_section": "Assessment to guide management"
+    },
+    {
+      "title": "Figure 3b. Clinical vignettes illustrating holistic assessment of MDD severity (based on symptom profile, functional impairment, and risk of harm)",
+      "parent_section": "Assessment to guide management"
+    },
+    {
+      "title": "Figure 4. Changes in management strategy when initial response is suboptimal",
+      "parent_section": "Management of suboptimal response to initial treatment"
+    },
+    {
+      "title": "Figure 5. Key considerations for continuing or discontinuing antidepressants after 6-month maintenance treatment",
+      "parent_section": "Management to reduce risk of relapse"
+    }
+  ],
+  "meta": {
+    "source": "ACE CLINICAL GUIDANCE",
+    "published": "First Published: 26 March 2025",
+    "url": "www.ace-hta.gov.sg",
+    "title": "Major depressive disorder. Achieving and sustaining remission"
+  }
+}

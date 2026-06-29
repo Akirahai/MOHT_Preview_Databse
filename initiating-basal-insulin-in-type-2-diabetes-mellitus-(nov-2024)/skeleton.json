@@ -1,0 +1,104 @@
+{
+  "top_sections": [
+    "Overview",
+    "Notes on insulin prescribing",
+    "Addressing concerns about starting insulin",
+    "Preventing and managing hypoglycaemia",
+    "Insulin administration and storage",
+    "References"
+  ],
+  "recommendations": [
+    {
+      "title": "Recommendation 1",
+      "parent_section": "Overview"
+    },
+    {
+      "title": "Recommendation 2",
+      "parent_section": "Addressing concerns about starting insulin"
+    },
+    {
+      "title": "Recommendation 3",
+      "parent_section": "Addressing concerns about starting insulin"
+    }
+  ],
+  "sub_sections": [
+    {
+      "title": "Objective",
+      "parent_section": "Overview"
+    },
+    {
+      "title": "Scope",
+      "parent_section": "Overview"
+    },
+    {
+      "title": "Target audience",
+      "parent_section": "Overview"
+    },
+    {
+      "title": "Statement of Intent",
+      "parent_section": "Overview"
+    },
+    {
+      "title": "Other indications for insulin therapy in T2DM",
+      "parent_section": "Overview"
+    },
+    {
+      "title": "Explaining the need for insulin therapy",
+      "parent_section": "Addressing concerns about starting insulin"
+    },
+    {
+      "title": "Hypoglycaemia",
+      "parent_section": "Preventing and managing hypoglycaemia"
+    },
+    {
+      "title": "Hypoglycaemia unawareness (HU)",
+      "parent_section": "Preventing and managing hypoglycaemia"
+    },
+    {
+      "title": "Diet",
+      "parent_section": "Insulin administration and storage"
+    },
+    {
+      "title": "Fasting and physical activity",
+      "parent_section": "Insulin administration and storage"
+    },
+    {
+      "title": "Sick days",
+      "parent_section": "Insulin administration and storage"
+    },
+    {
+      "title": "Travel",
+      "parent_section": "Insulin administration and storage"
+    },
+    {
+      "title": "Patient information and resources on insulin",
+      "parent_section": "Insulin administration and storage"
+    }
+  ],
+  "tables": [
+    {
+      "title": "Table 1. Types and profiles of basal insulin",
+      "parent_section": "Overview"
+    },
+    {
+      "title": "Table 2. Hypoglycaemia and its management",
+      "parent_section": "Preventing and managing hypoglycaemia"
+    }
+  ],
+  "figures": [
+    {
+      "title": "Figure 1. Considerations for concomitant T2DM medications when initiating basal insulin",
+      "parent_section": "Addressing concerns about starting insulin"
+    },
+    {
+      "title": "Figure 2. Starting and titrating basal insulin for patients with type 2 diabetes mellitus (T2DM)",
+      "parent_section": "Addressing concerns about starting insulin"
+    }
+  ],
+  "meta": {
+    "source": "ACE CLINICAL GUIDANCE",
+    "published": "First Published: 20 November 2017. Last Updated: 29 November 2024",
+    "url": "www.ace-hta.gov.sg",
+    "title": "Initiating basal insulin in type 2 diabetes mellitus"
+  }
+}

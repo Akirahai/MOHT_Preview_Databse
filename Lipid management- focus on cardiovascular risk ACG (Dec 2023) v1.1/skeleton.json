@@ -1,0 +1,267 @@
+{
+  "top_sections": [
+    "Overview",
+    "Assessment",
+    "Selection of management options",
+    "Support and review",
+    "References"
+  ],
+  "recommendations": [
+    {
+      "title": "Recommendation 1",
+      "parent_section": "Assessment"
+    },
+    {
+      "title": "Recommendation 2",
+      "parent_section": "Selection of management options"
+    },
+    {
+      "title": "Recommendation 3",
+      "parent_section": "Selection of management options"
+    },
+    {
+      "title": "Recommendation 4",
+      "parent_section": "Selection of management options"
+    },
+    {
+      "title": "Recommendation 5",
+      "parent_section": "Selection of management options"
+    },
+    {
+      "title": "Recommendation 6",
+      "parent_section": "Selection of management options"
+    },
+    {
+      "title": "Recommendation 7",
+      "parent_section": "Selection of management options"
+    },
+    {
+      "title": "Recommendation 8",
+      "parent_section": "Selection of management options"
+    },
+    {
+      "title": "Recommendation 9",
+      "parent_section": "Support and review"
+    }
+  ],
+  "sub_sections": [
+    {
+      "title": "Objective",
+      "parent_section": "Overview"
+    },
+    {
+      "title": "Scope",
+      "parent_section": "Overview"
+    },
+    {
+      "title": "Target audience",
+      "parent_section": "Overview"
+    },
+    {
+      "title": "Statement of Intent",
+      "parent_section": "Overview"
+    },
+    {
+      "title": "Approach to lipid management – at a glance",
+      "parent_section": "Overview"
+    },
+    {
+      "title": "Assess overall CV risk to inform initial and ongoing management of hyperlipidaemia",
+      "parent_section": "Assessment"
+    },
+    {
+      "title": "Very high to high risk",
+      "parent_section": "Assessment"
+    },
+    {
+      "title": "Individualise management goals, including use of LDL-C targets, in the context of patient-specific risk factors",
+      "parent_section": "Selection of management options"
+    },
+    {
+      "title": "Use of lipid-lowering therapy in pregnancy",
+      "parent_section": "Selection of management options"
+    },
+    {
+      "title": "LDL-C remains an established marker for lipid management",
+      "parent_section": "Selection of management options"
+    },
+    {
+      "title": "Lifestyle",
+      "parent_section": "Selection of management options"
+    },
+    {
+      "title": "Encourage and support healthy diet, physical activity, weight management, or smoking cessation, tailored to the patient's circumstances",
+      "parent_section": "Selection of management options"
+    },
+    {
+      "title": "LDL-C lowering pharmacotherapy",
+      "parent_section": "Selection of management options"
+    },
+    {
+      "title": "Statins",
+      "parent_section": "Selection of management options"
+    },
+    {
+      "title": "Non-statin lipid-lowering medications",
+      "parent_section": "Selection of management options"
+    },
+    {
+      "title": "General principles of lipid-lowering pharmacotherapy for CV risk reduction",
+      "parent_section": "Selection of management options"
+    },
+    {
+      "title": "Consider adding a PCSK9 monoclonal antibody or inclisiran for further risk reduction based on LDL-C level and clinical need.",
+      "parent_section": "Selection of management options"
+    },
+    {
+      "title": "ASCVD",
+      "parent_section": "Selection of management options"
+    },
+    {
+      "title": "LDL-C target",
+      "parent_section": "Selection of management options"
+    },
+    {
+      "title": "Clinical approach for ASCVD and/or FH",
+      "parent_section": "Selection of management options"
+    },
+    {
+      "title": "Select a statin for patients with diabetes mellitus (DM), chronic kidney disease (CKD), or high 10-year CV risk (>20%). Consider adding ezetimibe for further risk reduction if needed.",
+      "parent_section": "Selection of management options"
+    },
+    {
+      "title": "Clinical approach for DM and/or CKD",
+      "parent_section": "Selection of management options"
+    },
+    {
+      "title": "Clinical approach for high 10-year risk (>20%)",
+      "parent_section": "Selection of management options"
+    },
+    {
+      "title": "Consider prescribing a statin for patients with 10-year CV risk between 10–20%, especially in the presence of risk enhancers.",
+      "parent_section": "Selection of management options"
+    },
+    {
+      "title": "Selective use of coronary artery calcium (CAC) scoring",
+      "parent_section": "Selection of management options"
+    },
+    {
+      "title": "Provide education and a lifestyle management plan for patients with 10-year CV risk below 10%; consider assessing risk enhancers for patients with borderline risk to discuss the clinical need for a statin.",
+      "parent_section": "Selection of management options"
+    },
+    {
+      "title": "Clinical approach for borderline risk (5–<10%)",
+      "parent_section": "Selection of management options"
+    },
+    {
+      "title": "Clinical approach for low risk (<5%)",
+      "parent_section": "Selection of management options"
+    },
+    {
+      "title": "Managing hypertriglyceridaemia",
+      "parent_section": "Selection of management options"
+    },
+    {
+      "title": "Managing cardiovascular risk",
+      "parent_section": "Selection of management options"
+    },
+    {
+      "title": "Fibrates in statin-treated patients",
+      "parent_section": "Selection of management options"
+    },
+    {
+      "title": "Managing pancreatitis risk",
+      "parent_section": "Selection of management options"
+    },
+    {
+      "title": "Encourage statin adherence by providing patient education, managing adverse effects, and optimising treatment to improve tolerability as needed",
+      "parent_section": "Support and review"
+    },
+    {
+      "title": "Before starting a statin",
+      "parent_section": "Support and review"
+    },
+    {
+      "title": "Patient education",
+      "parent_section": "Support and review"
+    },
+    {
+      "title": "Managing adverse effects",
+      "parent_section": "Support and review"
+    },
+    {
+      "title": "Muscle symptoms",
+      "parent_section": "Support and review"
+    },
+    {
+      "title": "Typical statin-associated muscle symptoms",
+      "parent_section": "Support and review"
+    },
+    {
+      "title": "Liver transaminase elevations",
+      "parent_section": "Support and review"
+    },
+    {
+      "title": "New-onset diabetes",
+      "parent_section": "Support and review"
+    },
+    {
+      "title": "Definition of statin intolerance",
+      "parent_section": "Support and review"
+    }
+  ],
+  "tables": [
+    {
+      "title": "Table 1. Statin intensity by ACC/AHA system of classification",
+      "parent_section": "Selection of management options"
+    },
+    {
+      "title": "Supplement 1. Lipid-lowering medications in Singapore",
+      "parent_section": "Support and review"
+    },
+    {
+      "title": "Table 2. Overview of lipid-lowering medications registered in Singapore",
+      "parent_section": "Support and review"
+    },
+    {
+      "title": "Table 3. Selected interactions with commonly used medications that may increase the risk of statin side effects",
+      "parent_section": "Support and review"
+    }
+  ],
+  "figures": [
+    {
+      "title": "Figure 1. A practical guide to risk stratification for lipid management in key patient groups",
+      "parent_section": "Assessment"
+    },
+    {
+      "title": "Figure 2. Key components of lifestyle intervention to support lipid management",
+      "parent_section": "Selection of management options"
+    },
+    {
+      "title": "Figure 1 extract",
+      "parent_section": "Selection of management options"
+    },
+    {
+      "title": "Figure 3. Additional considerations when prescribing ezetimibe",
+      "parent_section": "Selection of management options"
+    },
+    {
+      "title": "Figure 4. Additional considerations when prescribing PCSK9 monoclonal antibodies or inclisiran",
+      "parent_section": "Selection of management options"
+    },
+    {
+      "title": "Figure 1 extract",
+      "parent_section": "Selection of management options"
+    },
+    {
+      "title": "Figure 6. General overview of management of muscle symptoms",
+      "parent_section": "Support and review"
+    }
+  ],
+  "meta": {
+    "source": "ACE CLINICAL GUIDANCE",
+    "published": "Published: 15 December 2023",
+    "url": "www.ace-hta.gov.sg",
+    "title": "Lipid management. Focus on cardiovascular risk"
+  }
+}

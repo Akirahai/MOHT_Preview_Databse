@@ -1,0 +1,81 @@
+{
+  "top_sections": [
+    "Overview",
+    "General medical examination",
+    "Preoperative testing",
+    "Lung cancer screening",
+    "References"
+  ],
+  "recommendations": [
+    {
+      "title": "Recommendation 1",
+      "parent_section": "General medical examination"
+    },
+    {
+      "title": "Recommendation 2",
+      "parent_section": "Preoperative testing"
+    },
+    {
+      "title": "Recommendation 3",
+      "parent_section": "Lung cancer screening"
+    }
+  ],
+  "sub_sections": [
+    {
+      "title": "Objective",
+      "parent_section": "Overview"
+    },
+    {
+      "title": "Scope",
+      "parent_section": "Overview"
+    },
+    {
+      "title": "Target audience",
+      "parent_section": "Overview"
+    },
+    {
+      "title": "Statement of Intent",
+      "parent_section": "Overview"
+    },
+    {
+      "title": "Clinical utility of CXR",
+      "parent_section": "Overview"
+    },
+    {
+      "title": "General medical examination",
+      "parent_section": "General medical examination"
+    },
+    {
+      "title": "CXR may not be indicated",
+      "parent_section": "General medical examination"
+    },
+    {
+      "title": "Note on general medical examination in Singapore",
+      "parent_section": "General medical examination"
+    },
+    {
+      "title": "Preoperative testing",
+      "parent_section": "Preoperative testing"
+    },
+    {
+      "title": "CXR may not be indicated",
+      "parent_section": "Preoperative testing"
+    },
+    {
+      "title": "Lung cancer screening",
+      "parent_section": "Lung cancer screening"
+    },
+    {
+      "title": "CXR is not indicated",
+      "parent_section": "Lung cancer screening"
+    }
+  ],
+  "tables": [],
+  "figures": [],
+  "meta": {
+    "source": "ACE CLINICAL GUIDANCE",
+    "published": "Published: 24 May 2021",
+    "url": "www.ace-hta.gov.sg",
+    "title": "Chest X-ray. When not to order"
+  }
+}

@@ -1,0 +1,289 @@
+{
+  "top_sections": [
+    "Assessment to guide management",
+    "Treatment",
+    "References"
+  ],
+  "recommendations": [
+    {
+      "title": "Recommendation 1",
+      "parent_section": "Assessment to guide management"
+    },
+    {
+      "title": "Recommendation 2",
+      "parent_section": "Treatment"
+    },
+    {
+      "title": "Recommendation 3",
+      "parent_section": "Treatment"
+    },
+    {
+      "title": "Recommendation 4",
+      "parent_section": "Treatment"
+    },
+    {
+      "title": "Recommendation 5",
+      "parent_section": "Management of suboptimal response to initial treatment"
+    },
+    {
+      "title": "Recommendation 6",
+      "parent_section": "Management to reduce risk of relapse"
+    },
+    {
+      "title": "Recommendation 7",
+      "parent_section": "Use of benzodiazepines in primary and generalist care"
+    }
+  ],
+  "sub_sections": [
+    {
+      "title": "Objective",
+      "parent_section": "Overview"
+    },
+    {
+      "title": "Scope",
+      "parent_section": "Overview"
+    },
+    {
+      "title": "Target audience",
+      "parent_section": "Overview"
+    },
+    {
+      "title": "Statement of Intent",
+      "parent_section": "Overview"
+    },
+    {
+      "title": "GAD severity",
+      "parent_section": "Assessment to guide management"
+    },
+    {
+      "title": "Determine severity of GAD",
+      "parent_section": "Assessment to guide management"
+    },
+    {
+      "title": "Other patient factors",
+      "parent_section": "Assessment to guide management"
+    },
+    {
+      "title": "Overlay other patient factors",
+      "parent_section": "Assessment to guide management"
+    },
+    {
+      "title": "Patient needs, preferences, and readiness",
+      "parent_section": "Assessment to guide management"
+    },
+    {
+      "title": "Comorbid mental health conditions",
+      "parent_section": "Assessment to guide management"
+    },
+    {
+      "title": "Comorbid physical illnesses",
+      "parent_section": "Assessment to guide management"
+    },
+    {
+      "title": "Social and environmental factors",
+      "parent_section": "Assessment to guide management"
+    },
+    {
+      "title": "Substance use",
+      "parent_section": "Assessment to guide management"
+    },
+    {
+      "title": "GAD treatment history and past episodes",
+      "parent_section": "Assessment to guide management"
+    },
+    {
+      "title": "Elderly",
+      "parent_section": "Assessment to guide management"
+    },
+    {
+      "title": "Perinatal",
+      "parent_section": "Assessment to guide management"
+    },
+    {
+      "title": "Neurodevelopmental disorders (e.g. intellectual disability, autism spectrum disorder, attention-deficit/hyperactivity disorder)",
+      "parent_section": "Assessment to guide management"
+    },
+    {
+      "title": "Risk of harm to self and others",
+      "parent_section": "Assessment to guide management"
+    },
+    {
+      "title": "Risk of harm to self",
+      "parent_section": "Assessment to guide management"
+    },
+    {
+      "title": "Risk of harm to others",
+      "parent_section": "Assessment to guide management"
+    },
+    {
+      "title": "General care and support",
+      "parent_section": "Treatment"
+    },
+    {
+      "title": "Psychoeducation and self-help",
+      "parent_section": "Treatment"
+    },
+    {
+      "title": "Social services and community resources",
+      "parent_section": "Treatment"
+    },
+    {
+      "title": "Lifestyle practices",
+      "parent_section": "Treatment"
+    },
+    {
+      "title": "Psychological treatment",
+      "parent_section": "Treatment"
+    },
+    {
+      "title": "Psychological treatments",
+      "parent_section": "Treatment"
+    },
+    {
+      "title": "Delivery format",
+      "parent_section": "Treatment"
+    },
+    {
+      "title": "Pharmacological treatment",
+      "parent_section": "Treatment"
+    },
+    {
+      "title": "SSRI and SNRI medications",
+      "parent_section": "Treatment"
+    },
+    {
+      "title": "Other anxiolytic medications mentioned in this guidance",
+      "parent_section": "Treatment"
+    },
+    {
+      "title": "A note on use of complementary and alternative medicine",
+      "parent_section": "Treatment"
+    },
+    {
+      "title": "For patients with mild GAD:",
+      "parent_section": "Treatment"
+    },
+    {
+      "title": "Management considerations for comorbid MDD or anxiety disorders",
+      "parent_section": "Treatment"
+    },
+    {
+      "title": "Management of suboptimal response to initial treatment",
+      "parent_section": "Treatment"
+    },
+    {
+      "title": "Assessing response",
+      "parent_section": "Management of suboptimal response to initial treatment"
+    },
+    {
+      "title": "Modifying treatment",
+      "parent_section": "Management of suboptimal response to initial treatment"
+    },
+    {
+      "title": "Management to reduce risk of relapse",
+      "parent_section": "Treatment"
+    },
+    {
+      "title": "Assessing remission",
+      "parent_section": "Management to reduce risk of relapse"
+    },
+    {
+      "title": "Role of psychological treatment in preventing relapse",
+      "parent_section": "Management to reduce risk of relapse"
+    },
+    {
+      "title": "Considerations for continuing or discontinuing antidepressants after 6-month maintenance treatment",
+      "parent_section": "Management to reduce risk of relapse"
+    },
+    {
+      "title": "Use of benzodiazepines in primary and generalist care",
+      "parent_section": "Treatment"
+    },
+    {
+      "title": "Principles of prescribing benzodiazepines",
+      "parent_section": "Use of benzodiazepines in primary and generalist care"
+    },
+    {
+      "title": "Patient communication points on benzodiazepines in GAD",
+      "parent_section": "Use of benzodiazepines in primary and generalist care"
+    },
+    {
+      "title": "Pregnant and postpartum women",
+      "parent_section": "Supplement 3: GAD management considerations for perinatal populations"
+    },
+    {
+      "title": "Assessment",
+      "parent_section": "Supplement 3: GAD management considerations for perinatal populations"
+    },
+    {
+      "title": "Principles of management for patients with a diagnosis of GAD (if managing in primary or generalist care)",
+      "parent_section": "Supplement 3: GAD management considerations for perinatal populations"
+    },
+    {
+      "title": "Considerations for use of antidepressants in perinatal GAD",
+      "parent_section": "Supplement 3: GAD management considerations for perinatal populations"
+    },
+    {
+      "title": "Clinical and community resources",
+      "parent_section": "Supplement 3: GAD management considerations for perinatal populations"
+    },
+    {
+      "title": "Children (6 to 12 years old) and adolescents (13 to 17 years old)",
+      "parent_section": "Supplement 4: GAD management considerations for children and adolescents"
+    },
+    {
+      "title": "Assessment",
+      "parent_section": "Supplement 4: GAD management considerations for children and adolescents"
+    },
+    {
+      "title": "Principles of management for patients with a diagnosis of GAD (if managing in primary or generalist care)",
+      "parent_section": "Supplement 4: GAD management considerations for children and adolescents"
+    },
+    {
+      "title": "Clinical and community resources",
+      "parent_section": "Supplement 4: GAD management considerations for children and adolescents"
+    }
+  ],
+  "tables": [
+    {
+      "title": "Table 1. Features of psychological treatment and SSRI or SNRI medication",
+      "parent_section": "Treatment"
+    },
+    {
+      "title": "Table 2. Changes in management strategy when response to an adequate trial of treatment is suboptimal",
+      "parent_section": "Management of suboptimal response to initial treatment"
+    },
+    {
+      "title": "Switching from fluoxetine",
+      "parent_section": "Supplement 2: Switching between SSRI and SNRI medications"
+    },
+    {
+      "title": "Switching from other SSRIs (excluding fluoxetine)",
+      "parent_section": "Supplement 2: Switching between SSRI and SNRI medications"
+    },
+    {
+      "title": "Switching from SNRIs",
+      "parent_section": "Supplement 2: Switching between SSRI and SNRI medications"
+    },
+    {
+      "title": "Option 2: Taper then start low dose of new SNRI",
+      "parent_section": "Supplement 2: Switching between SSRI and SNRI medications"
+    },
+    {
+      "title": "Under this option, cross-tapering cautiously may be suitable.",
+      "parent_section": "Supplement 2: Switching between SSRI and SNRI medications"
+    }
+  ],
+  "figures": [
+    {
+      "title": "Figure 1. Overview of GAD management",
+      "parent_section": "Overview"
+    }
+  ],
+  "meta": {
+    "source": "ACE CLINICAL GUIDANCE",
+    "published": "Published: 26 March 2025",
+    "url": "www.ace-hta.gov.sg",
+    "title": "Generalised anxiety disorder. Easing burden and enabling remission"
+  }
+}

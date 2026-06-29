@@ -1,0 +1,133 @@
+{
+  "top_sections": [
+    "Overview",
+    "Overall approach to management of CKD",
+    "Pharmacological treatment",
+    "Treatment considerations depending on comorbidities",
+    "Important considerations for medication prescribing in patients with CKD",
+    "Follow-up and monitoring",
+    "References"
+  ],
+  "recommendations": [
+    {
+      "title": "Recommendation 1",
+      "parent_section": "Overall approach to management of CKD"
+    },
+    {
+      "title": "Recommendation 2",
+      "parent_section": "Pharmacological treatment"
+    },
+    {
+      "title": "Recommendation 3",
+      "parent_section": "Pharmacological treatment"
+    },
+    {
+      "title": "Recommendation 4",
+      "parent_section": "Treatment considerations depending on comorbidities"
+    },
+    {
+      "title": "Recommendation 5",
+      "parent_section": "Important considerations for medication prescribing in patients with CKD"
+    },
+    {
+      "title": "Recommendation 6",
+      "parent_section": "Follow-up and monitoring"
+    },
+    {
+      "title": "Recommendation 7",
+      "parent_section": "Follow-up and monitoring"
+    }
+  ],
+  "sub_sections": [
+    {
+      "title": "Objective",
+      "parent_section": "Overview"
+    },
+    {
+      "title": "Scope",
+      "parent_section": "Overview"
+    },
+    {
+      "title": "Target audience",
+      "parent_section": "Overview"
+    },
+    {
+      "title": "Statement of Intent",
+      "parent_section": "Overview"
+    },
+    {
+      "title": "Monitoring of clinical features",
+      "parent_section": "Pharmacological treatment"
+    },
+    {
+      "title": "Combination of ACE inhibitors and ARBs",
+      "parent_section": "Pharmacological treatment"
+    },
+    {
+      "title": "Patient education",
+      "parent_section": "Pharmacological treatment"
+    },
+    {
+      "title": "CKD and hypertension",
+      "parent_section": "Treatment considerations depending on comorbidities"
+    },
+    {
+      "title": "CKD and dyslipidaemia",
+      "parent_section": "Treatment considerations depending on comorbidities"
+    },
+    {
+      "title": "CKD and T2DM",
+      "parent_section": "Treatment considerations depending on comorbidities"
+    },
+    {
+      "title": "Lifestyle intervention",
+      "parent_section": "Important considerations for medication prescribing in patients with CKD"
+    },
+    {
+      "title": "Protein intake",
+      "parent_section": "Important considerations for medication prescribing in patients with CKD"
+    },
+    {
+      "title": "Potassium intake",
+      "parent_section": "Important considerations for medication prescribing in patients with CKD"
+    },
+    {
+      "title": "Sodium intake",
+      "parent_section": "Important considerations for medication prescribing in patients with CKD"
+    },
+    {
+      "title": "Shared or multidisciplinary care",
+      "parent_section": "Follow-up and monitoring"
+    }
+  ],
+  "tables": [
+    {
+      "title": "Table 1. Monitoring and treatment considerations for ACE inhibitors or ARBs",
+      "parent_section": "Pharmacological treatment"
+    },
+    {
+      "title": "Table 2. eGFR levels and starting dose for SGLT2 inhibitors for patients with CKD",
+      "parent_section": "Pharmacological treatment"
+    },
+    {
+      "title": "Table 3. Nutrient-specific intakes for patients with CKD",
+      "parent_section": "Important considerations for medication prescribing in patients with CKD"
+    },
+    {
+      "title": "Table 4. General guidance on frequency of follow-up and assessments by CKD stage",
+      "parent_section": "Follow-up and monitoring"
+    }
+  ],
+  "figures": [
+    {
+      "title": "Figure 1. Overview of management of early-stage CKD",
+      "parent_section": "Overall approach to management of CKD"
+    }
+  ],
+  "meta": {
+    "source": "ACE CLINICAL GUIDANCE",
+    "published": "Published: 27 October 2023",
+    "url": "www.ace-hta.gov.sg",
+    "title": "Chronic kidney disease. Delaying progression and reducing cardiovascular complications"
+  }
+}
