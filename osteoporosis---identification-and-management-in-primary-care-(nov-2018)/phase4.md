@@ -12,7 +12,6 @@ section_id: overview
 parent_rec: null
 title: "Key messages"
 source_pages: [1]
-strength: null
 tables_referenced: []
 figures_referenced: []
 url_links: []
@@ -49,7 +48,6 @@ section_id: identifying_patients_at_risk
 parent_rec: null
 title: "Identifying patients at risk overview"
 source_pages: [1, 2]
-strength: null
 tables_referenced:
   - Table 1. Risk factors for osteoporosis or fragility fractures
 figures_referenced: []
@@ -83,7 +81,6 @@ section_id: identifying_patients_at_risk
 parent_rec: null
 title: "Table 1. Risk factors for osteoporosis or fragility fractures"
 source_pages: [2]
-strength: null
 image_dir: 3b6db5e1b149061b2c6cb184d5c1012a8acc35a4e10ea0670380fd613cb0ddbc.jpg
 url_links: []
 cross_refs: []
@@ -105,7 +102,6 @@ section_id: identifying_patients_at_risk
 parent_rec: null
 title: "Figure 1. OSTA for risk assessment in postmenopausal women"
 source_pages: [2]
-strength: null
 reconstructed_from: mermaid
 image_dir: grouped_p2_fig_01.jpg
 url_links: []
@@ -149,7 +145,6 @@ section_id: identifying_patients_at_risk
 parent_rec: null
 title: "Lifestyle advice for all patients at risk"
 source_pages: [3]
-strength: null
 tables_referenced: []
 figures_referenced: []
 url_links: []
@@ -190,7 +185,6 @@ section_id: making_a_diagnosis
 parent_rec: null
 title: "Making a diagnosis overview"
 source_pages: [3]
-strength: null
 tables_referenced:
   - Table 2. Laboratory tests to identify secondary contributors of osteoporosis
 figures_referenced: []
@@ -216,7 +210,6 @@ section_id: making_a_diagnosis
 parent_rec: null
 title: "Table 2. Laboratory tests to identify secondary contributors of osteoporosis"
 source_pages: [3]
-strength: null
 image_dir: 005a5e8082fd000cd8a877f307f041e0fab376ea7731787412391226d9d04830.jpg
 url_links: []
 cross_refs: []
@@ -251,7 +244,6 @@ section_id: referring_patients
 parent_rec: null
 title: "Referring patients overview"
 source_pages: [4]
-strength: null
 tables_referenced: []
 figures_referenced: []
 url_links: []
@@ -285,7 +277,6 @@ section_id: when_to_start_treatment
 parent_rec: null
 title: "When to start treatment overview"
 source_pages: [4]
-strength: null
 tables_referenced: []
 figures_referenced: []
 url_links: []
@@ -312,7 +303,6 @@ section_id: when_to_start_treatment
 parent_rec: null
 title: "Assessing fracture risk using FRAX®"
 source_pages: [4]
-strength: null
 tables_referenced: []
 figures_referenced: []
 url_links: []
@@ -334,7 +324,6 @@ section_id: when_to_start_treatment
 parent_rec: null
 title: "Fragility fracture"
 source_pages: [4]
-strength: null
 tables_referenced: []
 figures_referenced: []
 url_links: []
@@ -360,7 +349,6 @@ section_id: treatment_monitoring
 parent_rec: null
 title: "Treatment monitoring overview"
 source_pages: [4, 5]
-strength: null
 tables_referenced: []
 figures_referenced: []
 url_links: []
@@ -413,7 +401,6 @@ section_id: references
 parent_rec: null
 title: "References"
 source_pages: [6]
-strength: null
 tables_referenced: []
 figures_referenced: []
 url_links: []

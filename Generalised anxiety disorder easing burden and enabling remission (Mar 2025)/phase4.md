@@ -12,7 +12,6 @@ section_id: assessment_to_guide_management
 parent_rec: null
 title: "Recommendation 1"
 source_pages: [3, 4, 5]
-strength: strong
 tables_referenced: []
 figures_referenced: []
 url_links: []
@@ -151,7 +150,6 @@ section_id: treatment
 parent_rec: null
 title: "Treatment overview"
 source_pages: [6]
-strength: null
 tables_referenced: []
 figures_referenced: []
 url_links: []
@@ -173,7 +171,6 @@ section_id: treatment
 parent_rec: null
 title: "Psychoeducation and self-help"
 source_pages: [6]
-strength: null
 tables_referenced: []
 figures_referenced: []
 url_links: []
@@ -195,7 +192,6 @@ section_id: treatment
 parent_rec: null
 title: "Social services and community resources"
 source_pages: [6]
-strength: null
 tables_referenced: []
 figures_referenced: []
 url_links: []
@@ -220,7 +216,6 @@ section_id: treatment
 parent_rec: null
 title: "Lifestyle practices"
 source_pages: [6]
-strength: null
 tables_referenced: []
 figures_referenced: []
 url_links: []
@@ -248,7 +243,6 @@ section_id: treatment
 parent_rec: null
 title: "Psychological treatment"
 source_pages: [6]
-strength: null
 tables_referenced: []
 figures_referenced: []
 url_links: []
@@ -268,7 +262,6 @@ section_id: treatment
 parent_rec: null
 title: "Psychological treatments"
 source_pages: [6]
-strength: null
 tables_referenced: []
 figures_referenced: []
 url_links: []
@@ -289,7 +282,6 @@ section_id: treatment
 parent_rec: null
 title: "Delivery format"
 source_pages: [6]
-strength: null
 tables_referenced: []
 figures_referenced: []
 url_links: []
@@ -312,7 +304,6 @@ section_id: treatment
 parent_rec: null
 title: "Pharmacological treatment"
 source_pages: [7]
-strength: null
 tables_referenced: []
 figures_referenced: []
 url_links: []
@@ -332,7 +323,6 @@ section_id: treatment
 parent_rec: null
 title: "SSRI and SNRI medications"
 source_pages: [7]
-strength: null
 tables_referenced: []
 figures_referenced: []
 url_links: []
@@ -362,7 +352,6 @@ section_id: treatment
 parent_rec: null
 title: "Other anxiolytic medications mentioned in this guidance"
 source_pages: [7]
-strength: null
 tables_referenced: []
 figures_referenced: []
 url_links: []
@@ -385,7 +374,6 @@ section_id: treatment
 parent_rec: null
 title: "A note on use of complementary and alternative medicine"
 source_pages: [7]
-strength: null
 tables_referenced: []
 figures_referenced: []
 url_links: []
@@ -408,7 +396,6 @@ section_id: treatment
 parent_rec: null
 title: "Recommendation 2"
 source_pages: [7]
-strength: strong
 tables_referenced: []
 figures_referenced: []
 url_links: []
@@ -463,7 +450,6 @@ section_id: treatment
 parent_rec: null
 title: "Recommendation 3"
 source_pages: [8]
-strength: strong
 tables_referenced:
   - Table 1. Features of psychological treatment and SSRI or SNRI medication
 figures_referenced: []
@@ -491,7 +477,6 @@ section_id: treatment
 parent_rec: Generalised anxiety disorder easing burden and enabling remission (Mar 2025).treatment.recommendation.03
 title: "Table 1. Features of psychological treatment and SSRI or SNRI medication"
 source_pages: [8]
-strength: null
 image_dir: 2d0a24d5c37a402663bcab641711100e6f112fcc22ace0c3dfc60b4462510eb9.jpg
 url_links: []
 cross_refs: []
@@ -513,7 +498,6 @@ section_id: treatment
 parent_rec: null
 title: "Recommendation 4"
 source_pages: [8, 9]
-strength: strong
 tables_referenced: []
 figures_referenced: []
 url_links: []
@@ -561,7 +545,6 @@ section_id: references
 parent_rec: null
 title: "References"
 source_pages: [18]
-strength: null
 tables_referenced: []
 figures_referenced: []
 url_links: []

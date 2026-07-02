@@ -12,7 +12,6 @@ section_id: overview
 parent_rec: null
 title: "Definitions and scope of application"
 source_pages: [1]
-strength: null
 tables_referenced: []
 figures_referenced: []
 url_links: []
@@ -54,7 +53,6 @@ section_id: first_trimester_screen_for_undiagnosed_pre_existing_diabetes_in_wome
 parent_rec: null
 title: "First trimester Screen for undiagnosed pre-existing diabetes in women at increased risk overview"
 source_pages: [2]
-strength: null
 tables_referenced: []
 figures_referenced: []
 url_links: []
@@ -100,7 +98,6 @@ section_id: 24–28_weeks_screen_for_gdm_in_all_women_without_diabetes_or_pre_di
 parent_rec: null
 title: "24–28 weeks Screen for GDM in all women without diabetes or pre-diabetes overview"
 source_pages: [2]
-strength: null
 tables_referenced:
   - Table 1. GDM diagnostic criteria
 figures_referenced: []
@@ -127,7 +124,6 @@ section_id: 24–28_weeks_screen_for_gdm_in_all_women_without_diabetes_or_pre_di
 parent_rec: null
 title: "Table 1. GDM diagnostic criteria"
 source_pages: [2]
-strength: null
 image_dir: 9760fb2f32934ccbeaeaccc96920c53989c2537854b3b7ddb448e390f707b5c0.jpg
 url_links: []
 cross_refs: []
@@ -151,7 +147,6 @@ section_id: avoiding_hba1c_for_screening_and_diagnosis_of_diabetes_during_pregna
 parent_rec: null
 title: "Avoiding HbA1c for screening and diagnosis of diabetes during pregnancy overview"
 source_pages: [3]
-strength: null
 tables_referenced: []
 figures_referenced: []
 url_links: []
@@ -176,7 +171,6 @@ section_id: post_pregnancy
 parent_rec: null
 title: "Follow up women with diabetes diagnosed during pregnancy"
 source_pages: [3]
-strength: null
 tables_referenced: []
 figures_referenced: []
 url_links: []
@@ -203,7 +197,6 @@ section_id: post_pregnancy
 parent_rec: null
 title: "Figure 1. Screening tests and diagnostic criteria for diabetes during and after pregnancy"
 source_pages: [4]
-strength: null
 reconstructed_from: summary
 image_dir: grouped_p4_fig_01.jpg
 url_links: []
@@ -235,7 +228,6 @@ section_id: references
 parent_rec: null
 title: "References"
 source_pages: [5]
-strength: null
 tables_referenced: []
 figures_referenced: []
 url_links: []

@@ -12,7 +12,6 @@ section_id: overview
 parent_rec: null
 title: "Definitions and scope of application"
 source_pages: [1]
-strength: null
 tables_referenced: []
 figures_referenced: []
 url_links: []
@@ -68,7 +67,6 @@ section_id: assessment_of_stroke_risk
 parent_rec: null
 title: "Recommendation 1"
 source_pages: [2]
-strength: strong
 tables_referenced: []
 figures_referenced:
   - Figure 1. Overview of oral anticoagulation in AF-related stroke prevention
@@ -119,7 +117,6 @@ section_id: anticoagulation_therapy
 parent_rec: null
 title: "Recommendation 2"
 source_pages: [2, 3, 4]
-strength: strong
 tables_referenced:
   - Table 1. Using DOACs for patients with AF and concomitant valvular heart disease (VHD)
 figures_referenced: []
@@ -168,7 +165,6 @@ section_id: anticoagulation_therapy
 parent_rec: oral-anticoagulation-for-atrial-fibrillation.anticoagulation_therapy.recommendation.02
 title: "Figure 1. Overview of oral anticoagulation in AF-related stroke prevention"
 source_pages: [3]
-strength: null
 reconstructed_from: mermaid
 image_dir: grouped_p3_fig_01.jpg
 url_links: []
@@ -214,7 +210,6 @@ section_id: anticoagulation_therapy
 parent_rec: oral-anticoagulation-for-atrial-fibrillation.anticoagulation_therapy.recommendation.02
 title: "Table 1. Using DOACs for patients with AF and concomitant valvular heart disease"
 source_pages: [4]
-strength: null
 image_dir: 83e6319057baa57f02b5d8450e4e1bcde9799d7e0cb094714008e7fa7bcc5923.jpg
 url_links: []
 cross_refs: []
@@ -239,7 +234,6 @@ section_id: anticoagulation_therapy
 parent_rec: oral-anticoagulation-for-atrial-fibrillation.anticoagulation_therapy.recommendation.02
 title: "Other considerations for warfarin therapy in patients with AF"
 source_pages: [4]
-strength: null
 image_dir: dcec98197354402498333a02865f7c89c330e7c7c58c7187fb465abafb899ae5.jpg
 url_links: []
 cross_refs: []
@@ -260,7 +254,6 @@ section_id: anticoagulation_therapy
 parent_rec: oral-anticoagulation-for-atrial-fibrillation.anticoagulation_therapy.recommendation.02
 title: "Table 2. Characteristics of oral anticoagulants registered in Singapore (extract"
 source_pages: [5]
-strength: null
 image_dir: 2a000c9d9c5c6db68faa5611e49a6e390d5ba9977c188a991438eb136e89968d.jpg
 url_links: []
 cross_refs: []
@@ -281,7 +274,6 @@ section_id: anticoagulation_therapy
 parent_rec: oral-anticoagulation-for-atrial-fibrillation.anticoagulation_therapy.recommendation.02
 title: "Dosing according to renal function, CrCl (mL/min)"
 source_pages: [5]
-strength: null
 image_dir: 4982245703446d1ed0761e55918e1edc42b5618b570bd79d281e08d90b290c7a.jpg
 url_links: []
 cross_refs: []
@@ -303,7 +295,6 @@ section_id: anticoagulation_therapy
 parent_rec: oral-anticoagulation-for-atrial-fibrillation.anticoagulation_therapy.recommendation.02
 title: "Dosing in liver impairment"
 source_pages: [5]
-strength: null
 image_dir: b710e8699eeaf0de67b89c356b305e992a31cda7e6f2f433ee64cf884553c1c2.jpg
 url_links: []
 cross_refs: []
@@ -337,7 +328,6 @@ section_id: anticoagulation_therapy
 parent_rec: null
 title: "Figure 2. Key monitoring parameters for patients with AF on DOACs"
 source_pages: [6]
-strength: null
 image_dir: facd5dd80419d8c5f6a9a23c32e7e1fb32097538ae1810bb445d301733fac946.jpg
 url_links: []
 cross_refs: []
@@ -367,7 +357,6 @@ section_id: anticoagulation_therapy
 parent_rec: null
 title: "Figure 3. Key monitoring parameters for patients with AF on warfarin"
 source_pages: [7]
-strength: null
 image_dir: 56562b8a5b7c952fde76d8e94bfd243310da2420b0d64ec75c137346fb939592.jpg
 url_links: []
 cross_refs: []
@@ -394,7 +383,6 @@ section_id: monitoring_and_review
 parent_rec: null
 title: "Recommendation 3"
 source_pages: [6, 7]
-strength: strong
 tables_referenced:
   - Table 3. Management of high INR without significant bleeding
 figures_referenced:
@@ -425,7 +413,6 @@ section_id: monitoring_and_review
 parent_rec: oral-anticoagulation-for-atrial-fibrillation.monitoring_and_review.recommendation.03
 title: "Table 3. Management of high INR without significant bleeding"
 source_pages: [7]
-strength: null
 image_dir: 388b6116c32946fa1ac8f24295f635770083db1aba7d551776d653a77f8a2c89.jpg
 url_links: []
 cross_refs: []
@@ -462,7 +449,6 @@ section_id: assessing_and_addressing_bleeding_risk
 parent_rec: null
 title: "Assessing and addressing bleeding risk overview"
 source_pages: [8]
-strength: null
 tables_referenced:
   - Table 4. HAS-BLED score
 figures_referenced: []
@@ -485,7 +471,6 @@ section_id: assessing_and_addressing_bleeding_risk
 parent_rec: null
 title: "Bleeding risk scores"
 source_pages: [7, 8]
-strength: null
 tables_referenced: []
 figures_referenced: []
 url_links: []
@@ -511,7 +496,6 @@ section_id: assessing_and_addressing_bleeding_risk
 parent_rec: null
 title: "Table 4. HAS-BLED score"
 source_pages: [8]
-strength: null
 image_dir: 317dd4b78d60dbba42a28b60b9403bbe47b68071acb0d498cfbcecc5273325e1.jpg
 url_links: []
 cross_refs: []
@@ -533,7 +517,6 @@ section_id: assessing_and_addressing_bleeding_risk
 parent_rec: null
 title: "High bleeding risk"
 source_pages: [8]
-strength: null
 tables_referenced: []
 figures_referenced: []
 url_links: []
@@ -553,7 +536,6 @@ section_id: assessing_and_addressing_bleeding_risk
 parent_rec: null
 title: "Recommendation 4"
 source_pages: [8, 9]
-strength: strong
 tables_referenced: []
 figures_referenced: []
 url_links: []
@@ -622,7 +604,6 @@ section_id: references
 parent_rec: null
 title: "References"
 source_pages: [10]
-strength: null
 tables_referenced: []
 figures_referenced: []
 url_links:

@@ -12,7 +12,6 @@ section_id: overview
 parent_rec: null
 title: "Definitions and scope of application"
 source_pages: [1]
-strength: null
 tables_referenced: []
 figures_referenced: []
 url_links: []
@@ -67,7 +66,6 @@ section_id: clinical_needs_assessment
 parent_rec: null
 title: "Recommendation 1"
 source_pages: [2, 4]
-strength: strong
 tables_referenced: []
 figures_referenced:
   - Figure 1: Personalising T2DM medications
@@ -150,7 +148,6 @@ section_id: clinical_needs_assessment
 parent_rec: acg-t2dm-personalising-medications.clinical_needs_assessment.recommendation.01
 title: "Figure 1: Personalising T2DM medications"
 source_pages: [3]
-strength: null
 reconstructed_from: mermaid
 image_dir: grouped_p3_fig_01.jpg
 url_links: []
@@ -205,7 +202,6 @@ section_id: pharmacological_treatment
 parent_rec: null
 title: "Pharmacological treatment overview"
 source_pages: [4]
-strength: null
 tables_referenced: []
 figures_referenced: []
 url_links: []
@@ -226,7 +222,6 @@ section_id: pharmacological_treatment
 parent_rec: null
 title: "Lifestyle intervention: a cornerstone of successful T2DM management"
 source_pages: [4]
-strength: null
 tables_referenced: []
 figures_referenced: []
 url_links: []
@@ -262,7 +257,6 @@ section_id: pharmacological_treatment
 parent_rec: null
 title: "Insulin and T2DM"
 source_pages: [4]
-strength: null
 tables_referenced: []
 figures_referenced: []
 url_links: []
@@ -285,7 +279,6 @@ section_id: pharmacological_treatment
 parent_rec: null
 title: "Recommendation 2"
 source_pages: [5]
-strength: strong
 tables_referenced: []
 figures_referenced:
   - Figure 1: Personalising T2DM medications
@@ -339,7 +332,6 @@ section_id: pharmacological_treatment
 parent_rec: null
 title: "Recommendation 3"
 source_pages: [6]
-strength: strong
 tables_referenced: []
 figures_referenced:
   - Figure 1: Personalising T2DM medications
@@ -392,7 +384,6 @@ section_id: pharmacological_treatment
 parent_rec: null
 title: "Recommendation 4"
 source_pages: [7, 8, 9]
-strength: strong
 tables_referenced: []
 figures_referenced:
   - Figure 1: Personalising T2DM medications
@@ -511,7 +502,6 @@ section_id: pharmacological_treatment
 parent_rec: null
 title: "Recommendation 5"
 source_pages: [9, 10]
-strength: strong
 tables_referenced: []
 figures_referenced: []
 url_links: []
@@ -567,7 +557,6 @@ section_id: pharmacological_treatment
 parent_rec: null
 title: "Recommendation 6"
 source_pages: [10, 11]
-strength: strong
 tables_referenced: []
 figures_referenced: []
 url_links: []
@@ -643,7 +632,6 @@ section_id: monitoring_and_follow_up
 parent_rec: null
 title: "Recommendation 7"
 source_pages: [11]
-strength: strong
 tables_referenced: []
 figures_referenced: []
 url_links: []
@@ -703,25 +691,18 @@ section_id: references
 parent_rec: null
 title: "References"
 source_pages: [12]
-strength: null
 tables_referenced: []
 figures_referenced: []
-url_links:
-  - https://www.ace-hta.gov.sg/docs/default-source/acgs/acg-t2dm-personalising-medications.pdf?sfvrsn=5a74ec49_16go.gov.sg/acg-t2dm-personalising-medications-reference-list
-  - https://www.ace-hta.gov.sg/docs/default-source/acgs/acg-t2dm-personalising-medications.pdf?sfvrsn=5a74ec49_16go.gov.sg/acg-t2dm-personalising-medications-resources
+url_links: []
 cross_refs: []
 review_flags: []
 ```
 
 Scan the QR code for the reference list to this clinical guidance
 
-- https://www.ace-hta.gov.sg/docs/default-source/acgs/acg-t2dm-personalising-medications.pdf?sfvrsn=5a74ec49_16go.gov.sg/acg-t2dm-personalising-medications-reference-list
-
 ### Useful resources
 
 Scan the QR code to access the resources mentioned in this clinical guidance
-
-- https://www.ace-hta.gov.sg/docs/default-source/acgs/acg-t2dm-personalising-medications.pdf?sfvrsn=5a74ec49_16go.gov.sg/acg-t2dm-personalising-medications-resources
 
 ### Expert group
 

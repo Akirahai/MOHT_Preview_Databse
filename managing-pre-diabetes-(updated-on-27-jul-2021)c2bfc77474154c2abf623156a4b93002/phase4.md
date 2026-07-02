@@ -12,7 +12,6 @@ section_id: overview
 parent_rec: null
 title: "Definitions and scope of application"
 source_pages: [1]
-strength: null
 tables_referenced: []
 figures_referenced: []
 url_links: []
@@ -68,7 +67,6 @@ section_id: diagnosis_of_pre_diabetes
 parent_rec: null
 title: "Diagnosis of pre-diabetes overview"
 source_pages: [1, 2]
-strength: null
 tables_referenced:
   - Table 1. Glucose thresholds for pre-diabetes
 figures_referenced: []
@@ -91,7 +89,6 @@ section_id: diagnosis_of_pre_diabetes
 parent_rec: null
 title: "Table 1. Glucose thresholds for pre-diabetes"
 source_pages: [2]
-strength: null
 image_dir: 0926c76e182d7b172c61b318f833bd15476059e4bbc9e59996281e04764494a8.jpg
 url_links: []
 cross_refs: []
@@ -118,7 +115,6 @@ section_id: lifestyle_intervention
 parent_rec: null
 title: "Lifestyle intervention overview"
 source_pages: [2]
-strength: null
 tables_referenced: []
 figures_referenced: []
 url_links: []
@@ -142,7 +138,6 @@ section_id: lifestyle_intervention
 parent_rec: null
 title: "Healthy diet"
 source_pages: [2]
-strength: null
 tables_referenced: []
 figures_referenced: []
 url_links: []
@@ -164,7 +159,6 @@ section_id: lifestyle_intervention
 parent_rec: null
 title: "Increased physical activity"
 source_pages: [1, 2]
-strength: null
 tables_referenced: []
 figures_referenced: []
 url_links: []
@@ -193,7 +187,6 @@ section_id: lifestyle_intervention
 parent_rec: null
 title: "Instructions on lifestyle intervention"
 source_pages: [2]
-strength: null
 tables_referenced: []
 figures_referenced: []
 url_links: []
@@ -213,7 +206,6 @@ section_id: lifestyle_intervention
 parent_rec: null
 title: "Portion a healthy plate"
 source_pages: [2]
-strength: null
 tables_referenced: []
 figures_referenced: []
 url_links: []
@@ -237,7 +229,6 @@ section_id: lifestyle_intervention
 parent_rec: null
 title: "Avoid sweetened beverages and foods"
 source_pages: [2]
-strength: null
 tables_referenced: []
 figures_referenced: []
 url_links: []
@@ -257,7 +248,6 @@ section_id: lifestyle_intervention
 parent_rec: null
 title: "Eat less fat"
 source_pages: [2]
-strength: null
 tables_referenced: []
 figures_referenced: []
 url_links: []
@@ -279,7 +269,6 @@ section_id: lifestyle_intervention
 parent_rec: null
 title: "Limit alcohol intake"
 source_pages: [2]
-strength: null
 tables_referenced: []
 figures_referenced: []
 url_links: []
@@ -301,7 +290,6 @@ section_id: lifestyle_intervention
 parent_rec: null
 title: "Sustained behavioural changes"
 source_pages: [3]
-strength: null
 tables_referenced: []
 figures_referenced: []
 url_links: []
@@ -322,7 +310,6 @@ section_id: lifestyle_intervention
 parent_rec: null
 title: "Tailor lifestyle intervention to individual needs"
 source_pages: [3]
-strength: null
 tables_referenced: []
 figures_referenced: []
 url_links: []
@@ -346,7 +333,6 @@ section_id: lifestyle_intervention
 parent_rec: null
 title: "Reinforce behavioural changes continuously"
 source_pages: [3]
-strength: null
 tables_referenced: []
 figures_referenced: []
 url_links: []
@@ -374,7 +360,6 @@ section_id: lifestyle_intervention
 parent_rec: null
 title: "Role of lifestyle intervention"
 source_pages: [5]
-strength: null
 tables_referenced: []
 figures_referenced: []
 url_links: []
@@ -412,7 +397,6 @@ section_id: lifestyle_intervention
 parent_rec: null
 title: "≥ 150 minutes per week"
 source_pages: [5]
-strength: null
 tables_referenced: []
 figures_referenced: []
 url_links: []
@@ -436,7 +420,6 @@ section_id: lifestyle_intervention
 parent_rec: null
 title: "≥ 75 minutes per week"
 source_pages: [5]
-strength: null
 tables_referenced: []
 figures_referenced: []
 url_links: []
@@ -468,7 +451,6 @@ section_id: lifestyle_intervention
 parent_rec: null
 title: "How to sustain lifestyle changes"
 source_pages: [5]
-strength: null
 tables_referenced: []
 figures_referenced: []
 url_links: []
@@ -508,7 +490,6 @@ section_id: pharmacotherapy
 parent_rec: null
 title: "Pharmacotherapy overview"
 source_pages: [3]
-strength: null
 tables_referenced: []
 figures_referenced: []
 url_links: []
@@ -533,7 +514,6 @@ section_id: pharmacotherapy
 parent_rec: null
 title: "Indication, dosing regimen, and side effects of metformin for pre-diabetes"
 source_pages: [3]
-strength: null
 tables_referenced: []
 figures_referenced: []
 url_links: []
@@ -565,7 +545,6 @@ section_id: pharmacotherapy
 parent_rec: null
 title: "Figure 1. Pathway for managing pre-diabetes"
 source_pages: [4]
-strength: null
 reconstructed_from: mermaid
 image_dir: grouped_p4_fig_01.jpg
 url_links: []
@@ -612,7 +591,6 @@ section_id: references
 parent_rec: null
 title: "References"
 source_pages: [6]
-strength: null
 tables_referenced: []
 figures_referenced: []
 url_links: []

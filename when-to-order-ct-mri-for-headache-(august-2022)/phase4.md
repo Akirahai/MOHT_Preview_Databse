@@ -12,7 +12,6 @@ section_id: overview
 parent_rec: null
 title: "Definitions and scope of application"
 source_pages: [1]
-strength: null
 tables_referenced: []
 figures_referenced: []
 url_links: []
@@ -61,7 +60,6 @@ section_id: overall_approach_to_headache_assessment
 parent_rec: null
 title: "Overall approach to headache assessment overview"
 source_pages: [2]
-strength: null
 tables_referenced: []
 figures_referenced: []
 url_links: []
@@ -84,7 +82,6 @@ section_id: overall_approach_to_headache_assessment
 parent_rec: null
 title: "Recommendation 1"
 source_pages: [2]
-strength: strong
 tables_referenced: []
 figures_referenced: []
 url_links: []
@@ -122,7 +119,6 @@ section_id: ct/mri_for_primary_headaches
 parent_rec: null
 title: "Recommendation 2"
 source_pages: [3]
-strength: strong
 tables_referenced: []
 figures_referenced: []
 url_links: []
@@ -154,7 +150,6 @@ section_id: ct/mri_for_secondary_headaches
 parent_rec: null
 title: "CT/MRI for secondary headaches overview"
 source_pages: [3]
-strength: null
 tables_referenced:
   - Table 1. SNNOOP10 list of red flags for secondary headaches
 figures_referenced: []
@@ -180,7 +175,6 @@ section_id: ct/mri_for_secondary_headaches
 parent_rec: null
 title: "Table 1. SNNOOP10 list of red flags for secondary headaches"
 source_pages: [3]
-strength: null
 image_dir: 73c6f9eff610677d48c95f2a89ba3027d84ee1319b215796726928b41f94fa09.jpg
 url_links: []
 cross_refs: []
@@ -206,7 +200,6 @@ section_id: choosing_between_ct_and_mri
 parent_rec: null
 title: "Choosing between CT and MRI overview"
 source_pages: [4]
-strength: null
 tables_referenced: []
 figures_referenced: []
 url_links: []
@@ -227,7 +220,6 @@ section_id: choosing_between_ct_and_mri
 parent_rec: null
 title: "Recommendation 3"
 source_pages: [4]
-strength: strong
 tables_referenced: []
 figures_referenced: []
 url_links: []
@@ -256,7 +248,6 @@ section_id: choosing_between_ct_and_mri
 parent_rec: null
 title: "Recommendation 4"
 source_pages: [4]
-strength: strong
 tables_referenced: []
 figures_referenced: []
 url_links: []
@@ -285,7 +276,6 @@ section_id: choosing_between_ct_and_mri
 parent_rec: null
 title: "Recommendation 5"
 source_pages: [5]
-strength: strong
 tables_referenced: []
 figures_referenced: []
 url_links: []
@@ -314,7 +304,6 @@ section_id: choosing_between_ct_and_mri
 parent_rec: null
 title: "Recommendation 6"
 source_pages: [5]
-strength: strong
 tables_referenced:
   - Table 1. SNNOOP10 list of red flags for secondary headaches
 figures_referenced: []
@@ -351,7 +340,6 @@ section_id: references
 parent_rec: null
 title: "References"
 source_pages: [6]
-strength: null
 tables_referenced: []
 figures_referenced: []
 url_links: []

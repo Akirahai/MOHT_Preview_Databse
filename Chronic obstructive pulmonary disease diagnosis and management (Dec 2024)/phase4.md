@@ -12,7 +12,6 @@ section_id: overview
 parent_rec: null
 title: "Definitions and scope of application"
 source_pages: [1]
-strength: null
 tables_referenced: []
 figures_referenced: []
 url_links: []
@@ -69,7 +68,6 @@ section_id: establishing_a_diagnosis_of_copd
 parent_rec: null
 title: "Recommendation 1"
 source_pages: [2]
-strength: strong
 tables_referenced: []
 figures_referenced:
   - Figure 1. Overview of diagnosis and management of COPD
@@ -107,17 +105,16 @@ section_id: establishing_a_diagnosis_of_copd
 parent_rec: null
 title: "Recommendation 2"
 source_pages: [2, 4]
-strength: strong
 tables_referenced:
   - Table 1. Features favouring COPD or asthma
 figures_referenced:
   - Figure 2. Components of COPD diagnosis
 url_links:
-  - https://go.gov.sg/suppl-guide-copd-interpreting-spirometry-pdf
-  - https://go.gov.sg/suppl-guide-copd-open-access-spirometry-pdf
-  - https://www.ace-hta.gov.sg/docs/default-source/acgs/patient-education-aid--spirometry-test-for-lung-conditions.pdf?sfvrsn=58c51413_1
   - https://go.gov.sg/acg-asthma-optimising-long-term-management-with-inhaled-corticosteroid
-cross_refs: []
+cross_refs:
+  - suppl-guide-copd-interpreting-spirometry-pdf
+  - suppl-guide-copd-open-access-spirometry-pdf
+  - patient-education-aid--spirometry-test-for-lung-conditions
 review_flags:
   - contains_conditional_language
 ```
@@ -198,7 +195,6 @@ section_id: establishing_a_diagnosis_of_copd
 parent_rec: Chronic obstructive pulmonary disease diagnosis and management (Dec 2024).establishing_a_diagnosis_of_copd.recommendation.02
 title: "Figure 2. Components of COPD diagnosis"
 source_pages: [2]
-strength: null
 reconstructed_from: mermaid
 image_dir: grouped_p2_fig_01.jpg
 url_links: []
@@ -232,7 +228,6 @@ section_id: establishing_a_diagnosis_of_copd
 parent_rec: Chronic obstructive pulmonary disease diagnosis and management (Dec 2024).establishing_a_diagnosis_of_copd.recommendation.02
 title: "Figure 1. Overview of diagnosis and management of COPD"
 source_pages: [3]
-strength: null
 reconstructed_from: mermaid
 image_dir: grouped_p3_fig_01.jpg
 url_links: []
@@ -282,7 +277,6 @@ section_id: establishing_a_diagnosis_of_copd
 parent_rec: Chronic obstructive pulmonary disease diagnosis and management (Dec 2024).establishing_a_diagnosis_of_copd.recommendation.02
 title: "Table 1. Features favouring COPD or asthma"
 source_pages: [5]
-strength: null
 image_dir: 8dbce0ca3ec65f5c63e7024f32a2d39f6bc99053a076432ae6468c5c71255c87.jpg
 url_links: []
 cross_refs: []
@@ -297,6 +291,194 @@ review_flags: []
 
 ---
 
+```yaml
+cpg_id: Chronic obstructive pulmonary disease diagnosis and management (Dec 2024)
+chunk_id: Chronic obstructive pulmonary disease diagnosis and management (Dec 2024).establishing_a_diagnosis_of_copd.additional_material.01
+chunk_type: additional_material
+section_id: establishing_a_diagnosis_of_copd
+parent_rec: Chronic obstructive pulmonary disease diagnosis and management (Dec 2024).establishing_a_diagnosis_of_copd.recommendation.02
+title: "Supplementary guide on interpreting spirometry reports (june 2024)"
+source_pages: [4]
+url_links: []
+cross_refs:
+  - suppl-guide-copd-interpreting-spirometry-pdf
+review_flags:
+  - external_resource
+```
+
+**External material — Supplementary guide on interpreting spirometry reports (june 2024)**
+
+*Source: https://go.gov.sg/suppl-guide-copd-interpreting-spirometry-pdf*
+
+### Interpreting spirometry reports
+
+### When suspecting COPD
+
+Spirometry is a reliable test to measure airflow limitation. It identifies three abnormal ventilatory patterns: obstructive (such as in COPD and asthma), restrictive (such as in pulmonary fibrosis and pleural disease), and mixed (when both obstructive and restrictive lung diseases are present).
+
+If $FEV_{1}/FVC <0.70$ , there is airflow limitation. $^{1}$ Post-bronchodilator $FEV_{1}/FVC <0.70$ confirms COPD in patients with consistent risk factors and symptoms. $^{1}$ Some patients with untreated asthma may also have post-bronchodilator $FEV_{1}/FVC <0.70$ .
+
+### Compare the patient's spirometry indices against reference or predicted values
+
+Table 1. Features of ventilatory patterns
+
+<table><tr><td rowspan="2">Spirometry indices</td><td rowspan="2">Normal pattern</td><td colspan="3">Abnormal ventilatory patterns</td></tr><tr><td>Obstructive</td><td>Restrictive</td><td>Mixed</td></tr><tr><td> $FEV_1/FVC$ </td><td>&gt;0.70</td><td></td><td>Normal or ▲</td><td>▼</td></tr><tr><td> $FEV_1$ </td><td>&gt;80% predicted</td><td></td><td>Normal or ▼</td><td>▼</td></tr><tr><td>FVC</td><td>&gt;80% predicted</td><td>Normal or ▼</td><td>▼</td><td>▼</td></tr></table>
+
+FEV $_{1}$ , Forced expiratory volume in one second is the air volume forcibly expelled in the first second following a maximum inspiration.  
+FVC, Forced vital capacity is the total air volume forcibly expelled following a maximum inspiration.  
+FEV $_{1}$ /FVC, the ratio of both measurements.
+
+![](images/cb6f888c1564e9f30ca33780464a583aa5df9a79d078b3f1a21fa16716198f5c.jpg)
+
+### Consider the limitations of post-bronchodilator spirometry readings $FEV_{1}/FVC <0.7$ in young adults and the elderly
+
+Using a fixed $\mathrm{FEV}_1 / \mathrm{FVC} < 0.7$ can cause underdiagnosis in young adults and overdiagnosis of COPD in the elderly. Therefore, any workup for COPD should also take account of symptom presentation and risk factors.
+
+For example, a young adult with chronic respiratory symptoms and a risk factor for alpha-1 antitrypsin deficiency but a $FEV_{1}/FVC$ just above 0.7 should still be considered for a diagnosis of COPD. Alternatively, an elderly gentleman without respiratory symptoms or risk factors, but a $FEV_{1}/FVC$ just below 0.7 may not have COPD.
+
+Alternative methods for identifying obstruction on spirometry reports include the use of lower limit of normal (LLN).
+
+### Examine curve shape to confirm pattern
+
+The spirometry curve shapes indicate the type of ventilatory pattern. Refer to a specialist when spirometry is abnormal but not diagnostic. $^{2}$
+
+Figure 1. Features of ventilatory patterns  
+![](images/355030527d08d5c95112c525f6305cc3bb3227ba43ea22dd299850c52240005d.jpg)
+
+Figure 2. Flow-volume curves  
+![](images/e15af4dcbe5d8250fe90622457f61a763912aa78f82de81942ad0a0baa1bd76c.jpg)
+
+---
+
+```yaml
+cpg_id: Chronic obstructive pulmonary disease diagnosis and management (Dec 2024)
+chunk_id: Chronic obstructive pulmonary disease diagnosis and management (Dec 2024).establishing_a_diagnosis_of_copd.additional_material.02
+chunk_type: additional_material
+section_id: establishing_a_diagnosis_of_copd
+parent_rec: Chronic obstructive pulmonary disease diagnosis and management (Dec 2024).establishing_a_diagnosis_of_copd.recommendation.02
+title: "Supplementary guide on open access spirometry in singapore (june 2024)"
+source_pages: [4]
+url_links: []
+cross_refs:
+  - suppl-guide-copd-open-access-spirometry-pdf
+review_flags:
+  - external_resource
+```
+
+**External material — Supplementary guide on open access spirometry in singapore (june 2024)**
+
+*Source: https://go.gov.sg/suppl-guide-copd-open-access-spirometry-pdf*
+
+### Open-access spirometry in Singapore
+
+Patients from primary care or other specialists without onsite spirometry can be referred directly to the following sites for spirometry. The doctor needs to provide a referral letter or memo, and the spirometry report will be sent to the referring doctor.
+
+<table><tr><td>Institution</td><td>Location</td><td>Contact details for booking appointments</td></tr><tr><td rowspan="2">Bethesda Medical</td><td>Suntec City3 Temasek Boulevard, Suntec City, #03-330, Tower 1-2, North Wing, Singapore 038983</td><td>Email:Suntec@bethesda.com.sgWhatsApp: 9878 8933</td></tr><tr><td>Grantral601 Macpherson Road, #01-03/04, Grantral Mall, Singapore 368242</td><td>Email:macpherson@bethesda.com.sgWhatsApp: 8720 8933</td></tr><tr><td>Changi General Hospital (CGH)</td><td>2 Simei Street 3, Singapore 529889</td><td>Tel: 6936 5491 / 6936 5492</td></tr><tr><td>Frontier Family Medicine Clinic</td><td>3151 Commonwealth Ave West, 04-01 Grantral Mall@Clementi, Singapore 129581</td><td>Tel: 6778 8362Email:fmc@frontierhealthcare.com.sg</td></tr><tr><td rowspan="3">I-CARE PCN</td><td>CareHub @ SimsBlk 53 Sims Place, #01-170, Singapore 380053</td><td>Tel: 6856 9807WhatsApp: 8802 8283Email:admin@icarepcn.com</td></tr><tr><td>Manhattan Branch151 Chin Swee Road, #01-54, Singapore 169876</td><td>Tel: 6856 9800WhatsApp: 8925 1994Email:admin@icarepcn.com</td></tr><tr><td>Jurong Branch104 Jurong East Street 13, #01-100 (Level 2), Singapore 600104</td><td>Tel: 6856 9806WhatsApp: 8904 3226Email:admin@icarepcn.com</td></tr><tr><td>Khoo Teck Puat Hospital (KTPH)</td><td>90 Yishun Central, Pulmonary Function Laboratory Tower C, Level 5, Clinic C52, Singapore 768828</td><td>Tel: 6602 3491 for appointmentsEmail encrypted memo to:ktph.pulmonary.function@ktph.com.sg</td></tr><tr><td>National Healthcare Group Polyclinics (NHGP)</td><td>• Ang Mo Kio Polyclinic• Geylang Polyclinic• Hougang Polyclinic• Kallang Polyclinic• Khatib Polyclinic• Sembawang Polyclinic• Toa Payoh Polyclinic• Woodlands Polyclinic• Yishun Polyclinic</td><td>Form.sg:https://form.gov.sg/627c62a023cafb00161cd877</td></tr><tr><td>National University Hospital (NUH)</td><td>13b Medicine Clinic, NUH Medical Centre, Level 13, 5 Lower Kent Ridge, Singapore 119074</td><td>Tel: 6772 2244</td></tr><tr><td rowspan="4">NUHS PCN</td><td>Loh &amp; Loh Clinic &amp; Surgery501 West Coast Drive #01-284, Singapore 120501</td><td>Tel: 6776 7723Email:contact@lohandlohclinic.com.sg</td></tr><tr><td>Keat Hong Family Medicine ClinicKeat Hong Community Club2 Choa Chu Kang Loop #03-02, Singapore 689687</td><td>Tel: 6769 0750Email:keathongfmc@gmail.com</td></tr><tr><td>Trinity Medical ClinicBlk 130 Jurong Gateway Road #02-205/207, Singapore 600130</td><td>Tel: 6560 7088 / 6908 0570Email:may@trinitymedical.com.sg/admin@trinitymedical.com.sg</td></tr><tr><td>West Point Clinic &amp; SurgeryRoyal Square Medical CentreBlk 101 Irrawaddy Road, #15-03, Singapore 329656</td><td>Tel: 6255 1811Email:info@westpoint.com.sg</td></tr><tr><td rowspan="2">NUHS PCN</td><td>Lakeside Family Medicine ClinicBlk 518A Jurong West Street 52 #01-02, Singapore 641518</td><td>Tel: 6262 6434</td></tr><tr><td>Caring Family ClinicBlk 501 Jurong West Street 51 #01-271, Singapore 640501</td><td>Tel: 6564 5677Email:caringfc@gmail.com</td></tr><tr><td>National University Polyclinics (NUP)</td><td>Bukit Batok PolyclinicBukit Panjang PolyclinicChoa Chu Kang PolyclinicPioneer Polyclinic</td><td>Tel: 6370 6556Email:nuhsd_contact@nuhs.edu.sg</td></tr><tr><td>Ng Teng Fong General Hospital (NTFGH)</td><td>1 Jurong East Street 21, Singapore 609606</td><td>Email:JHCampus_Pulmonary_Function_Laboratory@nuhs.edu.sg</td></tr><tr><td rowspan="7">SATA CommHealth</td><td>Ang Mo Kio Medical Centre715 Ang Mo Kio Avenue 6 #01-4008/4010, Singapore 560715</td><td>6554 5080 (POC: Tey Pei Nee)</td></tr><tr><td>Uttamram (Bedok) Medical CentreSATA CommHealth Building351 Chai Chee Street, Singapore 468982</td><td>6244 6687 (POC: Suraya)</td></tr><tr><td>Fernvale Medical CentreFernvale LodgeBlk 447B Jalan Kayu #01-01, Singapore 792447</td><td>6236 1028 (POC: Elaine Yong)</td></tr><tr><td>Jurong Medical Centre135 Jurong Gateway Road #04-345, Singapore 600135</td><td>6896 3626 (POC: Tan Mui Hiah Theresa)</td></tr><tr><td>Potong Pasir Medical Centre1 Siang Kuang Avenue, Singapore 347919</td><td>6312 3088 (POC: Kwee Mei [Evonne] Ku)</td></tr><tr><td>Tampines Medical CentreTelepark Building5 Tampines Central 6 #01-01A , Singapore 529482</td><td>6787 8035 (POC: Nurasheeren)</td></tr><tr><td>Woodlands Medical CentreWoodlands Civic Centre900 South Woodlands Drive #04-01, Singapore 730900</td><td>6767 1716 (POC: Uma Devi)</td></tr><tr><td>Sengkang General Hospital (SKH)</td><td>110 Sengkang East Way, Singapore 544886</td><td>Tel: 6930 6000 for appointmentTel: 6930 3997 for enquiriesEmail:appointments@skh.com.sg</td></tr><tr><td>Singapore General Hospital (SGH)</td><td>1 Outram Road, Singapore 169608</td><td>Tel: 6321 3559</td></tr><tr><td>Tan Tock Seng Hospital (TTSH)</td><td>11 Jalan Tan Tock Seng, Singapore 308433</td><td>Tel: 6889 4332Fax: 6889 4334</td></tr></table>
+
+---
+
+```yaml
+cpg_id: Chronic obstructive pulmonary disease diagnosis and management (Dec 2024)
+chunk_id: Chronic obstructive pulmonary disease diagnosis and management (Dec 2024).establishing_a_diagnosis_of_copd.additional_material.03
+chunk_type: additional_material
+section_id: establishing_a_diagnosis_of_copd
+parent_rec: Chronic obstructive pulmonary disease diagnosis and management (Dec 2024).establishing_a_diagnosis_of_copd.recommendation.02
+title: "Patient education aid spirometry test for lung conditions"
+source_pages: [4]
+url_links: []
+cross_refs:
+  - patient-education-aid--spirometry-test-for-lung-conditions
+review_flags:
+  - external_resource
+```
+
+**External material — Patient education aid spirometry test for lung conditions**
+
+*Source: https://www.ace-hta.gov.sg/docs/default-source/acgs/patient-education-aid--spirometry-test-for-lung-conditions.pdf?sfvrsn=58c51413_1*
+
+### What is spirometry?
+
+Spirometry is a common and simple test that measures how much, how fast, and how long you can breathe air in and out from your lungs. It is used to diagnose and monitor different lung conditions. The test can be done in a testing lab or doctor's clinic, and involves blowing forcefully into a device called a spirometer.
+
+![](images/8e28ff17337d67d46a2837d44eda4ac56e6338dea7d8dca026ce07469a1a97eb.jpg)
+
+<details>
+<summary>natural_image</summary>
+
+Illustration of a female doctor sitting at a desk with a computer (no text or symbols visible)
+</details>
+
+### Why is it important to take this test?
+
+Your doctor may recommend spirometry if you have symptoms such as a cough that does not go away, shortness of breath, or if you're at risk of lung conditions due to smoking, exposure to hazards, or ageing. It helps doctors:
+
+![](images/816a35f8337c8a7677068821e955e8da3a4f9a2b727dd5237fd32e11c429eb14.jpg)  
+Diagnose lung conditions accurately
+
+![](images/a415a8851fa4483b1505d32c568af91449a1ce0da1145fc1dc4d9fabadb85ba8.jpg)  
+Assess the severity of lung conditions
+
+![](images/0f9b54c66153882869558d6a45f2e4f4b2b90f0f711979e2dbcb98b168436d47.jpg)  
+Track how well you respond to treatment
+
+### Which conditions can be diagnosed with spirometry?
+
+Many lung conditions have similar symptoms. Spirometry can help your doctor find out what type of lung condition you have so they can prescribe the appropriate treatment.
+
+The results can help your doctor diagnose or monitor lung conditions such as:
+
+√ asthma  
+√ chronic obstructive pulmonary disease (COPD) $^{1}$  
+√ pulmonary fibrosis
+
+### What happens during spirometry?
+
+Before the test begins, a clip may be placed on your nose to stop air escaping from it. You will then take a deep breath in and wrap your lips tightly around a special mouthpiece, before breathing out as hard and fast as possible.
+
+With the mouthpiece still in your mouth you will take another big breath in before having a rest and breathing normally. You may be asked to repeat the test to make sure the measurements are accurate and consistent. The test usually takes less than 15 minutes and you can ask your doctor or nurse at any point during testing if you are unsure of what to do.
+
+![](images/171e534f9f98df012477ad7262fd68382f46e0f382a2f40ac1174273aeffe373.jpg)
+
+<details>
+<summary>natural_image</summary>
+
+Illustration of a woman drinking from a cup (no text or symbols)
+</details>
+
+![](images/8cff9de13725983ac669b8561fdcff6941fbcfa1268380a81cdb900c1752541a.jpg)
+
+Your doctor may also ask you to use an inhaler to relax and open your airways and then repeat the test after 10 to 15 minutes to see if there is any improvement in how your lungs work.
+
+### What are the risks of this test?
+
+While spirometry is generally safe, some people may feel dizzy or tired for a short period of time. Ask your doctor for a break if you need rest.
+
+Blowing forcefully into the mouthpiece during the test can put pressure on your chest, ears, eyes, and stomach, so your doctor may advise you to avoid or postpone spirometry if you have certain health conditions or had recent surgeries on your eyes, abdomen or chest.
+
+![](images/89d9b85969e271682ac3cbe703f977fc4fe947e29fd01128e7b79949f2ce0916.jpg)
+
+<details>
+<summary>natural_image</summary>
+
+Illustration of a woman with closed eyes and hand near face, wearing purple top (no text or symbols)
+</details>
+
+### What do the results mean?
+
+Spirometry will produce a range of test results, which your doctor will interpret to help you understand how well your lungs are functioning. Your doctor may compare your spirometry results with normal values of someone your age, ethnicity, height, and gender.
+
+Results outside of normal ranges may point towards a lung problem, and you may need more tests or an adjustment to your treatment. You may also need to repeat the test in the future to monitor how well your lungs are working.
+
+![](images/25520c6cf10af51bcc2a6da7969a7306984afe94cc8d4bcc6ab65daceaaa744f.jpg)
+
+<details>
+<summary>natural_image</summary>
+
+Illustration of a smiling doctor in a white coat and stethoscope, holding a tablet (no text or symbols present)
+</details>
+
+---
+
 
 ## Initial and ongoing COPD assessment
 
@@ -308,7 +490,6 @@ section_id: initial_and_ongoing_copd_assessment
 parent_rec: null
 title: "Recommendation 3"
 source_pages: [6]
-strength: strong
 tables_referenced: []
 figures_referenced:
   - Figure 4. Individualised maintenance pharmacotherapy options for patients with COPD
@@ -361,7 +542,6 @@ section_id: management_of_stable_copd
 parent_rec: null
 title: "Management of stable COPD overview"
 source_pages: [7]
-strength: null
 tables_referenced: []
 figures_referenced: []
 url_links: []
@@ -386,7 +566,6 @@ section_id: management_of_stable_copd
 parent_rec: null
 title: "Recommendation 4"
 source_pages: [7]
-strength: strong
 tables_referenced: []
 figures_referenced:
   - Figure 3. Smoking and decline of lung function
@@ -422,7 +601,6 @@ section_id: management_of_stable_copd
 parent_rec: Chronic obstructive pulmonary disease diagnosis and management (Dec 2024).management_of_stable_copd.recommendation.04
 title: "Figure 3. Smoking and decline of lung function"
 source_pages: [7]
-strength: null
 reconstructed_from: table
 image_dir: grouped_p7_fig_01.jpg
 url_links: []
@@ -460,7 +638,6 @@ section_id: management_of_stable_copd
 parent_rec: Chronic obstructive pulmonary disease diagnosis and management (Dec 2024).management_of_stable_copd.recommendation.04
 title: "Figure 4. Individualised maintenance pharmacotherapy options for patients with COPD"
 source_pages: [8]
-strength: null
 reconstructed_from: mermaid
 image_dir: grouped_p8_fig_01.jpg
 url_links: []
@@ -507,7 +684,6 @@ section_id: management_of_stable_copd
 parent_rec: null
 title: "Recommendation 6"
 source_pages: [9]
-strength: strong
 tables_referenced: []
 figures_referenced: []
 url_links: []
@@ -529,7 +705,6 @@ section_id: management_of_stable_copd
 parent_rec: null
 title: "Recommendation 7"
 source_pages: [9]
-strength: conditional
 tables_referenced: []
 figures_referenced:
   - Figure 4. Individualised maintenance pharmacotherapy options for patients with COPD
@@ -579,7 +754,6 @@ section_id: management_of_stable_copd
 parent_rec: null
 title: "Recommendation 8"
 source_pages: [10, 11, 12]
-strength: strong
 tables_referenced: []
 figures_referenced:
   - Figure 5
@@ -683,7 +857,6 @@ section_id: management_of_stable_copd
 parent_rec: Chronic obstructive pulmonary disease diagnosis and management (Dec 2024).management_of_stable_copd.recommendation.08
 title: "Maintenance – long-acting bronchodilators"
 source_pages: [10]
-strength: null
 image_dir: 4be51e8164f1db062cc5f14292438cae2c404e2b0bbc925f1cfade83f1182d61.jpg
 url_links: []
 cross_refs: []
@@ -705,7 +878,6 @@ section_id: management_of_stable_copd
 parent_rec: Chronic obstructive pulmonary disease diagnosis and management (Dec 2024).management_of_stable_copd.recommendation.08
 title: "Maintenance – ICS  combinations"
 source_pages: [10]
-strength: null
 image_dir: 50b150bb7cbf7653ed12194598bd6189a9e3ec3bb0f505c605df9469ea112bb0.jpg
 url_links: []
 cross_refs: []
@@ -729,7 +901,6 @@ section_id: references
 parent_rec: null
 title: "References"
 source_pages: [12]
-strength: null
 tables_referenced: []
 figures_referenced: []
 url_links: []

@@ -12,7 +12,6 @@ section_id: overview
 parent_rec: null
 title: "Definitions and scope of application"
 source_pages: [1]
-strength: null
 tables_referenced: []
 figures_referenced: []
 url_links: []
@@ -66,7 +65,6 @@ section_id: foot_assessment
 parent_rec: null
 title: "Recommendation 1"
 source_pages: [2]
-strength: strong
 tables_referenced: []
 figures_referenced:
   - Figure 1. Active diabetic foot presentation and management
@@ -90,7 +88,6 @@ section_id: foot_assessment
 parent_rec: foot-assessment-in-patients-with-diabetes-mellitus-(aug-2024).foot_assessment.recommendation.01
 title: "Figure 1. Active diabetic foot presentation and management"
 source_pages: [2]
-strength: null
 reconstructed_from: mermaid
 image_dir: grouped_p2_fig_01.jpg
 url_links: []
@@ -131,7 +128,6 @@ section_id: foot_assessment
 parent_rec: null
 title: "Recommendation 2"
 source_pages: [3]
-strength: strong
 tables_referenced: []
 figures_referenced:
   - Figure 2. Risk stratification based on clinical findings from foot assessment in patients with diabetes mellitus (For features of active diabetic foot conditions, see Figure 1)
@@ -208,7 +204,6 @@ section_id: referral
 parent_rec: null
 title: "Referral overview"
 source_pages: [4]
-strength: null
 tables_referenced: []
 figures_referenced: []
 url_links:
@@ -241,7 +236,6 @@ section_id: review
 parent_rec: null
 title: "Review overview"
 source_pages: [4]
-strength: null
 tables_referenced: []
 figures_referenced: []
 url_links: []
@@ -271,7 +265,6 @@ section_id: review
 parent_rec: null
 title: "Figure 2. Risk stratification based on clinical findings from foot assessment in patients with diabetes mellitus (For features of active diabetic foot conditions, see Figure 1)"
 source_pages: [5]
-strength: null
 reconstructed_from: mermaid
 image_dir: grouped_p5_fig_01.jpg
 url_links: []
@@ -345,7 +338,6 @@ section_id: review
 parent_rec: null
 title: "Figure 3. Foot examination and main objective tests for risk stratification"
 source_pages: [6]
-strength: null
 reconstructed_from: mermaid
 image_dir: grouped_p6_fig_01.jpg
 url_links: []
@@ -402,7 +394,6 @@ section_id: patient_education
 parent_rec: null
 title: "Recommendation 3"
 source_pages: [7]
-strength: strong
 tables_referenced: []
 figures_referenced:
   - Figure 4. Patient education aid on foot care and footwear
@@ -428,7 +419,6 @@ section_id: patient_education
 parent_rec: foot-assessment-in-patients-with-diabetes-mellitus-(aug-2024).patient_education.recommendation.03
 title: "Figure 4. Patient education aid on foot care and footwear"
 source_pages: [7]
-strength: null
 reconstructed_from: table
 image_dir: grouped_p7_fig_01.jpg
 url_links: []
@@ -475,12 +465,11 @@ section_id: references
 parent_rec: null
 title: "References"
 source_pages: [8]
-strength: null
 tables_referenced: []
 figures_referenced: []
-url_links:
-  - http://go.gov.sg/acg-dfa-ref
-cross_refs: []
+url_links: []
+cross_refs:
+  - acg-dfa-ref
 review_flags: []
 ```
 
@@ -554,7 +543,6 @@ section_id: references
 parent_rec: foot-assessment-in-patients-with-diabetes-mellitus-(aug-2024).patient_education.recommendation.03
 title: "Supplementary Table 1. IWGDF/IDSA classification of presence and severity of inf"
 source_pages: [9]
-strength: null
 image_dir: 307109b7fb81f99adcbbb415659821522eccbd9f08138627ed3f4cc8425a4bdb.jpg
 url_links: []
 cross_refs: []
@@ -572,5 +560,60 @@ review_flags: []
 > *Footnote: In any direction, from the rim of the wound.*
 
 > *Footnote: ### If osteomyelitis is demonstrated in the absence of ≥2 signs/symptoms of local or systemic inflammation, classify the foot as either grade 3(O) if <2 SIRS criteria, or grade 4(O) if ≥2 SIRS criteria.*
+
+---
+
+```yaml
+cpg_id: foot-assessment-in-patients-with-diabetes-mellitus-(aug-2024)
+chunk_id: foot-assessment-in-patients-with-diabetes-mellitus-(aug-2024).references.additional_material.01
+chunk_type: additional_material
+section_id: references
+parent_rec: null
+title: "Foot assessment in people with diabetes mellitus references"
+source_pages: [8]
+url_links: []
+cross_refs:
+  - acg-dfa-ref
+review_flags:
+  - external_resource
+```
+
+**External material — Foot assessment in people with diabetes mellitus references**
+
+*Source: http://go.gov.sg/acg-dfa-ref*
+
+### References
+
+This is the reference list to the ACE Clinical Guideline "Foot assessment in patients with diabetes mellitus".
+
+1. Pecoraro RE, Reiber GE, Burgess EM. Pathways to diabetic limb amputation. Basis for prevention. Diabetes Care. 1990;13(5):513-521.  
+2. Vileikyte L. Diabetic foot ulcers: a quality of life issue. Diabetes Metab Res Rev. 2001;17(4):246-249.  
+3. Ministry of Health, Singapore. Lower extremity amputation, including toe amputation, in people with diabetes. 2021. Unpublished.  
+4. Bus SA, Sacco ICN, Monteiro-Soares M, et al. Guidelines on the prevention of foot ulcers in persons with diabetes (IWGDF 2023 update). Diabetes Metab Res Rev. 2023:e3651.  
+5. National Institute for Health and Care Excellence (NICE). Diabetic foot problems: prevention and management. 2015, updated 2019. NICE clinical guideline 19. https://www.nice.org.uk/guidance/ng19 [Accessed 15 May 2023].  
+6. ElSayed NA, Aleppo G, Aroda VR, et al. 12. Retinopathy, Neuropathy, and Foot Care: Standards of Care in Diabetes-2023. Diabetes Care. 2023;46 (Suppl 1):S203-s15.  
+7. Embil JM, Albalawi Z, Bowering K, et al. Diabetes Canada Clinical Practice Guidelines Expert Committee. Foot care. Can J Diabetes. 2018;42 (Suppl 1):S222-S227.  
+8. Scottish Intercollegiate Guidelines Network (SIGN). Management of diabetes. 2017. SIGN publication no. 116. https://www.sign.ac.uk/assets/sign116.pdf [Accessed 15 May 2023].  
+9. Hingorani A, Lamuraglia GM, Henke P, et al. The management of diabetic foot: a clinical practice guideline by the Society of Vascular Surgery in collaboration with the American Podiatric Medical Association and the Society for Vascular Medicine. J Vasc Surg. 2016;63(Suppl 2):3S-21S.  
+10. Kaminski MR, Golledge J, Lasschuit JWJ, et al. Australian guideline on prevention of foot ulceration: part of the 2021 Australian evidence-based guidelines for diabetes-related foot disease. J Foot Ankle Res. 2022;15(1):53.  
+11. Ministry of Health Malaysia. Clinical Practice Guidelines: Management of Diabetic Foot (2nd Edition). 2018.
+https://www.moh.gov.my/moh/resources/Penerbitan/CPG/Orthopaedics/Draft%20CPG%20Diabetic%20Foot.pdf [Accessed 15 May 2023].  
+12. Senneville É, Albalawi Z, van Asten SA, et al. IWGDF/IDSA guidelines on the diagnosis and treatment of diabetes-related foot infections (IWGDF/IDSA 2023). Diabetes Metab Res Rev. 2023:e3687.  
+13. Gerhard-Herman MD, Gornik HL, Barrett C, et al. 2016 AHA/ACC Guideline on the Management of Patients With Lower Extremity Peripheral Artery Disease: A Report of the American College of Cardiology/American Heart Association Task Force on Clinical Practice Guidelines. Circulation. 2017;135(12):e726-e79.  
+14. Conte MS, Bradbury AW, Kolh P, et al. Global vascular guidelines on the management of chronic limb-threatening ischemia. J Vasc Surg. 2019;69(6s):3S-125S.e40.  
+15. Pop-Busui R, Boulton AJ, Feldman EL, et al. Diabetic neuropathy: a position statement by American Diabetes Association. Diabetes Care. 2017;40(1):136-154.  
+16. Ng CG, Cheong CYW, Chan WC, et al. Diagnostic thresholds for absolute systolic toe pressure and toe-brachial index in diabetic foot screening. Ann Acad Med Sing. 2022;51(3):143-8.  
+17. Carle R, Tehan P, Stewart S, et al. Variability of toe pressures during haemodialysis: comparison of people with and without diabetes; a pilot study. Journal of Foot and Ankle Research. 2023;16(1):42.  
+18. Hu A, Koh B, Teo MR. A review of the current evidence on the sensitivity and specificity of the Ipswich touch test for the screening of loss of protective sensation in patients with diabetes mellitus. Diabetol Int. 2021;12(2):145-50.  
+19. Abraham A, Alabdali M, Alsulaiman A, et al. The sensitivity and specificity of the neurological examination in polyneuropathy patients with clinical and electrophysiological correlations. PLoS One. 2017;12(3):e0171597.  
+20. Nather A, Neo SH, Chionh SB, et al. Assessment of sensory neuropathy in diabetic patients without diabetic foot problems. J Diabetes Complications. 2008;22(2):126-31.  
+21. Schaper NC, van Netten JJ, Apelqvist J, et al. Practical guidelines on the prevention and management of diabetes-related foot disease (IWGDF 2023 update). Diabetes Metab Res Rev. 2023:e3657.  
+22. Aboyans V., Ricco J.B., Bartelink M.E.L., Björck M., Brodmann M., Cohnert T., et al. 2017 ESC Guidelines on the Diagnosis and Treatment of Peripheral Arterial Diseases, in collaboration with the European Society for Vascular Surgery (ESVS): Document covering atherosclerotic disease of extracranial carotid and vertebral, mesenteric, renal, upper and lower extremity arteriesEndorsed by: the European Stroke Organization (ESO)The Task Force for the Diagnosis and Treatment of Peripheral Arterial Diseases of the European Society of Cardiology (ESC) and of the European Society for Vascular Surgery (ESVS). European heart journal. 2018;39(9):763-816.  
+23. Frank U., Nikol S., Belch J., Boc V., Brodmann M., Carpentier P.H., et al. ESVM Guideline on peripheral arterial disease. VASA Zeitschrift fur Gefasskrankheiten. 2019;48(Suppl 102):1-79.  
+24. Abramson B.L., Al-Omran M., Anand S.S., Albalawi Z., Coutinho T., de Mestral C., et al. Canadian Cardiovascular Society 2022 Guidelines for Peripheral Arterial Disease. The Canadian journal of cardiology. 2022;38(5):560-87.  
+25. Fitridge R., Chuter V., Mills J., Hinchliffe R., Azuma N., Behrendt C., et al. The Intersocietal IWGDF ESVS SVS guidelines on peripheral artery disease in patients with diabetes mellitus and a foot ulcer. 2023.  
+26. Chuter V., Schaper N., Mills J., Hinchliffe R., Russell D., Azuma N., et al. Effectiveness of bedside investigations to diagnose peripheral artery disease among people with diabetes mellitus: A systematic review. Diabetes/Metabolism Research and Reviews. 2023:e3683.  
+27. Boulton AJ, Armstrong DG, Albert SF, et al. Comprehensive foot examination and risk assessment: a report of the task force of the foot care interest group of the American Diabetes Association, with endorsement by the American Association of Clinical Endocrinologists. Diabetes Care. 2008;31(8):1679-85.  
+28. Ying AF, Tang TY, Jin A, et al. Diabetes and other vascular risk factors in association with the risk of lower extremity amputation in chronic limb-threatening ischemia: a prospective cohort study. Cardiovasc Diabetol. 2022;21(1):7.
 
 ---

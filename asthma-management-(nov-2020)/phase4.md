@@ -12,7 +12,6 @@ section_id: overview
 parent_rec: null
 title: "Definitions and scope of application"
 source_pages: [1, 2]
-strength: null
 tables_referenced: []
 figures_referenced: []
 url_links: []
@@ -74,7 +73,6 @@ section_id: asthma_assessment
 parent_rec: null
 title: "Recommendation 1"
 source_pages: [2]
-strength: strong
 tables_referenced: []
 figures_referenced:
   - Figure 1. Overall approach to asthma assessment and management over the long term
@@ -104,7 +102,6 @@ section_id: asthma_assessment
 parent_rec: asthma-management-(nov-2020).asthma_assessment.recommendation.01
 title: "Figure 1. Overall approach to asthma assessment and management over the long term"
 source_pages: [2]
-strength: null
 reconstructed_from: mermaid
 image_dir: grouped_p2_fig_01.jpg
 url_links: []
@@ -135,7 +132,6 @@ section_id: asthma_assessment
 parent_rec: null
 title: "Recommendation 2"
 source_pages: [3]
-strength: strong
 tables_referenced:
   - Table 2. Risk factors for more severe asthma outcomes that can be readily assessed clinically
 figures_referenced: []
@@ -181,7 +177,6 @@ section_id: asthma_assessment
 parent_rec: null
 title: "Recommendation 3"
 source_pages: [3]
-strength: strong
 tables_referenced: []
 figures_referenced: []
 url_links: []
@@ -205,7 +200,6 @@ section_id: asthma_assessment
 parent_rec: asthma-management-(nov-2020).asthma_assessment.recommendation.03
 title: "Table 1. BREATHE factors for asthma assessment"
 source_pages: [3]
-strength: null
 image_dir: 7b1a2aaf148b1509bc449cb2eafbca1fc1f2dac3e84f43c4eb1a681967b4c2dd.jpg
 url_links: []
 cross_refs: []
@@ -230,7 +224,6 @@ section_id: asthma_assessment
 parent_rec: asthma-management-(nov-2020).asthma_assessment.recommendation.03
 title: "Table 2. Risk factors for more severe asthma outcomes that can be readily assess"
 source_pages: [4]
-strength: null
 image_dir: 2a6ed6e641875009a7ebc5a09b396ab8d7ee6d9da24ce2c17e26091b42d329be.jpg
 url_links: []
 cross_refs: []
@@ -256,7 +249,6 @@ section_id: asthma_management
 parent_rec: null
 title: "Asthma management overview"
 source_pages: [4]
-strength: null
 tables_referenced: []
 figures_referenced: []
 url_links: []
@@ -278,7 +270,6 @@ section_id: asthma_management
 parent_rec: null
 title: "Pharmacological treatment"
 source_pages: [4]
-strength: null
 tables_referenced: []
 figures_referenced: []
 url_links: []
@@ -298,7 +289,6 @@ section_id: asthma_management
 parent_rec: null
 title: "Recommendation 4"
 source_pages: [4]
-strength: strong
 tables_referenced: []
 figures_referenced: []
 url_links: []
@@ -332,7 +322,6 @@ section_id: asthma_management
 parent_rec: null
 title: "Recommendation 5"
 source_pages: [4]
-strength: strong
 tables_referenced: []
 figures_referenced:
   - Figure 2. Stepwise approach to asthma pharmacological treatment
@@ -361,7 +350,6 @@ section_id: asthma_management
 parent_rec: null
 title: "Recommendation 6"
 source_pages: [5, 6]
-strength: strong
 tables_referenced: []
 figures_referenced:
   - Figure 2. Stepwise approach to asthma pharmacological treatment
@@ -420,7 +408,6 @@ section_id: asthma_management
 parent_rec: asthma-management-(nov-2020).asthma_management.recommendation.06
 title: "Figure 2. Stepwise approach to asthma pharmacological treatment"
 source_pages: [6]
-strength: null
 reconstructed_from: table
 image_dir: grouped_p6_fig_01.jpg
 url_links: []
@@ -485,7 +472,6 @@ section_id: patient_education
 parent_rec: null
 title: "Recommendation 7"
 source_pages: [7]
-strength: strong
 tables_referenced: []
 figures_referenced:
   - Figure 3. Key components of asthma patient education
@@ -511,7 +497,6 @@ section_id: patient_education
 parent_rec: asthma-management-(nov-2020).patient_education.recommendation.07
 title: "Figure 3. Key components of asthma patient education"
 source_pages: [7]
-strength: null
 reconstructed_from: table
 image_dir: grouped_p7_fig_01.jpg
 url_links: []
@@ -570,7 +555,6 @@ section_id: references
 parent_rec: null
 title: "References"
 source_pages: [8]
-strength: null
 tables_referenced: []
 figures_referenced: []
 url_links: []

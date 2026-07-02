@@ -12,7 +12,6 @@ section_id: overview
 parent_rec: null
 title: "Definitions and scope of application"
 source_pages: [1]
-strength: null
 tables_referenced: []
 figures_referenced:
   - Figure 1. Common classification of selected UTIs*
@@ -73,7 +72,6 @@ section_id: overview
 parent_rec: null
 title: "Figure 1. Common classification of selected UTIs*"
 source_pages: [2]
-strength: null
 reconstructed_from: mermaid
 image_dir: grouped_p2_fig_01.jpg
 url_links: []
@@ -108,7 +106,6 @@ section_id: assessment_and_diagnosis_of_uti
 parent_rec: null
 title: "Recommendation 1"
 source_pages: [2]
-strength: strong
 tables_referenced: []
 figures_referenced: []
 url_links: []
@@ -135,7 +132,6 @@ section_id: assessment_and_diagnosis_of_uti
 parent_rec: null
 title: "Recommendation 2"
 source_pages: [3, 4, 9, 10]
-strength: strong
 tables_referenced:
   - Table 1. Examples of risk factors for cystitis
 figures_referenced:
@@ -242,7 +238,6 @@ section_id: assessment_and_diagnosis_of_uti
 parent_rec: uti-appropriate-diagnosis-and-antibiotic-use-for-uncomplicated-cystitis-and-pyelonephritis-(dec-2023).assessment_and_diagnosis_of_uti.recommendation.02
 title: "Table 1. Examples of risk factors for cystitis"
 source_pages: [3]
-strength: null
 url_links: []
 cross_refs: []
 review_flags: []
@@ -260,7 +255,6 @@ section_id: assessment_and_diagnosis_of_uti
 parent_rec: null
 title: "Figure 2. Flowchart for assessing, diagnosing and treating acute uncomplicated cystitis and pyelonephritis"
 source_pages: [4]
-strength: null
 reconstructed_from: mermaid
 image_dir: grouped_p4_fig_01.jpg
 url_links: []
@@ -316,7 +310,6 @@ section_id: assessment_and_diagnosis_of_uti
 parent_rec: null
 title: "Recommendation 3"
 source_pages: [5]
-strength: strong
 tables_referenced:
   - Table 2. Acute cystitis – role and indication for urine tests
 figures_referenced:
@@ -357,7 +350,6 @@ section_id: assessment_and_diagnosis_of_uti
 parent_rec: uti-appropriate-diagnosis-and-antibiotic-use-for-uncomplicated-cystitis-and-pyelonephritis-(dec-2023).assessment_and_diagnosis_of_uti.recommendation.03
 title: "Table 2. Acute cystitis – role and indication for urine tests"
 source_pages: [5]
-strength: null
 image_dir: da2b4c0301ad1764874fcf3b073c48fe9dce1bd737bd193c7e9c4a88537c1193.jpg
 url_links: []
 cross_refs: []
@@ -379,7 +371,6 @@ section_id: assessment_and_diagnosis_of_uti
 parent_rec: null
 title: "Recommendation 4"
 source_pages: [6]
-strength: strong
 tables_referenced: []
 figures_referenced:
   - Figure 2. Flowchart for assessing, diagnosing and treating acute uncomplicated cystitis and pyelonephritis
@@ -435,7 +426,6 @@ section_id: assessment_and_diagnosis_of_uti
 parent_rec: null
 title: "Recommendation 5"
 source_pages: [6, 7]
-strength: strong
 tables_referenced:
   - Table 3. Acute pyelonephritis – role and indication for urine tests
 figures_referenced:
@@ -472,7 +462,6 @@ section_id: assessment_and_diagnosis_of_uti
 parent_rec: uti-appropriate-diagnosis-and-antibiotic-use-for-uncomplicated-cystitis-and-pyelonephritis-(dec-2023).assessment_and_diagnosis_of_uti.recommendation.05
 title: "Table 3. Acute pyelonephritis – role and indication for urine tests"
 source_pages: [6]
-strength: null
 image_dir: ffec97a39b947ca0dd38fe48bf0766e07e699d115a223c89b44546e142258489.jpg
 url_links: []
 cross_refs: []
@@ -497,7 +486,6 @@ section_id: management_of_uti
 parent_rec: null
 title: "Treatment decision and selection of antibiotics"
 source_pages: [7]
-strength: null
 tables_referenced: []
 figures_referenced: []
 url_links: []
@@ -538,7 +526,6 @@ section_id: management_of_uti
 parent_rec: null
 title: "Recommendation 6"
 source_pages: [8, 9, 10]
-strength: strong
 tables_referenced:
   - Table 4. Suggested antibiotics for empirical treatment of acute uncomplicated cystitis
 figures_referenced: []
@@ -635,7 +622,6 @@ section_id: management_of_uti
 parent_rec: uti-appropriate-diagnosis-and-antibiotic-use-for-uncomplicated-cystitis-and-pyelonephritis-(dec-2023).management_of_uti.recommendation.06
 title: "Table 4. Suggested antibiotics for empirical treatment of acute uncomplicated cy"
 source_pages: [8]
-strength: null
 image_dir: e01503de0ba01c5e33394e2fd2c47553aec0dc9131eb576568125a8efb5ca327.jpg
 url_links: []
 cross_refs: []
@@ -665,7 +651,6 @@ section_id: management_of_uti
 parent_rec: null
 title: "Recommendation 7"
 source_pages: [10, 11]
-strength: strong
 tables_referenced:
   - Table 5. Suggested antibiotics for empirical treatment of acute uncomplicated pyelonephritis
 figures_referenced: []
@@ -719,7 +704,6 @@ section_id: management_of_uti
 parent_rec: uti-appropriate-diagnosis-and-antibiotic-use-for-uncomplicated-cystitis-and-pyelonephritis-(dec-2023).management_of_uti.recommendation.07
 title: "Table 5. Suggested antibiotics for empirical treatment of acute uncomplicated py"
 source_pages: [11]
-strength: null
 image_dir: f085aefa65aae737bb528615e796a0288afcfd48ee3e17c887256f0825c1183a.jpg
 url_links: []
 cross_refs: []
@@ -750,7 +734,6 @@ section_id: references
 parent_rec: null
 title: "References"
 source_pages: [12]
-strength: null
 tables_referenced: []
 figures_referenced: []
 url_links: []

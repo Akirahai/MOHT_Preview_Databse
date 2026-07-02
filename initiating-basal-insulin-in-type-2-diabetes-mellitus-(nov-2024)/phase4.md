@@ -12,7 +12,6 @@ section_id: overview
 parent_rec: null
 title: "Definitions and scope of application"
 source_pages: [1]
-strength: null
 tables_referenced: []
 figures_referenced: []
 url_links: []
@@ -61,7 +60,6 @@ section_id: overview
 parent_rec: null
 title: "Recommendation 1"
 source_pages: [2]
-strength: strong
 tables_referenced:
   - Table 1. Types and profiles of basal insulin
 figures_referenced: []
@@ -93,7 +91,6 @@ section_id: overview
 parent_rec: initiating-basal-insulin-in-type-2-diabetes-mellitus-(nov-2024).overview.recommendation.01
 title: "Table 1. Types and profiles of basal insulin"
 source_pages: [2]
-strength: null
 image_dir: 533a713daff2255c8404e5e83948950731ae2ee185d48078c81437a14a399f3c.jpg
 url_links: []
 cross_refs: []
@@ -126,7 +123,6 @@ section_id: notes_on_insulin_prescribing
 parent_rec: null
 title: "Notes on insulin prescribing overview"
 source_pages: [2, 3]
-strength: null
 tables_referenced:
   - Table 1. Types and profiles of basal insulin
 figures_referenced: []
@@ -167,7 +163,6 @@ section_id: addressing_concerns_about_starting_insulin
 parent_rec: null
 title: "Explaining the need for insulin therapy"
 source_pages: [3]
-strength: null
 tables_referenced: []
 figures_referenced:
   - Figure 2. Starting and titrating basal insulin for patients with type 2 diabetes mellitus (T2DM)
@@ -194,7 +189,6 @@ section_id: addressing_concerns_about_starting_insulin
 parent_rec: null
 title: "Recommendation 2"
 source_pages: [3]
-strength: strong
 tables_referenced: []
 figures_referenced: []
 url_links: []
@@ -220,7 +214,6 @@ section_id: addressing_concerns_about_starting_insulin
 parent_rec: initiating-basal-insulin-in-type-2-diabetes-mellitus-(nov-2024).addressing_concerns_about_starting_insulin.recommendation.02
 title: "Figure 1. Considerations for concomitant T2DM medications when initiating basal insulin"
 source_pages: [3]
-strength: null
 reconstructed_from: table
 image_dir: grouped_p3_fig_01.jpg
 url_links: []
@@ -252,7 +245,6 @@ section_id: addressing_concerns_about_starting_insulin
 parent_rec: initiating-basal-insulin-in-type-2-diabetes-mellitus-(nov-2024).addressing_concerns_about_starting_insulin.recommendation.02
 title: "Figure 2. Starting and titrating basal insulin for patients with type 2 diabetes mellitus (T2DM)"
 source_pages: [4]
-strength: null
 reconstructed_from: mermaid
 image_dir: grouped_p4_fig_01.jpg
 url_links: []
@@ -293,7 +285,6 @@ section_id: addressing_concerns_about_starting_insulin
 parent_rec: null
 title: "Recommendation 3"
 source_pages: [5]
-strength: strong
 tables_referenced: []
 figures_referenced: []
 url_links: []
@@ -320,7 +311,6 @@ section_id: preventing_and_managing_hypoglycaemia
 parent_rec: null
 title: "Preventing and managing hypoglycaemia overview"
 source_pages: [5]
-strength: null
 tables_referenced:
   - Table 2. Hypoglycaemia and its management
 figures_referenced: []
@@ -362,7 +352,6 @@ section_id: preventing_and_managing_hypoglycaemia
 parent_rec: null
 title: "Hypoglycaemia"
 source_pages: [5]
-strength: null
 tables_referenced:
   - Table 2. Hypoglycaemia and its management
 figures_referenced: []
@@ -387,7 +376,6 @@ section_id: preventing_and_managing_hypoglycaemia
 parent_rec: null
 title: "Hypoglycaemia unawareness (HU)"
 source_pages: [5]
-strength: null
 tables_referenced: []
 figures_referenced: []
 url_links: []
@@ -412,7 +400,6 @@ section_id: preventing_and_managing_hypoglycaemia
 parent_rec: null
 title: "Table 2. Hypoglycaemia and its management"
 source_pages: [6]
-strength: null
 image_dir: 15aa44f508427a3dd75a96527869553ca7ccab9c4f62e727f4042e89b213b3cb.jpg
 url_links: []
 cross_refs: []
@@ -439,7 +426,6 @@ section_id: insulin_administration_and_storage
 parent_rec: null
 title: "Insulin administration and storage overview"
 source_pages: [6]
-strength: null
 tables_referenced: []
 figures_referenced: []
 url_links: []
@@ -477,7 +463,6 @@ section_id: insulin_administration_and_storage
 parent_rec: null
 title: "Diet"
 source_pages: [6]
-strength: null
 tables_referenced: []
 figures_referenced: []
 url_links: []
@@ -502,7 +487,6 @@ section_id: insulin_administration_and_storage
 parent_rec: null
 title: "Fasting and physical activity"
 source_pages: [7]
-strength: null
 tables_referenced: []
 figures_referenced: []
 url_links: []
@@ -540,7 +524,6 @@ section_id: insulin_administration_and_storage
 parent_rec: null
 title: "Sick days"
 source_pages: [7]
-strength: null
 tables_referenced: []
 figures_referenced: []
 url_links: []
@@ -563,7 +546,6 @@ section_id: insulin_administration_and_storage
 parent_rec: null
 title: "Travel"
 source_pages: [7]
-strength: null
 tables_referenced: []
 figures_referenced: []
 url_links: []
@@ -591,7 +573,6 @@ section_id: insulin_administration_and_storage
 parent_rec: null
 title: "Patient information and resources on insulin"
 source_pages: [7]
-strength: null
 tables_referenced: []
 figures_referenced: []
 url_links:
@@ -629,7 +610,6 @@ section_id: references
 parent_rec: null
 title: "References"
 source_pages: [8]
-strength: null
 tables_referenced: []
 figures_referenced: []
 url_links: []

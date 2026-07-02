@@ -12,7 +12,6 @@ section_id: overview
 parent_rec: null
 title: "Definitions and scope of application"
 source_pages: [1]
-strength: null
 tables_referenced: []
 figures_referenced:
   - Figure 1. Overview of MDD management
@@ -58,7 +57,6 @@ section_id: overview
 parent_rec: null
 title: "Figure 1. Overview of MDD management"
 source_pages: [2]
-strength: null
 reconstructed_from: mermaid
 image_dir: grouped_p2_fig_01.jpg
 url_links: []
@@ -110,7 +108,6 @@ section_id: assessment_to_guide_management
 parent_rec: null
 title: "Recommendation 1"
 source_pages: [3]
-strength: strong
 tables_referenced: []
 figures_referenced: []
 url_links: []
@@ -140,7 +137,6 @@ section_id: assessment_to_guide_management
 parent_rec: Major depressive disorder achieving and sustaining remission (Mar 2025).assessment_to_guide_management.recommendation.01
 title: "Figure 2. Components of MDD severity"
 source_pages: [3]
-strength: null
 reconstructed_from: table
 image_dir: grouped_p3_fig_01.jpg
 url_links: []
@@ -167,7 +163,6 @@ section_id: assessment_to_guide_management
 parent_rec: Major depressive disorder achieving and sustaining remission (Mar 2025).assessment_to_guide_management.recommendation.01
 title: "Figure 3a. Evaluation of MDD severity (to inform management) is based on symptom profile, functional impairment, and risk of harm (to self or others)"
 source_pages: [4]
-strength: null
 reconstructed_from: mermaid
 image_dir: grouped_p4_fig_01.jpg
 url_links: []
@@ -210,7 +205,6 @@ section_id: assessment_to_guide_management
 parent_rec: Major depressive disorder achieving and sustaining remission (Mar 2025).assessment_to_guide_management.recommendation.01
 title: "Figure 3b. Clinical vignettes illustrating holistic assessment of MDD severity (based on symptom profile, functional impairment, and risk of harm)"
 source_pages: [5]
-strength: null
 reconstructed_from: table
 image_dir: grouped_p5_fig_01.jpg
 url_links: []
@@ -244,7 +238,6 @@ section_id: treatment_of_an_mdd_episode
 parent_rec: null
 title: "Evidence of efficacy and benefit-risk profile of treatments"
 source_pages: [6]
-strength: null
 tables_referenced: []
 figures_referenced: []
 url_links: []
@@ -275,7 +268,6 @@ section_id: treatment_of_an_mdd_episode
 parent_rec: null
 title: "Recommendation 3"
 source_pages: [6, 7]
-strength: strong
 tables_referenced: []
 figures_referenced: []
 url_links: []
@@ -348,7 +340,6 @@ section_id: treatment_of_an_mdd_episode
 parent_rec: null
 title: "Recommendation 4"
 source_pages: [7, 8, 11]
-strength: strong
 tables_referenced:
   - Table 1. Key considerations for selecting a second-generation antidepressant in MDD. Antidepressants listed are locally-registered for MDD treatment. Information sourced from international literature  and local drug information resources  (including package inserts). The information in this table is not exhaustive of the subject matter. Refer to package inserts and drug information resources for further details — including contraindications, drug interactions, and medication doses.
 figures_referenced: []
@@ -455,7 +446,6 @@ section_id: treatment_of_an_mdd_episode
 parent_rec: Major depressive disorder achieving and sustaining remission (Mar 2025).treatment_of_an_mdd_episode.recommendation.04
 title: "Table 1. Key considerations for selecting a second-generation antidepressant in "
 source_pages: [9]
-strength: null
 image_dir: 82758c75a3d30a83f6380647ea4724b313adc378756b8bf4240f3d6e6050e737.jpg
 url_links: []
 cross_refs: []
@@ -480,7 +470,6 @@ section_id: management_of_suboptimal_response_to_initial_treatment
 parent_rec: null
 title: "Recommendation 5"
 source_pages: [12]
-strength: strong
 tables_referenced: []
 figures_referenced:
   - Figure 4. Changes in management strategy when initial response is suboptimal
@@ -535,7 +524,6 @@ section_id: management_of_suboptimal_response_to_initial_treatment
 parent_rec: Major depressive disorder achieving and sustaining remission (Mar 2025).management_of_suboptimal_response_to_initial_treatment.recommendation.05
 title: "Figure 4. Changes in management strategy when initial response is suboptimal"
 source_pages: [13]
-strength: null
 reconstructed_from: mermaid
 image_dir: grouped_p13_fig_01.jpg
 url_links: []
@@ -573,7 +561,6 @@ section_id: management_to_reduce_risk_of_relapse
 parent_rec: null
 title: "Recommendation 6"
 source_pages: [14, 15]
-strength: strong
 tables_referenced: []
 figures_referenced:
   - Figure 5. Key considerations for continuing or discontinuing antidepressants after 6-month maintenance treatment
@@ -634,7 +621,6 @@ section_id: management_to_reduce_risk_of_relapse
 parent_rec: Major depressive disorder achieving and sustaining remission (Mar 2025).management_to_reduce_risk_of_relapse.recommendation.06
 title: "Figure 5. Key considerations for continuing or discontinuing antidepressants after 6-month maintenance treatment"
 source_pages: [14]
-strength: null
 reconstructed_from: mermaid
 image_dir: grouped_p14_fig_01.jpg
 url_links: []
@@ -678,7 +664,6 @@ section_id: supplement_1:_mdd_management_considerations_for_perinatal_population
 parent_rec: null
 title: "Supplement 1: MDD management considerations for perinatal populations overview"
 source_pages: [16]
-strength: null
 tables_referenced: []
 figures_referenced: []
 url_links: []
@@ -702,7 +687,6 @@ section_id: supplement_2:_mdd_management_considerations_for_children_and_adolesc
 parent_rec: null
 title: "Assessment"
 source_pages: [16]
-strength: null
 tables_referenced: []
 figures_referenced: []
 url_links: []
@@ -739,7 +723,6 @@ section_id: supplement_2:_mdd_management_considerations_for_children_and_adolesc
 parent_rec: null
 title: "Principles of management for patients with a diagnosis of MDD (if managing in primary or generalist care)"
 source_pages: [16]
-strength: null
 tables_referenced: []
 figures_referenced: []
 url_links: []
@@ -794,7 +777,6 @@ section_id: supplement_2:_mdd_management_considerations_for_children_and_adolesc
 parent_rec: null
 title: "Clinical and community resources"
 source_pages: [16]
-strength: null
 tables_referenced: []
 figures_referenced: []
 url_links: []
@@ -834,7 +816,6 @@ section_id: supplement_2:_mdd_management_considerations_for_children_and_adolesc
 parent_rec: null
 title: "Supplement 2: MDD management considerations for children and adolescents overview"
 source_pages: [17]
-strength: null
 tables_referenced: []
 figures_referenced: []
 url_links: []
@@ -858,7 +839,6 @@ section_id: references
 parent_rec: null
 title: "References"
 source_pages: [18]
-strength: null
 tables_referenced: []
 figures_referenced: []
 url_links: []

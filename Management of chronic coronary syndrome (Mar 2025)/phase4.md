@@ -12,7 +12,6 @@ section_id: overview
 parent_rec: null
 title: "Definitions and scope of application"
 source_pages: [1]
-strength: null
 tables_referenced: []
 figures_referenced:
   - Figure 1. Clinical presentations of chronic coronary syndrome
@@ -78,7 +77,6 @@ section_id: overview
 parent_rec: null
 title: "Figure 1. Clinical presentations of chronic coronary syndrome"
 source_pages: [2]
-strength: null
 reconstructed_from: mermaid
 image_dir: grouped_p2_fig_01.jpg
 url_links: []
@@ -135,7 +133,6 @@ section_id: angina/ischaemia_with_non_obstructive_coronary_arteries
 parent_rec: null
 title: "Angina/ischaemia with non-obstructive coronary arteries overview"
 source_pages: [1, 2]
-strength: null
 tables_referenced: []
 figures_referenced: []
 url_links: []
@@ -167,7 +164,6 @@ section_id: angina/ischaemia_with_non_obstructive_coronary_arteries
 parent_rec: null
 title: "Low-dose aspirin"
 source_pages: [2]
-strength: null
 tables_referenced: []
 figures_referenced: []
 url_links: []
@@ -191,13 +187,12 @@ section_id: angina/ischaemia_with_non_obstructive_coronary_arteries
 parent_rec: null
 title: "Patient education aids"
 source_pages: [3]
-strength: null
 tables_referenced: []
 figures_referenced: []
-url_links:
-  - https://go.gov.sg/ccs-patientaid
-  - https://go.gov.sg/ccs-patientaid-mythsfacts
-cross_refs: []
+url_links: []
+cross_refs:
+  - ccs-patientaid
+  - ccs-patientaid-mythsfacts
 review_flags: []
 ```
 
@@ -221,7 +216,6 @@ section_id: angina/ischaemia_with_non_obstructive_coronary_arteries
 parent_rec: null
 title: "Clopidogrel and other P2Y12 inhibitors"
 source_pages: [3]
-strength: null
 tables_referenced: []
 figures_referenced: []
 url_links: []
@@ -250,7 +244,6 @@ section_id: angina/ischaemia_with_non_obstructive_coronary_arteries
 parent_rec: null
 title: "Clopidogrel genetic testing"
 source_pages: [3]
-strength: null
 tables_referenced: []
 figures_referenced: []
 url_links: []
@@ -273,7 +266,6 @@ section_id: angina/ischaemia_with_non_obstructive_coronary_arteries
 parent_rec: null
 title: "Recommendation 2"
 source_pages: [3, 4]
-strength: strong
 tables_referenced: []
 figures_referenced: []
 url_links: []
@@ -322,7 +314,6 @@ section_id: angina/ischaemia_with_non_obstructive_coronary_arteries
 parent_rec: Management of chronic coronary syndrome (Mar 2025).angina/ischaemia_with_non_obstructive_coronary_arteries.recommendation.02
 title: "Box 1. Modified CHA  DS  VASc score"
 source_pages: [4]
-strength: null
 image_dir: 4330ad64311c990359e294870c5f9173e22e3bd938d1842cc64afe6ec0669d5e.jpg
 url_links: []
 cross_refs: []
@@ -345,7 +336,6 @@ section_id: angina/ischaemia_with_non_obstructive_coronary_arteries
 parent_rec: null
 title: "Figure 3. Distinguishing cardiac and non-cardiac chest discomfort and dyspnoea"
 source_pages: [6]
-strength: null
 image_dir: f203828ce175b9bb4cdf792806570dc05c50e23e1b1bfbba33a1a9a50269e7b0.jpg
 url_links: []
 cross_refs: []
@@ -356,6 +346,283 @@ review_flags:
 **Figure 3. Distinguishing cardiac and non-cardiac chest discomfort and dyspnoea**
 
 <table><tr><td rowspan="2" colspan="2"></td><td colspan="3">Symptom characteristics</td></tr><tr><td>↓ Decreasing likelihood of angina/pain from cardiac origin</td><td colspan="2">↑ Increasing likelihood of angina/pain from cardiac origin</td></tr><tr><td rowspan="5">Chest discomfort <img src="data:image/jpeg;base64,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"/></td><td>Quality</td><td>· Burning · Sharp · Tearing - ripping · Pleuritic · Aching</td><td>· Strangling · Constricting · Squeezing · Pressure</td><td>· Heaviness · Associated with autonomic symptoms of heavy perspiration and nausea</td></tr><tr><td>Location and size</td><td>· Right · Shifting · Large area or localised to one small spot</td><td colspan="2">· Retrosternal · Extending to left arm, or both arms simultaneously, or to jugular or intrascapular region · &#x27;Fist&#x27;-size</td></tr><tr><td>Duration</td><td>· Lasting</td><td colspan="2">· Short: up to 5-10 minutes if triggered by physical exertion or emotion</td></tr><tr><td>Trigger</td><td>· At rest · On deep inspiration or when coughing · When pressing on ribs or sternum</td><td colspan="2">· On effort · More frequent in cold weather, strong winds or after a heavy meal · Emotional distress (anxiety, anger, excitation or nightmare)</td></tr><tr><td>Relief</td><td>· By taking antacid or drinking milk</td><td colspan="2">· Subsiding within 1-5 minutes after effort discontinuation · Relief accelerated by sublingual glyceryl trinitrate</td></tr><tr><td rowspan="3">Dyspnoea</td><td>Quality</td><td>· Difficulty to exhale · With wheezing</td><td colspan="2">· Difficulty catching breath · Associated with autonomic symptoms of heavy perspiration and nausea</td></tr><tr><td>Trigger</td><td>· Both at rest and on effort · While coughing</td><td colspan="2">· On effort</td></tr><tr><td>Relief</td><td>· Slowly subsiding at rest or after inhalation of bronchodilators</td><td colspan="2">· Rapidly subsiding after effort discontinuation</td></tr></table>
+
+---
+
+```yaml
+cpg_id: Management of chronic coronary syndrome (Mar 2025)
+chunk_id: Management of chronic coronary syndrome (Mar 2025).angina/ischaemia_with_non_obstructive_coronary_arteries.additional_material.01
+chunk_type: additional_material
+section_id: angina/ischaemia_with_non_obstructive_coronary_arteries
+parent_rec: null
+title: "Patient%20education%20aid %20Types%20of%20coronary%20heart%20disease"
+source_pages: [3]
+url_links: []
+cross_refs:
+  - ccs-patientaid
+review_flags:
+  - external_resource
+```
+
+**External material — Patient%20education%20aid %20Types%20of%20coronary%20heart%20disease**
+
+*Source: https://go.gov.sg/ccs-patientaid*
+
+### What is coronary heart disease?
+
+Coronary heart disease, also known as coronary artery disease or ischemic heart disease, happens when blood vessels that carry oxygen to the heart (coronary arteries) become blocked due to a build-up of fatty deposits (atherosclerosis).
+
+As the fatty deposits grow, the blood vessels gradually become narrower, reducing the amount of blood and oxygen that flows to the heart muscle.
+
+Your risk of developing coronary heart disease is higher if you: $^{1}$
+
+- are overweight  
+- are not active or do not exercise regularly  
+- have diabetes  
+• have high blood cholesterol  
+• have high blood pressure (hypertension)  
+- smoke
+
+![](images/79bd7e07766059e15c678b7d17b77328008f6178d4a79368cb3cf883558c051a.jpg)
+
+<details>
+<summary>text_image</summary>
+
+Reduced
+blood flow
+</details>
+
+### Types of coronary heart disease
+
+There are two types of coronary heart disease - chronic and acute. They have different symptoms and are managed differently: $^{1}$
+
+### Chronic coronary heart disease $^{2}$ (Chronic coronary syndrome)
+
+- It is usually caused by a long-term (chronic) build-up of fatty deposits in the blood vessels that carry oxygen to the heart, causing reduced blood flow to the heart muscle.  
+- Many people with chronic coronary syndrome have few to no symptoms when at rest. Symptoms, if present, usually occur with exercise, strong emotions or stress and may include chest pain, shortness of breath, or extreme tiredness.  
+- Managing this condition usually involves a mix of lifestyle changes, long-term medications, and in some cases, medical procedures.
+
+![](images/e2cb4da827778d9f499dba9157e834ce1d6a2407fc19b55d6180310a36b3dfcb.jpg)
+
+<details>
+<summary>natural_image</summary>
+
+Illustration of a person sitting on a bench, showing emotional distress (no text or symbols)
+</details>
+
+- If left untreated, it can worsen to acute coronary heart disease.  
+• Medicines help to stop the condition from worsening and relieve symptoms. Most of them can be taken at home.
+
+### Acute coronary heart disease (Acute coronary syndrome)
+
+- It is caused by a sudden (acute) blockage of the blood vessels, usually because of a blood clot. These clots form when fatty deposits inside the blood vessels break apart.  
+- Symptoms tend to be sudden, can be different from person to person and may vary from mild to serious. They include severe breathlessness, chest pain or discomfort in the arm, jaw or back. These symptoms often last for more than 15 minutes and may present with a cold sweat or nausea as well. $^{3}$  
+- Call 995 immediately if someone has these symptoms as they could be having a heart attack.
+
+\- Acute coronary syndrome is a medical emergency. Timely medicines and medical procedures administered in the hospital are needed to quickly clear the blockage and restore blood flow to the heart.
+
+![](images/5fdbfce2316236824231992020be9ca46ef69c7c089be0d6a53d0173a65860f9.jpg)
+
+<details>
+<summary>text_image</summary>
+
+995
+</details>
+
+### What else can I do to help manage coronary heart disease?
+
+You can reduce the risk of your condition worsening by:
+
+- Eating a healthy and balanced diet  
+- Staying physically active  
+- Quitting smoking (if you smoke)  
+- Asking your doctor about how you can improve your heart health, such as ways to better manage your blood pressure and cholesterol.  
+- Taking your medicines as prescribed by your doctor. Medicines for heart conditions should not be stopped suddenly without your doctor's advice.
+
+![](images/4b44393a725d8e6c6561a36cc185560fb685cea2bbf104431c185e3cb06ef725.jpg)
+
+<details>
+<summary>natural_image</summary>
+
+Illustration of a smiling male doctor wearing a white coat and stethoscope, holding a clipboard (no text or symbols present)
+</details>
+
+![](images/8ade64f5eeea177beabeda848f85cad4a996d1c8cf61d33d4ec16e4254c0c30b.jpg)
+
+Connecting with other people with heart conditions may also give you support and help you cope better. You can reach out to local patient support groups if you want to share your experiences with other people with heart conditions. $^{4,5}$
+
+### Sources
+
+1. www.singhealth.com.sg/patient-care/conditions-treatments/coronary-artery-disease  
+2. ACE Clinical Guidance on Management of chronic coronary syndrome, 26 March 2025  
+3. www.singhealth.com.sg/patient-care/conditions-treatments/heart-attack  
+4. Caring Hearts Support Group (CHSG) of National University Heart Centre, Singapore (NUHCS)  
+5. Singapore Heart Foundation
+
+---
+
+```yaml
+cpg_id: Management of chronic coronary syndrome (Mar 2025)
+chunk_id: Management of chronic coronary syndrome (Mar 2025).angina/ischaemia_with_non_obstructive_coronary_arteries.additional_material.02
+chunk_type: additional_material
+section_id: angina/ischaemia_with_non_obstructive_coronary_arteries
+parent_rec: null
+title: "Patient%20education%20aid %20Myths%20and%20facts%20about%20antiplatelet%20medicines%20for%20CCS"
+source_pages: [3]
+url_links: []
+cross_refs:
+  - ccs-patientaid-mythsfacts
+review_flags:
+  - external_resource
+```
+
+**External material — Patient%20education%20aid %20Myths%20and%20facts%20about%20antiplatelet%20medicines%20for%20CCS**
+
+*Source: https://go.gov.sg/ccs-patientaid-mythsfacts*
+
+### What medicines are used for treating chronic coronary heart disease?
+
+Antiplatelet medicines, which are a type of blood thinner, are a common treatment for chronic coronary heart disease (also known as chronic coronary syndrome). They help to prevent blood clots from forming and reduce the risk of having a heart attack.
+
+![](images/a6ba86b92d00e91852e21bb29905d7c795d4f57da732841193b720b77c09b9aa.jpg)
+
+Common antiplatelet medicines include:¹
+
+Aspirin  
+Clopidogrel  
+Ticagrelor
+
+### How do blood clots cause heart attacks?
+
+Platelets are cells in the blood that clump together to make blood clots. They can travel to a damaged site to help bleeding stop and heal wounds.
+
+However, blood clots can cause serious problems for people with long-term (chronic) coronary heart disease because they can block some or all of the blood flow in a heart artery, causing a lack of oxygen which damages the heart. This is known as a heart attack.
+
+What happens during a heart attack?  
+![](images/a57fe8d3281ecffd830f6057001a9929a36cfb48a7095b4b165b947f69e45edb.jpg)
+
+### Myths and facts about antiplatelet medicines
+
+### Myth
+
+I can stop taking my antiplatelet medicine because I feel well.
+
+### Fact
+
+Most people with chronic coronary heart disease have few or no symptoms even when they are not taking any medicines. $^{2}$ Taking antiplatelet medicine helps to reduce the risk of having a heart attack, which can happen suddenly and is a life-threatening condition.
+
+### What you can do?
+
+Talk to your doctor if you have any concerns about taking antiplatelet medicine. Do not reduce or stop taking your medicine unless your doctor tells you to do so.
+
+![](images/2c20b21d82b112fd238a6d6a513b52201c9343d64b676aec61310ad87c0fc830.jpg)
+
+<details>
+<summary>natural_image</summary>
+
+Illustration of a person holding two checkmarks, no text or symbols present
+</details>
+
+![](images/fa3bd31c9cd4ad8a89ed007c894ce74806e05f5528263704862a12a0e75c8ca3.jpg)
+
+<details>
+<summary>natural_image</summary>
+
+Illustration of a woman and a man interacting, one holding a pill bottle (no text or symbols present)
+</details>
+
+### Myth
+
+I do not need to change or take more medicines as I feel my current antiplatelet medicine is good enough to control my heart disease.
+
+### Fact
+
+Preventing blood clots with antiplatelet medicine may not be enough to reduce the risk of heart attacks for some people, especially those with other long-term conditions such as diabetes, high blood pressure and high cholesterol. $^{3}$ Your doctor may need to run medical tests and adjust your current treatments or add new ones to manage your overall health.
+
+### What you can do?
+
+Learn about your condition and the medicines you are taking so you can make informed decisions about your healthcare and actively manage it. Discuss with your care team if you have any queries regarding your condition and treatment.
+
+### Myth
+
+Antiplatelet medicines always cause severe bleeding.
+
+### Fact
+
+Antiplatelet medicines prevent blood from clotting, but not completely, so there is a low risk of them causing a bleed in other parts of the body. $^{3}$ Your doctor will monitor your response to treatment and help manage any side effects if they happen.
+
+### What you can do?
+
+Be careful when doing activities that might cause an injury or a cut. See a doctor immediately if you experience serious bleeding, such as blood in the urine, black and sticky stools, unexplained large bruises, coughing up blood or sudden severe headache with nausea.
+
+![](images/33042934d3c0676d795db8406f927cc77bb02e17ae1a98908fbaef15cdf3994c.jpg)
+
+<details>
+<summary>natural_image</summary>
+
+Illustration of a person with red hair holding a small bowl, gesturing with both hands (no text or symbols present)
+</details>
+
+![](images/a34f13471c021a4a1264f992dbf40442d60ac84561a041e75b7ff912ef8246a0.jpg)
+
+<details>
+<summary>natural_image</summary>
+
+Illustration of a person thinking with thought bubbles containing pills (no text or symbols)
+</details>
+
+### Myth
+
+I can adjust the amount of antiplatelet medicine I take daily without seeking medical advice.
+
+### Fact
+
+Taking too much antiplatelet medicine in a day can increase the risk of bleeding, while taking less antiplatelet medicine than what you have been prescribed can increase the risk of having a heart attack. $^{4}$ It is important for you to take your antiplatelet medicine as instructed by your doctor to get the full benefit of the treatment.
+
+### What you can do?
+
+Discuss with your doctor if you are considering a change in the amount of antiplatelet medicine you are taking and let them know why you want to do so.
+
+### Myth
+
+I can use traditional medicines or natural remedies with antiplatelet medicines or instead of them.
+
+### Fact
+
+Traditional medicine includes traditional Chinese medicine, traditional Indian medicine (Ayurvedic medicine), traditional Malay medicine (Jamu) and herbal medicines from other countries. Some traditional medicines and natural remedies may make your blood thinner and less likely to clot. $^{5}$ However, there is little evidence that they can effectively reduce the risk of a heart attack.
+
+When taken with antiplatelet medicines, some of them can increase the risk of bleeding while others can reduce the effects of antiplatelet medicines and increase the risk of a heart attack. Therefore, it may not be safe to replace or use antiplatelet medicines with traditional medicines or natural remedies without speaking to your doctor. $^{6,7,8}$
+
+### What you can do?
+
+Let your doctor know if you are taking any traditional medicines or natural remedies, or if you intend to start taking them, so they can advise if these are suitable for you.
+
+![](images/b0c6bb80698df5dd34f426beeeaf9b16d53fef7692b1ae3cf09b84d51f5e8e2c.jpg)
+
+<details>
+<summary>natural_image</summary>
+
+Illustration of herbal medicine pills in a jar with decorative flowers and leaves (no text or symbols on the pills)
+</details>
+
+### Key Message
+
+Many medicines are used to treat chronic coronary heart disease (chronic coronary syndrome). Discuss with your doctor which treatment is suitable for you and any questions you have if you are considering a change in your medicines. Heart medicines should not be stopped suddenly or changed without your doctor's advice. Connecting with other people with heart conditions may also give you support and help you cope better. You can reach out to local patient support groups if you want to meet with people with heart conditions and share your experiences. $^{9,10}$
+
+![](images/110434c22df0cd5dee1102aff2c920c954c962dbf80a33fb6191a7700d024987.jpg)
+
+### Sources
+
+1. ACE Clinical Guidance on Management of chronic coronary syndrome, 26 March 2025  
+2. www.singhealth.com.sg/patient-care/conditions-treatments/coronary-artery-disease  
+3. European Heart Journal, Volume 45, Issue 36, 2024 ESC Guidelines for the management of chronic coronary syndromes, August 2024  
+4. Cleveland Clinic, US, Antiplatelet drugs, May 2022  
+5. www.pss.org.sg/know-your-medicines/safe-use-medicines/safe-use-traditional-chinese-medicine-tcm  
+6. Singapore Heart Foundation, Usage of traditional medicine after a heart attack, October 2022  
+7. National Health Service (NHS), England, Herbal medicines, October 2022  
+8. National Institute of Health (NÍH), ÚS, Effect of herbs for treating coronary heart disease on the CYP450 enzyme system and transporters, July 2020  
+9. Caring Hearts Support Group (CHSG) of National University Heart Centre, Singapore (NUHCS)  
+10. Singapore Heart Foundation
 
 ---
 
@@ -370,7 +637,6 @@ section_id: management_of_comorbid_or_associated_conditions
 parent_rec: null
 title: "Recommendation 4"
 source_pages: [5]
-strength: strong
 tables_referenced: []
 figures_referenced:
   - Figure 2
@@ -462,7 +728,6 @@ section_id: assessment_of_acute_exacerbation_of_chest_pain_in_patients_with_ccs
 parent_rec: null
 title: "Assessment of acute exacerbation of chest pain in patients with CCS overview"
 source_pages: [5, 6]
-strength: null
 tables_referenced:
   - Table 1. Examples of locally registered medications for immediate symptom relief and prevention of angina
 figures_referenced:
@@ -499,7 +764,6 @@ section_id: assessment_of_acute_exacerbation_of_chest_pain_in_patients_with_ccs
 parent_rec: null
 title: "Table 1. Examples of locally registered medications for immediate symptom relief"
 source_pages: [7]
-strength: null
 image_dir: f63644c2a00a547b40a012d12158d8bcf36f5c9d2be6a4ad1c1064f06a526cfb.jpg
 url_links: []
 cross_refs: []
@@ -523,7 +787,6 @@ section_id: lifestyle
 parent_rec: null
 title: "Recommendation 5"
 source_pages: [8, 9]
-strength: strong
 tables_referenced:
   - Table 2. Example of exercise routine
   - Table 3. Lifestyle advice for patients with CCS
@@ -594,7 +857,6 @@ section_id: lifestyle
 parent_rec: Management of chronic coronary syndrome (Mar 2025).lifestyle.recommendation.05
 title: "Table 2. Example of exercise routine"
 source_pages: [8]
-strength: null
 url_links: []
 cross_refs: []
 review_flags: []
@@ -612,7 +874,6 @@ section_id: lifestyle
 parent_rec: Management of chronic coronary syndrome (Mar 2025).lifestyle.recommendation.05
 title: "Table 3. Lifestyle advice for patients with CCS"
 source_pages: [9]
-strength: null
 image_dir: 4e8fcd792f6922e87366bbc7d307dd160ac26245971e4aee7fbd4d43f8c18f06.jpg
 url_links: []
 cross_refs: []
@@ -636,7 +897,6 @@ section_id: follow_up_and_monitoring
 parent_rec: null
 title: "Recommendation 6"
 source_pages: [9]
-strength: strong
 tables_referenced: []
 figures_referenced: []
 url_links: []
@@ -684,7 +944,6 @@ section_id: references
 parent_rec: null
 title: "References"
 source_pages: [10]
-strength: null
 tables_referenced: []
 figures_referenced: []
 url_links: []

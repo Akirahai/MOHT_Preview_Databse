@@ -12,7 +12,6 @@ section_id: overview
 parent_rec: null
 title: "Definitions and scope of application"
 source_pages: [1, 2]
-strength: null
 tables_referenced: []
 figures_referenced: []
 url_links: []
@@ -71,7 +70,6 @@ section_id: assessment
 parent_rec: null
 title: "Assessment overview"
 source_pages: [2]
-strength: null
 tables_referenced: []
 figures_referenced:
   - Figure 1. A practical guide to risk stratification for lipid management in key patient groups
@@ -100,7 +98,6 @@ section_id: assessment
 parent_rec: null
 title: "Recommendation 1"
 source_pages: [2]
-strength: strong
 tables_referenced: []
 figures_referenced:
   - Figure 1. A practical guide to risk stratification for lipid management in key patient groups
@@ -146,7 +143,6 @@ section_id: selection_of_management_options
 parent_rec: null
 title: "Selection of management options overview"
 source_pages: [2]
-strength: null
 tables_referenced: []
 figures_referenced: []
 url_links: []
@@ -187,7 +183,6 @@ section_id: selection_of_management_options
 parent_rec: null
 title: "Figure 1. A practical guide to risk stratification for lipid management in key patient groups"
 source_pages: [3]
-strength: null
 reconstructed_from: mermaid
 image_dir: grouped_p3_fig_01.jpg
 url_links: []
@@ -256,7 +251,6 @@ section_id: selection_of_management_options
 parent_rec: null
 title: "Recommendation 2"
 source_pages: [4]
-strength: strong
 tables_referenced: []
 figures_referenced: []
 url_links: []
@@ -318,7 +312,6 @@ section_id: selection_of_management_options
 parent_rec: null
 title: "Recommendation 3"
 source_pages: [5, 6, 7]
-strength: strong
 tables_referenced:
   - Table 1. Statin intensity by ACC/AHA system of classification
 figures_referenced:
@@ -402,7 +395,6 @@ section_id: selection_of_management_options
 parent_rec: Lipid management- focus on cardiovascular risk ACG (Dec 2023) v1.1.selection_of_management_options.recommendation.03
 title: "Figure 2. Key components of lifestyle intervention to support lipid management"
 source_pages: [5]
-strength: null
 reconstructed_from: table
 image_dir: grouped_p5_fig_01.jpg
 url_links: []
@@ -430,7 +422,6 @@ section_id: selection_of_management_options
 parent_rec: Lipid management- focus on cardiovascular risk ACG (Dec 2023) v1.1.selection_of_management_options.recommendation.03
 title: "Table 1. Statin intensity by ACC/AHA system of classification"
 source_pages: [6]
-strength: null
 image_dir: 3ecbecfcce2caf41abd598dad944ed2a4feb0e056d94dd60b28c25278ab6b899.jpg
 url_links: []
 cross_refs: []
@@ -456,7 +447,6 @@ section_id: selection_of_management_options
 parent_rec: null
 title: "Recommendation 4"
 source_pages: [7, 8]
-strength: strong
 tables_referenced: []
 figures_referenced:
   - Figure 3. Additional considerations when prescribing ezetimibe
@@ -505,7 +495,6 @@ section_id: selection_of_management_options
 parent_rec: Lipid management- focus on cardiovascular risk ACG (Dec 2023) v1.1.selection_of_management_options.recommendation.04
 title: "Figure 1 extract"
 source_pages: [7]
-strength: null
 reconstructed_from: mermaid
 image_dir: grouped_p7_fig_01.jpg
 url_links: []
@@ -540,7 +529,6 @@ section_id: selection_of_management_options
 parent_rec: Lipid management- focus on cardiovascular risk ACG (Dec 2023) v1.1.selection_of_management_options.recommendation.04
 title: "Figure 3. Additional considerations when prescribing ezetimibe"
 source_pages: [8]
-strength: null
 reconstructed_from: mermaid
 image_dir: grouped_p8_fig_01.jpg
 url_links: []
@@ -572,7 +560,6 @@ section_id: selection_of_management_options
 parent_rec: Lipid management- focus on cardiovascular risk ACG (Dec 2023) v1.1.selection_of_management_options.recommendation.04
 title: "Figure 4. Additional considerations when prescribing PCSK9 monoclonal antibodies or inclisiran"
 source_pages: [8]
-strength: null
 reconstructed_from: mermaid
 image_dir: grouped_p8_fig_02.jpg
 url_links: []
@@ -598,7 +585,6 @@ section_id: selection_of_management_options
 parent_rec: null
 title: "Recommendation 5"
 source_pages: [9]
-strength: strong
 tables_referenced: []
 figures_referenced:
   - Figure 1. A practical guide to risk stratification for lipid management in key patient groups
@@ -671,7 +657,6 @@ section_id: selection_of_management_options
 parent_rec: null
 title: "Recommendation 6"
 source_pages: [10, 11]
-strength: strong
 tables_referenced: []
 figures_referenced: []
 url_links: []
@@ -709,7 +694,6 @@ section_id: selection_of_management_options
 parent_rec: Lipid management- focus on cardiovascular risk ACG (Dec 2023) v1.1.selection_of_management_options.recommendation.06
 title: "Figure 1 extract"
 source_pages: [10]
-strength: null
 reconstructed_from: mermaid
 image_dir: grouped_p10_fig_01.jpg
 url_links: []
@@ -737,7 +721,6 @@ section_id: selection_of_management_options
 parent_rec: null
 title: "Recommendation 7"
 source_pages: [11]
-strength: strong
 tables_referenced: []
 figures_referenced:
   - Figure 5
@@ -794,7 +777,6 @@ section_id: selection_of_management_options
 parent_rec: null
 title: "Recommendation 8"
 source_pages: [12]
-strength: strong
 tables_referenced: []
 figures_referenced:
   - Figure 1. A practical guide to risk stratification for lipid management in key patient groups
@@ -860,7 +842,6 @@ section_id: support_and_review
 parent_rec: null
 title: "Support and review overview"
 source_pages: [2, 12]
-strength: null
 tables_referenced: []
 figures_referenced: []
 url_links: []
@@ -899,7 +880,6 @@ section_id: support_and_review
 parent_rec: null
 title: "Recommendation 9"
 source_pages: [13, 14, 17]
-strength: strong
 tables_referenced:
   - Table 3. Selected interactions with commonly used medications that may increase the risk of statin side effects
 figures_referenced:
@@ -995,7 +975,6 @@ section_id: support_and_review
 parent_rec: Lipid management- focus on cardiovascular risk ACG (Dec 2023) v1.1.support_and_review.recommendation.09
 title: "Figure 6. General overview of management of muscle symptoms"
 source_pages: [14]
-strength: null
 reconstructed_from: mermaid
 image_dir: grouped_p14_fig_01.jpg
 url_links: []
@@ -1045,7 +1024,6 @@ section_id: support_and_review
 parent_rec: Lipid management- focus on cardiovascular risk ACG (Dec 2023) v1.1.support_and_review.recommendation.09
 title: "Supplement 1. Lipid-lowering medications in Singapore"
 source_pages: [15]
-strength: null
 url_links: []
 cross_refs: []
 review_flags: []
@@ -1063,7 +1041,6 @@ section_id: support_and_review
 parent_rec: Lipid management- focus on cardiovascular risk ACG (Dec 2023) v1.1.support_and_review.recommendation.09
 title: "Table 2. Overview of lipid-lowering medications registered in Singapore"
 source_pages: [15, 16]
-strength: null
 image_dir: 16826b457243e928bd9e1b56deece82ab9c7cb38614b0f26a9b33ddfb49f54b4.jpg
 url_links: []
 cross_refs: []
@@ -1093,7 +1070,6 @@ section_id: support_and_review
 parent_rec: Lipid management- focus on cardiovascular risk ACG (Dec 2023) v1.1.support_and_review.recommendation.09
 title: "Table 3. Selected interactions with commonly used medications that may increase "
 source_pages: [17]
-strength: null
 image_dir: 37204648635d03ba55864b0de348db39ce0b816fd07e2f334583e92cd281e15f.jpg
 url_links: []
 cross_refs: []
@@ -1120,7 +1096,6 @@ section_id: references
 parent_rec: null
 title: "References"
 source_pages: [18]
-strength: null
 tables_referenced: []
 figures_referenced: []
 url_links:

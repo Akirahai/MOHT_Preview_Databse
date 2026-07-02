@@ -12,7 +12,6 @@ section_id: overview
 parent_rec: null
 title: "Definitions and scope of application"
 source_pages: [1]
-strength: null
 tables_referenced: []
 figures_referenced: []
 url_links: []
@@ -64,7 +63,6 @@ section_id: overall_approach_to_management_of_ckd
 parent_rec: null
 title: "Recommendation 1"
 source_pages: [2]
-strength: strong
 tables_referenced: []
 figures_referenced:
   - Figure 1. Overview of management of early-stage CKD
@@ -90,7 +88,6 @@ section_id: overall_approach_to_management_of_ckd
 parent_rec: ckd--management-(october-2023).overall_approach_to_management_of_ckd.recommendation.01
 title: "Figure 1. Overview of management of early-stage CKD"
 source_pages: [2]
-strength: null
 reconstructed_from: mermaid
 image_dir: grouped_p2_fig_01.jpg
 url_links: []
@@ -123,7 +120,6 @@ section_id: pharmacological_treatment
 parent_rec: null
 title: "Recommendation 2"
 source_pages: [3]
-strength: strong
 tables_referenced:
   - Table 1. Monitoring and treatment considerations for ACE inhibitors or ARBs
 figures_referenced: []
@@ -172,7 +168,6 @@ section_id: pharmacological_treatment
 parent_rec: ckd--management-(october-2023).pharmacological_treatment.recommendation.02
 title: "Table 1. Monitoring and treatment considerations for ACE inhibitors or ARBs"
 source_pages: [3]
-strength: null
 url_links: []
 cross_refs: []
 review_flags: []
@@ -190,7 +185,6 @@ section_id: pharmacological_treatment
 parent_rec: ckd--management-(october-2023).pharmacological_treatment.recommendation.02
 title: "Monitoring of clinical features"
 source_pages: [3]
-strength: null
 image_dir: 6b60004c8f748e9dfacdd9ce81bb7110459f30e92c621bec2d97346318327ee9.jpg
 url_links: []
 cross_refs: []
@@ -212,7 +206,6 @@ section_id: pharmacological_treatment
 parent_rec: null
 title: "Recommendation 3"
 source_pages: [4]
-strength: strong
 tables_referenced:
   - Table 2. eGFR levels and starting dose for SGLT2 inhibitors for patients with CKD
 figures_referenced: []
@@ -247,7 +240,6 @@ section_id: pharmacological_treatment
 parent_rec: ckd--management-(october-2023).pharmacological_treatment.recommendation.03
 title: "Table 2. eGFR levels and starting dose for SGLT2 inhibitors for patients with CK"
 source_pages: [4]
-strength: null
 image_dir: 8ceec206676a919cd9116448e659a158b17d88ea886e824f86084f77eff8f8c3.jpg
 url_links: []
 cross_refs: []
@@ -274,7 +266,6 @@ section_id: treatment_considerations_depending_on_comorbidities
 parent_rec: null
 title: "Recommendation 4"
 source_pages: [5]
-strength: strong
 tables_referenced: []
 figures_referenced: []
 url_links: []
@@ -325,7 +316,6 @@ section_id: important_considerations_for_medication_prescribing_in_patients_with
 parent_rec: null
 title: "Important considerations for medication prescribing in patients with CKD overview"
 source_pages: [6]
-strength: null
 tables_referenced:
   - Table 2. eGFR levels and starting dose for SGLT2 inhibitors for patients with CKD
 figures_referenced: []
@@ -352,7 +342,6 @@ section_id: important_considerations_for_medication_prescribing_in_patients_with
 parent_rec: null
 title: "Recommendation 5"
 source_pages: [6]
-strength: strong
 tables_referenced:
   - Table 3. Nutrient-specific intakes for patients with CKD
 figures_referenced: []
@@ -398,7 +387,6 @@ section_id: important_considerations_for_medication_prescribing_in_patients_with
 parent_rec: ckd--management-(october-2023).important_considerations_for_medication_prescribing_in_patients_with_ckd.recommendation.05
 title: "Table 3. Nutrient-specific intakes for patients with CKD"
 source_pages: [6]
-strength: null
 url_links: []
 cross_refs: []
 review_flags: []
@@ -419,7 +407,6 @@ section_id: follow_up_and_monitoring
 parent_rec: null
 title: "Recommendation 6"
 source_pages: [7]
-strength: strong
 tables_referenced:
   - Table 4. General guidance on frequency of follow-up and assessments by CKD stage
 figures_referenced: []
@@ -449,7 +436,6 @@ section_id: follow_up_and_monitoring
 parent_rec: ckd--management-(october-2023).follow_up_and_monitoring.recommendation.06
 title: "Table 4. General guidance on frequency of follow-up and assessments by CKD stage"
 source_pages: [7]
-strength: null
 image_dir: 2118fff4370ad7d766abfa23ff701121cafefc0415033f7cefb557c0dedc3d1a.jpg
 url_links: []
 cross_refs: []
@@ -473,7 +459,6 @@ section_id: follow_up_and_monitoring
 parent_rec: null
 title: "Recommendation 7"
 source_pages: [7]
-strength: strong
 tables_referenced: []
 figures_referenced: []
 url_links: []
@@ -523,7 +508,6 @@ section_id: references
 parent_rec: null
 title: "References"
 source_pages: [8]
-strength: null
 tables_referenced: []
 figures_referenced: []
 url_links:
@@ -615,7 +599,6 @@ section_id: references
 parent_rec: ckd--management-(october-2023).follow_up_and_monitoring.recommendation.07
 title: "Supplementary Table 2: Commonly prescribed medications that should be used with "
 source_pages: [9]
-strength: null
 url_links: []
 cross_refs: []
 review_flags: []
@@ -633,7 +616,6 @@ section_id: references
 parent_rec: ckd--management-(october-2023).follow_up_and_monitoring.recommendation.07
 title: "This table offers a non-exhaustive list of common medications that may require c"
 source_pages: [9]
-strength: null
 image_dir: 48d9b286e657d29901d375d0344135be917fa2addbfa0fa42bdaed8ef52c0f9f.jpg
 url_links: []
 cross_refs: []
@@ -655,7 +637,6 @@ section_id: references
 parent_rec: ckd--management-(october-2023).follow_up_and_monitoring.recommendation.07
 title: "Medications that should be ceased during illness and may resume when patients ha"
 source_pages: [9]
-strength: null
 url_links: []
 cross_refs: []
 review_flags: []
@@ -673,7 +654,6 @@ section_id: references
 parent_rec: ckd--management-(october-2023).follow_up_and_monitoring.recommendation.07
 title: "Medication classes have been stated in italics."
 source_pages: [9]
-strength: null
 url_links: []
 cross_refs: []
 review_flags: []
@@ -691,7 +671,6 @@ section_id: references
 parent_rec: ckd--management-(october-2023).follow_up_and_monitoring.recommendation.07
 title: "ACE inhibitors, angiotensin-converting enzyme inhibitors; ARBs, angiotensin II r"
 source_pages: [9]
-strength: null
 url_links: []
 cross_refs: []
 review_flags: []
@@ -709,7 +688,6 @@ section_id: references
 parent_rec: ckd--management-(october-2023).follow_up_and_monitoring.recommendation.07
 title: "List is not exhaustive; refer to package inserts for full details of medications"
 source_pages: [9]
-strength: null
 url_links: []
 cross_refs: []
 review_flags: []
@@ -727,7 +705,6 @@ section_id: references
 parent_rec: ckd--management-(october-2023).follow_up_and_monitoring.recommendation.07
 title: "Avoid over-the-counter use of medications containing NSAIDs."
 source_pages: [9]
-strength: null
 url_links: []
 cross_refs: []
 review_flags: []
@@ -745,7 +722,6 @@ section_id: references
 parent_rec: ckd--management-(october-2023).follow_up_and_monitoring.recommendation.07
 title: "Supplementary Table 1: Dosing information of ACE-inhibitors and ARBs for patient"
 source_pages: [9]
-strength: null
 image_dir: b6cedc1e03008b357db53eef710338cc305fce033a7fd438ac52b47eade9202b.jpg
 url_links: []
 cross_refs: []

@@ -12,7 +12,6 @@ section_id: overview
 parent_rec: null
 title: "Objective"
 source_pages: [1, 2]
-strength: null
 tables_referenced: []
 figures_referenced: []
 url_links: []
@@ -72,7 +71,6 @@ section_id: general_medical_examination
 parent_rec: null
 title: "Recommendation 1"
 source_pages: [2]
-strength: strong
 tables_referenced: []
 figures_referenced: []
 url_links: []
@@ -92,7 +90,6 @@ section_id: general_medical_examination
 parent_rec: null
 title: "Note on general medical examination in Singapore"
 source_pages: [2, 3]
-strength: null
 tables_referenced: []
 figures_referenced: []
 url_links: []
@@ -117,7 +114,6 @@ section_id: preoperative_testing
 parent_rec: null
 title: "CXR may not be indicated"
 source_pages: [2]
-strength: null
 tables_referenced: []
 figures_referenced: []
 url_links: []
@@ -160,7 +156,6 @@ section_id: preoperative_testing
 parent_rec: null
 title: "Recommendation 2"
 source_pages: [3]
-strength: strong
 tables_referenced: []
 figures_referenced: []
 url_links: []
@@ -183,7 +178,6 @@ section_id: lung_cancer_screening
 parent_rec: null
 title: "Recommendation 3"
 source_pages: [3]
-strength: strong
 tables_referenced: []
 figures_referenced: []
 url_links: []
@@ -203,7 +197,6 @@ section_id: lung_cancer_screening
 parent_rec: null
 title: "CXR is not indicated"
 source_pages: [3]
-strength: null
 tables_referenced: []
 figures_referenced: []
 url_links: []
@@ -227,7 +220,6 @@ section_id: references
 parent_rec: null
 title: "References"
 source_pages: [4]
-strength: null
 tables_referenced: []
 figures_referenced: []
 url_links: []

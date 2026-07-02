@@ -12,7 +12,6 @@ section_id: overview
 parent_rec: null
 title: "Definitions and scope of application"
 source_pages: [1]
-strength: null
 tables_referenced: []
 figures_referenced: []
 url_links: []
@@ -66,7 +65,6 @@ section_id: overview
 parent_rec: null
 title: "Recommendation 1"
 source_pages: [2]
-strength: strong
 tables_referenced: []
 figures_referenced: []
 url_links:
@@ -117,7 +115,6 @@ section_id: overview
 parent_rec: null
 title: "Recommendation 2"
 source_pages: [3]
-strength: strong
 tables_referenced: []
 figures_referenced:
   - Figure 1. Conversation starters and suggested approaches based on willingness to quit
@@ -148,7 +145,6 @@ section_id: overview
 parent_rec: promoting-smoking-cessation-and-treating-tobacco-dependence-(feb-2025).overview.recommendation.02
 title: "Figure 1. Conversation starters and suggested approaches based on willingness to quit"
 source_pages: [3]
-strength: null
 reconstructed_from: mermaid
 image_dir: grouped_p3_fig_01.jpg
 url_links: []
@@ -183,7 +179,6 @@ section_id: overview
 parent_rec: null
 title: "Recommendation 3"
 source_pages: [4]
-strength: strong
 tables_referenced: []
 figures_referenced: []
 url_links:
@@ -261,7 +256,6 @@ section_id: overview
 parent_rec: null
 title: "Recommendation 4"
 source_pages: [5, 6]
-strength: strong
 tables_referenced:
   - Table 1. Quick guide to types of nicotine replacement therapy (NRT) registered in Singapore
 figures_referenced:
@@ -317,7 +311,6 @@ section_id: overview
 parent_rec: promoting-smoking-cessation-and-treating-tobacco-dependence-(feb-2025).overview.recommendation.04
 title: "Figure 2. Relative efficacy (percentage increase in likelihood of quitting smoking) of pharmacological treatments compared to placebo"
 source_pages: [6]
-strength: null
 reconstructed_from: table
 image_dir: grouped_p6_fig_01.jpg
 url_links: []
@@ -349,7 +342,6 @@ section_id: overview
 parent_rec: promoting-smoking-cessation-and-treating-tobacco-dependence-(feb-2025).overview.recommendation.04
 title: "Figure 3. Principles for smoking cessation strategies in specific subgroups"
 source_pages: [6]
-strength: null
 reconstructed_from: mermaid
 image_dir: grouped_p6_fig_02.jpg
 url_links: []
@@ -397,7 +389,6 @@ section_id: overview
 parent_rec: promoting-smoking-cessation-and-treating-tobacco-dependence-(feb-2025).overview.recommendation.04
 title: "Table 1. Quick guide to types of nicotine replacement therapy (NRT) registered i"
 source_pages: [7, 8]
-strength: null
 image_dir: 77f9220935929c6108063db6f59702f8521ef0a386b0a6bd0642467ce473ce9b.jpg
 url_links: []
 cross_refs: []
@@ -429,7 +420,6 @@ section_id: overview
 parent_rec: null
 title: "Recommendation 5"
 source_pages: [9]
-strength: strong
 tables_referenced: []
 figures_referenced: []
 url_links: []
@@ -481,7 +471,6 @@ section_id: overview
 parent_rec: null
 title: "Recommendation 6"
 source_pages: [10, 11]
-strength: conditional
 tables_referenced: []
 figures_referenced:
   - Figure 4. Overview of nicotine withdrawal symptoms
@@ -533,7 +522,6 @@ section_id: overview
 parent_rec: promoting-smoking-cessation-and-treating-tobacco-dependence-(feb-2025).overview.recommendation.06
 title: "Figure 4. Overview of nicotine withdrawal symptoms"
 source_pages: [10]
-strength: null
 reconstructed_from: table
 image_dir: grouped_p10_fig_01.jpg
 url_links: []
@@ -564,7 +552,6 @@ section_id: references
 parent_rec: null
 title: "References"
 source_pages: [12]
-strength: null
 tables_referenced: []
 figures_referenced: []
 url_links: []

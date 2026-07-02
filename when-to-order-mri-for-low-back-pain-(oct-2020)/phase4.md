@@ -12,7 +12,6 @@ section_id: overview
 parent_rec: null
 title: "Definitions and scope of application"
 source_pages: [1]
-strength: null
 tables_referenced: []
 figures_referenced: []
 url_links: []
@@ -63,7 +62,6 @@ section_id: overall_approach_to_low_back_pain_assessment
 parent_rec: null
 title: "Overall approach to low back pain assessment overview"
 source_pages: [2]
-strength: null
 tables_referenced: []
 figures_referenced: []
 url_links: []
@@ -95,7 +93,6 @@ section_id: mri_for_non_specific_low_back_pain
 parent_rec: null
 title: "MRI for non-specific low back pain overview"
 source_pages: [2]
-strength: null
 tables_referenced: []
 figures_referenced: []
 url_links: []
@@ -115,7 +112,6 @@ section_id: mri_for_non_specific_low_back_pain
 parent_rec: null
 title: "Recommendation 1"
 source_pages: [2]
-strength: strong
 tables_referenced: []
 figures_referenced: []
 url_links: []
@@ -141,7 +137,6 @@ section_id: mri_for_non_specific_low_back_pain
 parent_rec: null
 title: "Recommendation 2"
 source_pages: [2]
-strength: strong
 tables_referenced: []
 figures_referenced: []
 url_links: []
@@ -176,7 +171,6 @@ section_id: mri_for_low_back_pain_linked_to_a_specific_spinal_pathology
 parent_rec: null
 title: "MRI for low back pain linked to a specific spinal pathology overview"
 source_pages: [3]
-strength: null
 tables_referenced: []
 figures_referenced: []
 url_links: []
@@ -205,7 +199,6 @@ section_id: imaging_for_suspected_vertebral_fragility_fracture
 parent_rec: null
 title: "Imaging for suspected vertebral fragility fracture overview"
 source_pages: [3]
-strength: null
 tables_referenced: []
 figures_referenced: []
 url_links: []
@@ -226,7 +219,6 @@ section_id: imaging_for_suspected_vertebral_fragility_fracture
 parent_rec: null
 title: "Recommendation 3"
 source_pages: [2, 3]
-strength: strong
 tables_referenced: []
 figures_referenced: []
 url_links: []
@@ -257,7 +249,6 @@ section_id: imaging_for_suspected_vertebral_fragility_fracture
 parent_rec: null
 title: "Recommendation 4"
 source_pages: [3]
-strength: strong
 tables_referenced: []
 figures_referenced: []
 url_links: []
@@ -277,7 +268,6 @@ section_id: imaging_for_suspected_vertebral_fragility_fracture
 parent_rec: null
 title: "Recommendation 5"
 source_pages: [3]
-strength: strong
 tables_referenced: []
 figures_referenced: []
 url_links: []
@@ -297,7 +287,6 @@ section_id: imaging_for_suspected_vertebral_fragility_fracture
 parent_rec: null
 title: "Recommendation 6"
 source_pages: [3]
-strength: strong
 tables_referenced: []
 figures_referenced: []
 url_links: []
@@ -320,7 +309,6 @@ section_id: references
 parent_rec: null
 title: "References"
 source_pages: [4]
-strength: null
 tables_referenced: []
 figures_referenced: []
 url_links: []

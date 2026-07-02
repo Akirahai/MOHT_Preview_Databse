@@ -12,7 +12,6 @@ section_id: overview
 parent_rec: null
 title: "Objective"
 source_pages: [1, 2]
-strength: null
 tables_referenced: []
 figures_referenced: []
 url_links: []
@@ -70,13 +69,15 @@ section_id: assessment
 parent_rec: null
 title: "Recommendation 1"
 source_pages: [2, 3]
-strength: strong
 tables_referenced: []
 figures_referenced: []
-url_links:
-  - https://go.gov.sg/acg-sgfrs-2023
+url_links: []
 cross_refs:
+  - ACG-LIPID-MANAGEMENT
+  - ACG-TYPE-2-DM-MANAGEMENT
+  - ACG-CKD-DIAGNOSIS
   - ACG-CKD-MANAGEMENT
+  - acg-sgfrs-2023
 review_flags:
   - contains_dosing_information
   - contains_conditional_language
@@ -165,6 +166,91 @@ Local evidence on patients with hypertension reported a prevalence of around 5%.
 
 ---
 
+```yaml
+cpg_id: acg-hypertension_15dec2023
+chunk_id: acg-hypertension_15dec2023.assessment.additional_material.01
+chunk_type: additional_material
+section_id: assessment
+parent_rec: acg-hypertension_15dec2023.assessment.recommendation.01
+title: "Additional resource for CV risk assessment using SG FRS 2023"
+source_pages: [2]
+url_links: []
+cross_refs:
+  - acg-sgfrs-2023
+review_flags:
+  - external_resource
+```
+
+**External material — Additional resource for CV risk assessment using SG FRS 2023**
+
+*Source: https://go.gov.sg/acg-sgfrs-2023*
+
+This resource accompanies the ACE Clinical Guidelines "Lipid management: focus on cardiovascular risk" and "Hypertension – tailoring the management plan to optimise BP control" (published on 15 December 2023).
+
+Please refer to pages 2 and 3 for the SG-FRS-2023 score sheet for men, and pages 4 and 5 for the score sheet for women.
+
+### Background
+
+The SG-FRS estimates the likelihood of non-fatal myocardial infarction or coronary death in asymptomatic individuals without medical conditions that confer high risk (such as cardiovascular disease or diabetes mellitus).  
+In 2023, the SG-FRS was recalibrated to improve its predictive performance. The recalibrated SG-FRS-2023 supersedes the last published version found in the Ministry of Health Clinical Practice Guidelines (MOH-CPG) for Lipids (2016). For full details, refer to MOH Circular No. 88/2023.
+
+### Practice reminders
+
+As a result of recalibration, the 10-year risk score tables were updated (Table A2 and A4), while the points allocated for individual risk factors remain unchanged (Table A1 and A3) except for smoking in one subgroup $^{a}$ . Estimated 10-year CV risk scores are overall lower compared to the previous version published in 2016.  
+The risk score is not applicable to individuals with cardiovascular disease, familial hypercholesterolaemia, diabetes mellitus, or chronic kidney disease (defined as estimated glomerular filtration rate [eGFR] <60 mL/min/1.73m² and/or albumin creatinine ratio [ACR] ≥ 3 mg/mmol).  
+➢ Clinical judgment is advised in using risk scores as a factor of consideration in tailoring lipid management for any individual, as predictive tools are estimates derived from population data.  
+SG-FRS-2023 does not predict ischaemic stroke or total ASCVD as an endpoint.
+
+a. For the risk factor of smoking in men between 70-79 years old (Table A1), one (1) point should be assigned. Healthcare professionals and institutions transitioning from older versions of the risk score, such as in the 2016 MOH-CPG, are advised to refer to the latest tables in this resource.
+
+### RECALIBRATED SINGAPORE-MODIFIED FRAMINGHAM RISK SCORE 2023 (SG-FRS-2023)
+
+Table A1. Score sheet for points allocated to age, total and HDL cholesterol levels, smoking status and systolic blood pressure in men.
+
+<table><tr><td>Age</td><td>Points</td></tr><tr><td>20-34</td><td>-9</td></tr><tr><td>35-39</td><td>-4</td></tr><tr><td>40-44</td><td>0</td></tr><tr><td>45-49</td><td>3</td></tr><tr><td>50-54</td><td>6</td></tr><tr><td>55-59</td><td>8</td></tr><tr><td>60-64</td><td>10</td></tr><tr><td>65-69</td><td>11</td></tr><tr><td>70-74</td><td>12</td></tr><tr><td>75-79</td><td>13</td></tr></table>
+
+Allocate points based on person's age, total and HDL cholesterol levels, smoking status and systolic blood pressure. Check the total points against table A2 for estimate of that person's 10-year CAD risk.
+
+<table><tr><td rowspan="2">Total Cholesterol mmol/L (mg/dL)</td><td colspan="5">Points</td></tr><tr><td>Age 20-39</td><td>Age 40-49</td><td>Age 50-59</td><td>Age 60-69</td><td>Age 70-79</td></tr><tr><td>&lt;4.1 (160)</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td></tr><tr><td>4.1-5.1 (160-199)</td><td>4</td><td>3</td><td>2</td><td>1</td><td>0</td></tr><tr><td>5.2-6.1 (200-239)</td><td>7</td><td>5</td><td>3</td><td>1</td><td>0</td></tr><tr><td>6.2-7.2 (240-279)</td><td>9</td><td>6</td><td>4</td><td>2</td><td>1</td></tr><tr><td>≥7.3 (280)</td><td>11</td><td>8</td><td>5</td><td>3</td><td>1</td></tr></table>
+
+<table><tr><td rowspan="2">Smoking</td><td colspan="5">Points</td></tr><tr><td>Age 20-39</td><td>Age 40-49</td><td>Age 50-59</td><td>Age 60-69</td><td>Age 70-79</td></tr><tr><td>Non-smoker</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td></tr><tr><td>Smoker</td><td>8</td><td>5</td><td>3</td><td>1</td><td>1</td></tr></table>
+
+<table><tr><td>HDL Cholesterol mmol/L (mg/dL)</td><td>Points</td></tr><tr><td>≥1.6 (60)</td><td>-1</td></tr><tr><td>1.3-1.5 (50-59)</td><td>0</td></tr><tr><td>1.0-1.2 (40-49)</td><td>1</td></tr><tr><td>&lt;1.0 (40)</td><td>2</td></tr></table>
+
+<table><tr><td rowspan="2">Systolic BP* (mmHg)</td><td colspan="2">Points</td></tr><tr><td>If untreated</td><td>If treated</td></tr><tr><td>&lt;120</td><td>0</td><td>0</td></tr><tr><td>120-129</td><td>0</td><td>1</td></tr><tr><td>130-139</td><td>1</td><td>2</td></tr><tr><td>140-159</td><td>1</td><td>2</td></tr><tr><td>≥160</td><td>2</td><td>3</td></tr></table>
+
+\* BP = blood pressure
+
+Table A2. Score sheet for the estimation of 10-year coronary artery disease risk in men based on the recalibrated SG-FRS-2023 model.
+
+<table><tr><td rowspan="2">Total Points</td><td colspan="3">10-Year Risk (%) from recalibrated SG-FRS-2023</td></tr><tr><td>Chinese</td><td>Malay</td><td>Indian</td></tr><tr><td>-5</td><td>&lt;1%</td><td>&lt;1%</td><td>&lt;1%</td></tr><tr><td>-4</td><td>&lt;1%</td><td>&lt;1%</td><td>&lt;1%</td></tr><tr><td>-3</td><td>&lt;1%</td><td>&lt;1%</td><td>&lt;1%</td></tr><tr><td>-2</td><td>&lt;1%</td><td>&lt;1%</td><td>&lt;1%</td></tr><tr><td>-1</td><td>&lt;1%</td><td>&lt;1%</td><td>&lt;1%</td></tr><tr><td>0</td><td>&lt;1%</td><td>&lt;1%</td><td>&lt;1%</td></tr><tr><td>1</td><td>&lt;1%</td><td>&lt;1%</td><td>1%</td></tr><tr><td>2</td><td>&lt;1%</td><td>1%</td><td>1%</td></tr><tr><td>3</td><td>&lt;1%</td><td>1%</td><td>1%</td></tr><tr><td>4</td><td>1%</td><td>1%</td><td>1%</td></tr><tr><td>5</td><td>1%</td><td>1%</td><td>2%</td></tr><tr><td>6</td><td>1%</td><td>2%</td><td>2%</td></tr><tr><td>7</td><td>1%</td><td>2%</td><td>3%</td></tr><tr><td>8</td><td>2%</td><td>3%</td><td>4%</td></tr><tr><td>9</td><td>2%</td><td>3%</td><td>5%</td></tr><tr><td>10</td><td>3%</td><td>4%</td><td>6%</td></tr><tr><td>11</td><td>3%</td><td>5%</td><td>7%</td></tr><tr><td>12</td><td>4%</td><td>7%</td><td>10%</td></tr><tr><td>13</td><td>5%</td><td>9%</td><td>12%</td></tr><tr><td>14</td><td>7%</td><td>11%</td><td>15%</td></tr><tr><td>15</td><td>9%</td><td>14%</td><td>19%</td></tr><tr><td>16</td><td>11%</td><td>18%</td><td>24%</td></tr><tr><td>17</td><td>14%</td><td>22%</td><td>30%</td></tr><tr><td>18</td><td>18%</td><td>28%</td><td>37%</td></tr><tr><td>19</td><td>23%</td><td>34%</td><td>45%</td></tr><tr><td>20</td><td>28%</td><td>42%</td><td>54%</td></tr></table>
+
+Table A3. Score sheet for points allocated to age, total and HDL cholesterol levels, smoking status and systolic blood pressure in women.
+
+<table><tr><td>Age</td><td>Points</td></tr><tr><td>20-34</td><td>-7</td></tr><tr><td>35-39</td><td>-3</td></tr><tr><td>40-44</td><td>0</td></tr><tr><td>45-49</td><td>3</td></tr><tr><td>50-54</td><td>6</td></tr><tr><td>55-59</td><td>8</td></tr><tr><td>60-64</td><td>10</td></tr><tr><td>65-69</td><td>12</td></tr><tr><td>70-74</td><td>14</td></tr><tr><td>75-79</td><td>16</td></tr></table>
+
+Allocate points based on person's age, total and HDL cholesterol levels, smoking status and systolic blood pressure. Check the total points against table A4 for estimate of that person's 10-year CHD risk.
+
+<table><tr><td rowspan="2">Total Cholesterol mmol/L (mg/dL)</td><td colspan="5">Points</td></tr><tr><td>Age 20-39</td><td>Age 40-49</td><td>Age 50-59</td><td>Age 60-69</td><td>Age 70-79</td></tr><tr><td>&lt;4.1 (160)</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td></tr><tr><td>4.1-5.1 (160-199)</td><td>4</td><td>3</td><td>2</td><td>1</td><td>1</td></tr><tr><td>5.2-6.1 (200-239)</td><td>8</td><td>6</td><td>4</td><td>2</td><td>1</td></tr><tr><td>6.2-7.2 (240-279)</td><td>11</td><td>8</td><td>5</td><td>3</td><td>2</td></tr><tr><td>≥7.3 (280)</td><td>13</td><td>10</td><td>7</td><td>4</td><td>2</td></tr></table>
+
+<table><tr><td rowspan="2">Smoking</td><td colspan="5">Points</td></tr><tr><td>Age 20-39</td><td>Age 40-49</td><td>Age 50-59</td><td>Age 60-69</td><td>Age 70-79</td></tr><tr><td>Non-smoker</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td></tr><tr><td>Smoker</td><td>9</td><td>7</td><td>4</td><td>2</td><td>1</td></tr></table>
+
+<table><tr><td>HDL Cholesterol mmol/L (mg/dL)</td><td>Points</td></tr><tr><td>≥1.6 (60)</td><td>-1</td></tr><tr><td>1.3-1.5 (50-59)</td><td>0</td></tr><tr><td>1.0-1.2 (40-49)</td><td>1</td></tr><tr><td>&lt;1.0 (40)</td><td>2</td></tr></table>
+
+<table><tr><td rowspan="2">Systolic BP* (mmHg)</td><td colspan="2">Points</td></tr><tr><td>If untreated</td><td>If treated</td></tr><tr><td>&lt;120</td><td>0</td><td>0</td></tr><tr><td>120-129</td><td>1</td><td>3</td></tr><tr><td>130-139</td><td>2</td><td>4</td></tr><tr><td>140-159</td><td>3</td><td>5</td></tr><tr><td>≥160</td><td>4</td><td>6</td></tr></table>
+
+\* BP = blood pressure
+
+Table A4. Score sheet for the estimation of 10-year coronary artery disease risk in women based on the recalibrated SG-FRS-2023 model.
+
+<table><tr><td rowspan="2">Total Points</td><td colspan="3">10-Year Risk (%) from recalibrated SG-FRS-2023</td></tr><tr><td>Chinese</td><td>Malay</td><td>Indian</td></tr><tr><td>0</td><td>&lt;1%</td><td>&lt;1%</td><td>&lt;1%</td></tr><tr><td>1</td><td>&lt;1%</td><td>&lt;1%</td><td>&lt;1%</td></tr><tr><td>2</td><td>&lt;1%</td><td>&lt;1%</td><td>&lt;1%</td></tr><tr><td>3</td><td>&lt;1%</td><td>&lt;1%</td><td>&lt;1%</td></tr><tr><td>4</td><td>&lt;1%</td><td>&lt;1%</td><td>&lt;1%</td></tr><tr><td>5</td><td>&lt;1%</td><td>&lt;1%</td><td>&lt;1%</td></tr><tr><td>6</td><td>&lt;1%</td><td>&lt;1%</td><td>&lt;1%</td></tr><tr><td>7</td><td>&lt;1%</td><td>&lt;1%</td><td>&lt;1%</td></tr><tr><td>8</td><td>&lt;1%</td><td>&lt;1%</td><td>&lt;1%</td></tr><tr><td>9</td><td>&lt;1%</td><td>&lt;1%</td><td>1%</td></tr><tr><td>10</td><td>&lt;1%</td><td>1%</td><td>1%</td></tr><tr><td>11</td><td>&lt;1%</td><td>1%</td><td>1%</td></tr><tr><td>12</td><td>&lt;1%</td><td>1%</td><td>1%</td></tr><tr><td>13</td><td>1%</td><td>1%</td><td>2%</td></tr><tr><td>14</td><td>1%</td><td>1%</td><td>2%</td></tr><tr><td>15</td><td>1%</td><td>2%</td><td>3%</td></tr><tr><td>16</td><td>1%</td><td>2%</td><td>3%</td></tr><tr><td>17</td><td>2%</td><td>3%</td><td>4%</td></tr><tr><td>18</td><td>2%</td><td>4%</td><td>6%</td></tr><tr><td>19</td><td>3%</td><td>5%</td><td>7%</td></tr><tr><td>20</td><td>4%</td><td>7%</td><td>10%</td></tr><tr><td>21</td><td>5%</td><td>9%</td><td>12%</td></tr><tr><td>22</td><td>7%</td><td>11%</td><td>16%</td></tr><tr><td>23</td><td>8%</td><td>14%</td><td>20%</td></tr><tr><td>24</td><td>11%</td><td>18%</td><td>25%</td></tr><tr><td>25</td><td>14%</td><td>23%</td><td>31%</td></tr><tr><td>26</td><td>18%</td><td>29%</td><td>39%</td></tr><tr><td>27</td><td>22%</td><td>36%</td><td>47%</td></tr></table>
+
+These risk scores are derived from the Framingham-based NCEP ATP III 10-Year Risk Score Tables which have been recalibrated using data from the Singapore Population Health Studies – Multi-ethnic Cohort Phase 1 (MEC1) and National Registry of Diseases Office. This recalibration (SG-FRS-2023) was carried out as part of a collaboration between investigators at the Singapore Ministry of Health and Saw Swee Hock School of Public Health, National University of Singapore and National University Health System.
+
+Source: Lim, C.G.Y. et al. (2023). Recalibrated Singapore-Modified Framingham Risk Score 2023 (SG-FRS-2023). https://blog.nus.edu.sg/sphs/files/2023/10/2023 Recalibrated\_Singapore-Modified\_Framingham\_Risk\_Score\_SG-FRS-2023\_report.pdf
+
+---
+
 
 ## Management
 
@@ -176,7 +262,6 @@ section_id: management
 parent_rec: null
 title: "Management overview"
 source_pages: [3]
-strength: null
 tables_referenced: []
 figures_referenced: []
 url_links: []
@@ -196,7 +281,6 @@ section_id: management
 parent_rec: null
 title: "BP targets for patients with hypertension"
 source_pages: [2, 3]
-strength: null
 tables_referenced: []
 figures_referenced:
   - Figure 1. Summary of the estimated risk reductions due to BP reduction
@@ -220,7 +304,6 @@ section_id: management
 parent_rec: null
 title: "Figure 1. Summary of the estimated risk reductions due to BP reduction"
 source_pages: [3]
-strength: null
 reconstructed_from: mermaid
 image_dir: grouped_p3_fig_01.jpg
 url_links: []
@@ -254,7 +337,6 @@ section_id: management
 parent_rec: null
 title: "Table 1. Guide to setting BP targets"
 source_pages: [3]
-strength: null
 image_dir: f6aba618e598f45cc59146b4a14393ba43ca6eece5507a02e4bd1358693428ba.jpg
 url_links: []
 cross_refs: []
@@ -278,7 +360,6 @@ section_id: management
 parent_rec: null
 title: "Benefits of lifestyle intervention"
 source_pages: [4]
-strength: null
 tables_referenced: []
 figures_referenced: []
 url_links: []
@@ -305,7 +386,6 @@ section_id: management
 parent_rec: null
 title: "When to initiate pharmacotherapy"
 source_pages: [4, 5]
-strength: null
 tables_referenced:
   - Table S1. Commonly used BP-lowering medication classes registered in Singapore
 figures_referenced:
@@ -335,7 +415,6 @@ section_id: management
 parent_rec: null
 title: "Figure 2. General guide to initiation of pharmacotherapy in patients with elevated BP (see Recommendations 2 to 5)"
 source_pages: [4]
-strength: null
 reconstructed_from: mermaid
 image_dir: grouped_p4_fig_01.jpg
 url_links: []
@@ -392,7 +471,6 @@ section_id: management
 parent_rec: null
 title: "Recommendation 2"
 source_pages: [5]
-strength: strong
 tables_referenced:
   - Table 2. Considerations for choosing a first-line antihypertensive class (adapted from product information leaflets; see Supplementary Table S1 for further details on specific agents)
 figures_referenced: []
@@ -423,7 +501,6 @@ section_id: management
 parent_rec: acg-hypertension_15dec2023.management.recommendation.02
 title: "Table 2. Considerations for choosing a first-line antihypertensive class (adapte"
 source_pages: [5]
-strength: null
 image_dir: 89c9ce5b3755dcb204b5b31a313d0d210579e226e8a96f5062eca57ea842cce8.jpg
 url_links: []
 cross_refs: []
@@ -449,7 +526,6 @@ section_id: management
 parent_rec: null
 title: "Recommendation 3"
 source_pages: [5, 6]
-strength: strong
 tables_referenced:
   - Table 3. Prescribing considerations for cardioselective and non-selective beta blockers
 figures_referenced: []
@@ -477,7 +553,6 @@ section_id: management
 parent_rec: acg-hypertension_15dec2023.management.recommendation.03
 title: "Table 3. Prescribing considerations for cardioselective and non-selective beta b"
 source_pages: [6]
-strength: null
 image_dir: e418a74c972616c54ac0d7687fcaedc03004002518cdfb3d0888432b231f595f.jpg
 url_links: []
 cross_refs: []
@@ -498,7 +573,6 @@ section_id: management
 parent_rec: null
 title: "Recommendation 4"
 source_pages: [6]
-strength: conditional
 tables_referenced:
   - Table 2. Considerations for choosing a first-line antihypertensive class (adapted from product information leaflets; see Supplementary Table S1 for further details on specific agents)
   - Table 4. Common antihypertensive combinations to consider avoiding due to their associated risks
@@ -534,7 +608,6 @@ section_id: management
 parent_rec: acg-hypertension_15dec2023.management.recommendation.04
 title: "Table 4. Common antihypertensive combinations to consider avoiding due to their "
 source_pages: [6]
-strength: null
 image_dir: 6d6804d628714070da37a50968d41595a793ea8292ef00c64d413e3b7c741ffd.jpg
 url_links: []
 cross_refs: []
@@ -555,7 +628,6 @@ section_id: management
 parent_rec: null
 title: "Recommendation 5"
 source_pages: [7, 8]
-strength: strong
 tables_referenced: []
 figures_referenced: []
 url_links: []
@@ -642,7 +714,6 @@ section_id: monitoring_and_follow_up
 parent_rec: null
 title: "Recommendation 6"
 source_pages: [8, 9]
-strength: strong
 tables_referenced:
   - Table 5. Corresponding values of clinic versus non-clinic BP readings (mmHg).
 figures_referenced: []
@@ -706,7 +777,6 @@ section_id: monitoring_and_follow_up
 parent_rec: acg-hypertension_15dec2023.monitoring_and_follow_up.recommendation.06
 title: "Table 5. Corresponding values of clinic versus non-clinic BP readings (mmHg)."
 source_pages: [9]
-strength: null
 image_dir: d029de439c2f4865110301652cf4b0e80f67ebc8d9d398f627420565b92640a6.jpg
 url_links: []
 cross_refs: []
@@ -734,7 +804,6 @@ section_id: supplementary
 parent_rec: null
 title: "Table S1. Commonly used BP-lowering medication classes registered in Singapore"
 source_pages: [10, 11]
-strength: null
 image_dir: 31358e4e413c1b0eb72a409e8ba7932fd4071dac1f01e7bfc300f3dc5af6caec.jpg
 url_links: []
 cross_refs: []
@@ -774,7 +843,6 @@ section_id: supplementary
 parent_rec: null
 title: "Table S2. List of single-pill combinations registered in Singapore"
 source_pages: [11]
-strength: null
 image_dir: 7b2adfcd151dea59c6d3db1cae4bda96b73153f69608c6704e47e7e125f93851.jpg
 url_links: []
 cross_refs: []
@@ -803,7 +871,6 @@ section_id: references
 parent_rec: null
 title: "References"
 source_pages: [12]
-strength: null
 tables_referenced: []
 figures_referenced: []
 url_links:

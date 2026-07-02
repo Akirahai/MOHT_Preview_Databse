@@ -12,7 +12,6 @@ section_id: overview
 parent_rec: null
 title: "Definitions and scope of application"
 source_pages: [1]
-strength: null
 tables_referenced: []
 figures_referenced: []
 url_links: []
@@ -60,7 +59,6 @@ section_id: ensuring_long_term_management
 parent_rec: null
 title: "Ensuring long-term management overview"
 source_pages: [2]
-strength: null
 tables_referenced: []
 figures_referenced:
   - Figure 1 on page 3 provides an overview of long-term management of gout.
@@ -94,7 +92,6 @@ section_id: ensuring_long_term_management
 parent_rec: null
 title: "Figure 1 on page 3 provides an overview of long-term management of gout."
 source_pages: [2]
-strength: null
 reconstructed_from: table
 image_dir: grouped_p2_fig_01.jpg
 url_links: []
@@ -120,7 +117,6 @@ section_id: ensuring_long_term_management
 parent_rec: null
 title: "Lifestyle management"
 source_pages: [3]
-strength: null
 tables_referenced: []
 figures_referenced: []
 url_links: []
@@ -140,7 +136,6 @@ section_id: ensuring_long_term_management
 parent_rec: null
 title: "ULT"
 source_pages: [3]
-strength: null
 tables_referenced: []
 figures_referenced: []
 url_links: []
@@ -171,7 +166,6 @@ section_id: ensuring_long_term_management
 parent_rec: null
 title: "Management of comorbidities"
 source_pages: [3]
-strength: null
 tables_referenced: []
 figures_referenced: []
 url_links: []
@@ -203,7 +197,6 @@ section_id: ensuring_long_term_management
 parent_rec: null
 title: "Specialist referral"
 source_pages: [3]
-strength: null
 tables_referenced: []
 figures_referenced: []
 url_links: []
@@ -234,7 +227,6 @@ section_id: ensuring_long_term_management
 parent_rec: null
 title: "Patient education"
 source_pages: [3]
-strength: null
 tables_referenced: []
 figures_referenced: []
 url_links: []
@@ -271,7 +263,6 @@ section_id: management_of_acute_flares
 parent_rec: null
 title: "Management of acute flares overview"
 source_pages: [3]
-strength: null
 tables_referenced: []
 figures_referenced: []
 url_links: []
@@ -296,7 +287,6 @@ section_id: management_of_acute_flares
 parent_rec: null
 title: "Using ULT to achieve the management goal"
 source_pages: [4]
-strength: null
 tables_referenced: []
 figures_referenced: []
 url_links: []
@@ -316,7 +306,6 @@ section_id: management_of_acute_flares
 parent_rec: null
 title: "Recommendation 1"
 source_pages: [4, 5]
-strength: strong
 tables_referenced:
   - Table 1. ULT treatment criteria
   - Table 2. Key clinical precautions with ULT*
@@ -377,7 +366,6 @@ section_id: management_of_acute_flares
 parent_rec: gout-achieving-the-management-goal-dec2023.management_of_acute_flares.recommendation.01
 title: "Table 2. Key clinical precautions with ULT*"
 source_pages: [5]
-strength: null
 image_dir: 24a0b828e428c26a5f1c88465f40d871899dbba02631542b7ccf98ebb5bd75e6.jpg
 url_links: []
 cross_refs: []
@@ -404,7 +392,6 @@ section_id: management_of_acute_flares
 parent_rec: null
 title: "Recommendation 2"
 source_pages: [5]
-strength: strong
 tables_referenced: []
 figures_referenced: []
 url_links: []
@@ -448,7 +435,6 @@ section_id: management_of_acute_flares
 parent_rec: null
 title: "Recommendation 3"
 source_pages: [6]
-strength: strong
 tables_referenced: []
 figures_referenced: []
 url_links:
@@ -519,7 +505,6 @@ section_id: management_of_acute_flares
 parent_rec: null
 title: "Recommendation 4"
 source_pages: [7, 8, 9]
-strength: strong
 tables_referenced: []
 figures_referenced: []
 url_links: []
@@ -673,7 +658,6 @@ section_id: references
 parent_rec: null
 title: "References"
 source_pages: [10]
-strength: null
 tables_referenced: []
 figures_referenced: []
 url_links:

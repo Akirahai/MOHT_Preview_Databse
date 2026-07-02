@@ -12,7 +12,6 @@ section_id: overview
 parent_rec: null
 title: "Definitions and scope of application"
 source_pages: [1]
-strength: null
 tables_referenced: []
 figures_referenced: []
 url_links: []
@@ -63,7 +62,6 @@ section_id: treatment_initiation
 parent_rec: null
 title: "Recommendation 1"
 source_pages: [2]
-strength: strong
 tables_referenced:
   - Table 1. Characteristics of anticoagulants registered in Singapore (adapted from local product information leaflets)
 figures_referenced:
@@ -110,7 +108,6 @@ section_id: treatment_initiation
 parent_rec: null
 title: "Recommendation 2"
 source_pages: [2, 4]
-strength: strong
 tables_referenced:
   - Table 1. Characteristics of anticoagulants registered in Singapore (adapted from local product information leaflets)
 figures_referenced:
@@ -158,7 +155,6 @@ section_id: treatment_initiation
 parent_rec: vte---treating-with-the-appropriate-anticoagulant-and-duration-(may-2024).treatment_initiation.recommendation.02
 title: "Figure 1. Selecting an appropriate anticoagulant and duration for VTE treatment"
 source_pages: [3]
-strength: null
 reconstructed_from: summary
 image_dir: grouped_p3_fig_01.jpg
 url_links: []
@@ -182,7 +178,6 @@ section_id: duration_of_treatment
 parent_rec: null
 title: "Duration of treatment overview"
 source_pages: [4]
-strength: null
 tables_referenced: []
 figures_referenced:
   - Figure 2. Risk of VTE recurrence
@@ -207,7 +202,6 @@ section_id: duration_of_treatment
 parent_rec: null
 title: "Figure 2. Risk of VTE recurrence"
 source_pages: [4]
-strength: null
 reconstructed_from: mermaid
 image_dir: grouped_p4_fig_01.jpg
 url_links: []
@@ -241,7 +235,6 @@ section_id: duration_of_treatment
 parent_rec: null
 title: "Frequency of review for patients on extended treatment"
 source_pages: [5]
-strength: null
 tables_referenced: []
 figures_referenced: []
 url_links: []
@@ -263,7 +256,6 @@ section_id: duration_of_treatment
 parent_rec: null
 title: "Check for:"
 source_pages: [5]
-strength: null
 tables_referenced: []
 figures_referenced: []
 url_links: []
@@ -291,7 +283,6 @@ section_id: duration_of_treatment
 parent_rec: null
 title: "Recommendation 3"
 source_pages: [5, 6, 7]
-strength: strong
 tables_referenced: []
 figures_referenced: []
 url_links: []
@@ -377,7 +368,6 @@ section_id: duration_of_treatment
 parent_rec: vte---treating-with-the-appropriate-anticoagulant-and-duration-(may-2024).duration_of_treatment.recommendation.03
 title: "Table 1. Characteristics of anticoagulants registered in Singapore (adapted from"
 source_pages: [6]
-strength: null
 image_dir: 3cf9c170cfae11a0f130ba03225274f9ada99ac1913266e4e751fc9fbeaf24c4.jpg
 url_links: []
 cross_refs: []
@@ -404,7 +394,6 @@ section_id: references
 parent_rec: null
 title: "References"
 source_pages: [8]
-strength: null
 tables_referenced: []
 figures_referenced: []
 url_links:
